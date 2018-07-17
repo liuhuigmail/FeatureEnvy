@@ -1,0 +1,3 @@
+* * * accept image * * * image event * * * image saver 
+* * * accept image * * * image event * * * bean visual 
+* * * accept image * * * image event * * * * environment 

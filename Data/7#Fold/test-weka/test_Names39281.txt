@@ -1,0 +1,4 @@
+* * * apply settings * attribute summarizer interactive view * * * * settings 
+* * * apply settings * attribute summarizer interactive view * * result history panel 
+* * * apply settings * attribute summarizer interactive view * * attribute summary perspective 
+* * * apply settings * attribute summarizer interactive view * * * * instances 

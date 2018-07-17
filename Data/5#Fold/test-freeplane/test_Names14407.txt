@@ -1,0 +1,2 @@
+* * update note style * * user properties updater * * node style controller 
+* * update note style * * user properties updater * * * map model 

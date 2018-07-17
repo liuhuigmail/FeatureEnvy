@@ -1,0 +1,3 @@
+* * * to object * * * * name * * * call stack 
+* * * to object * * * * name * * * * interpreter 
+* * * to object * * * * name * * * name space 

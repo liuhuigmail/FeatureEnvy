@@ -1,0 +1,5 @@
+* * fire node inserted * * * node model * * * extension container 
+* * fire node inserted * * * node model * * * filter info 
+* * fire node inserted * * * node model * * history information model 
+* * fire node inserted * * * node model * node icon set model 
+* * fire node inserted * * * node model * * * map model 

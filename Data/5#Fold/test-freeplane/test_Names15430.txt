@@ -1,0 +1,5 @@
+add to or change in * * map view controller * * * map view 
+add to or change in * * map view controller map view change observer compound 
+add to or change in * * map view controller * * * * controller 
+add to or change in * * map view controller * * zoom in action 
+add to or change in * * map view controller * * zoom out action 

@@ -1,0 +1,10 @@
+* * * reevaluate model * * * classifier panel * * * * instances 
+* * * reevaluate model * * * classifier panel * * * * explorer 
+* * * reevaluate model * * * classifier panel * * generic object editor 
+* * * reevaluate model * * * classifier panel * * * property panel 
+* * * reevaluate model * * * classifier panel * * * save buffer 
+* * * reevaluate model * * * classifier panel * * result history panel 
+* * * reevaluate model * * * classifier panel * * * * range 
+* * * reevaluate model * * * classifier panel * * * property dialog 
+* * * reevaluate model * * * classifier panel * * cost matrix editor 
+* * * reevaluate model * * * classifier panel * * * visualize panel 

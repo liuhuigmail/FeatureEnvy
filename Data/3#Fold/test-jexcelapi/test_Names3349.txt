@@ -1,0 +1,10 @@
+* * * get width * * * * drawing * * * length unit 
+* * * get width * * * * drawing * * * * logger 
+* * * get width * * * * drawing * * * escher container 
+* * * get width * * * * drawing * * mso drawing record 
+* * * get width * * * * drawing * * * obj record 
+* * * get width * * * * drawing * * * * origin 
+* * * get width * * * * drawing * * * drawing group 
+* * * get width * * * * drawing * * * drawing data 
+* * * get width * * * * drawing * * * shape type 
+* * * get width * * * * drawing * p n g reader 

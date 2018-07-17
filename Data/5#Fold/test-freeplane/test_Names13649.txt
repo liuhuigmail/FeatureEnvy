@@ -1,0 +1,2 @@
+* * * get property * * * map model * * * map style 
+* * * get property * * * map style * * * map model 

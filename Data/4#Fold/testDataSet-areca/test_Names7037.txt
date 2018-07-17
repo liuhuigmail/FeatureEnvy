@@ -1,0 +1,3 @@
+* * get resource key * * * indicators composite * * * * indicator 
+* * get resource key * * * indicators composite * * * resource manager 
+* * get resource key * * * indicators composite * * * * application 

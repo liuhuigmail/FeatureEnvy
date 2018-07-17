@@ -1,0 +1,1 @@
+* * * add bean * * * skel panel * * skel prop editor 

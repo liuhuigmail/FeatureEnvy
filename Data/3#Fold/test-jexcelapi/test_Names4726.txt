@@ -1,0 +1,15 @@
+* * * remove drawing * * writable sheet impl * * * cell view 
+* * * remove drawing * * writable sheet impl * * * * logger 
+* * * remove drawing * * writable sheet impl * * * * file 
+* * * remove drawing * * writable sheet impl * * * formatting records 
+* * * remove drawing * * writable sheet impl * * * shared strings 
+* * * remove drawing * * writable sheet impl * * * merged cells 
+* * * remove drawing * * writable sheet impl * p l s record 
+* * * remove drawing * * writable sheet impl * button property set record 
+* * * remove drawing * * writable sheet impl * * * data validation 
+* * * remove drawing * * writable sheet impl * * * auto filter 
+* * * remove drawing * * writable sheet impl * * * combo box 
+* * * remove drawing * * writable sheet impl * * * sheet settings 
+* * * remove drawing * * writable sheet impl * * * sheet writer 
+* * * remove drawing * * writable sheet impl * * * workbook settings 
+* * * remove drawing * * writable sheet impl * * writable workbook impl 

@@ -1,0 +1,1 @@
+* * create plugin menu * * browser commands menu * v f s browser 

@@ -1,0 +1,7 @@
+* * add standard conditions * * * filter controller * * a selectable condition 
+* * add standard conditions * * * filter controller * * * condition factory 
+* * add standard conditions * * * filter controller * * default condition renderer 
+* * add standard conditions * * * filter controller * * filter menu builder 
+* * add standard conditions * * * filter controller * * * filter history 
+* * add standard conditions * * * filter controller * * * * filter 
+* * add standard conditions * * * filter controller * * filter condition editor 

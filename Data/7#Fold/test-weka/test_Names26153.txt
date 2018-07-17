@@ -1,0 +1,4 @@
+* * * build tree * * * * instances * l m t node 
+* * * build tree * * * * instances * * * model selection 
+* * * build tree * * * * instances * * nominal to binary 
+* * * build tree * * * * instances * * classifier split model 

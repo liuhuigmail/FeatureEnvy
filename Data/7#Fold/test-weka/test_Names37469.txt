@@ -1,0 +1,1 @@
+* * * set visual * * * abstract evaluator * * * bean visual 

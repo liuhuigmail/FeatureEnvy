@@ -1,0 +1,3 @@
+* * * buffer loaded * * j edit buffer * * * buffer handler 
+* * * buffer loaded * * j edit buffer * * * display manager 
+* * * buffer loaded * * j edit buffer * * * text area 

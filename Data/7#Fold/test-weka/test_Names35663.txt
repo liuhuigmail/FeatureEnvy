@@ -1,0 +1,5 @@
+* * show knowledge flow g u i chooser app * * * * settings 
+* * show knowledge flow g u i chooser app * * knowledge flow app 
+* * show knowledge flow g u i chooser app * simple c l i 
+* * show knowledge flow g u i chooser app * * * log window 
+* * show knowledge flow g u i chooser app * * * * memory 

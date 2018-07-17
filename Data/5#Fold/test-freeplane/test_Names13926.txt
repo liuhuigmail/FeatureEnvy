@@ -1,0 +1,3 @@
+* * set node text * * m text controller * * * node model 
+* * set node text * * m text controller * * edit node base 
+* * set node text * * m text controller * * * event buffer 

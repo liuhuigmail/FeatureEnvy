@@ -1,0 +1,5 @@
+* * fire map changed * * * map controller * * map change event 
+* * fire map changed * * * map controller * * * map reader 
+* * fire map changed * * * map controller * * * map writer 
+* * fire map changed * * * map controller * * * read manager 
+* * fire map changed * * * map controller * * * write manager 

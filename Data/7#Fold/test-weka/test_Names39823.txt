@@ -1,0 +1,4 @@
+* * * set instances * * * visualize panel * * * * instances 
+* * * set instances * * * visualize panel * * * attribute panel 
+* * * set instances * * * visualize panel * * * legend panel 
+* * * set instances * * * visualize panel * * * class panel 

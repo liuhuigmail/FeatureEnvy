@@ -1,0 +1,1 @@
+set main k f perspective s q l viewer perspective * * * sql viewer 

@@ -1,0 +1,1 @@
+* get root pane container * * applet view controller * * * freeplane applet 

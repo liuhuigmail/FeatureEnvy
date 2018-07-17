@@ -1,0 +1,2 @@
+* * get type descriptor * b s h type * * * call stack 
+* * get type descriptor * b s h type * * * * interpreter 

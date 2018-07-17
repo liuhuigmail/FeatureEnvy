@@ -1,0 +1,2 @@
+* * * set instances * * plot 2 d * * * * instances 
+* * * set instances * * plot 2 d * plot data 2 d 

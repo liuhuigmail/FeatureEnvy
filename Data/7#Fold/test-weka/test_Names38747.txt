@@ -1,0 +1,8 @@
+* * * remove class * * * clusterer panel * * * * instances 
+* * * remove class * * * clusterer panel * * * * explorer 
+* * * remove class * * * clusterer panel * * generic object editor 
+* * * remove class * * * clusterer panel * * * property panel 
+* * * remove class * * * clusterer panel * * * save buffer 
+* * * remove class * * * clusterer panel * * result history panel 
+* * * remove class * * * clusterer panel * * * visualize panel 
+* * * remove class * * * clusterer panel * * instances summary panel 

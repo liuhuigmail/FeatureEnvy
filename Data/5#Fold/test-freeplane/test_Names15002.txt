@@ -1,0 +1,5 @@
+* * on node select * * * node history * * * node model 
+* * on node select * * * node history * * * back action 
+* * on node select * * * node history * * * * controller 
+* * on node select * * * node history * * * node holder 
+* * on node select * * * node history * * * forward action 

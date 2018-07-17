@@ -1,0 +1,1 @@
+* * get style cloud * * * map model * * * cloud controller 

@@ -1,0 +1,4 @@
+* * handle plugin update * * * plugin manager * * * plugin update 
+* * handle plugin update * * * plugin manager * * * install panel 
+* * handle plugin update * * * plugin manager * * * manage panel 
+* * handle plugin update * * * plugin manager * * * plugin list 

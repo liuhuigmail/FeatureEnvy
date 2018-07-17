@@ -1,0 +1,2 @@
+* * * class prob n b tree no split * * naive bayes updateable 
+* * * class prob n b tree no split * * * * discretize 

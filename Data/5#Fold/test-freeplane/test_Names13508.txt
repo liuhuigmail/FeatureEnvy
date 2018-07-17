@@ -1,0 +1,1 @@
+* set spell check options * * spell checker controller * * * resource controller 

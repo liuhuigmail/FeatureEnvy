@@ -1,0 +1,4 @@
+* * * map changed * * map change event * * * map view 
+* * * map changed * * map change event * * * node view 
+* * * map changed * * map change event * * * mode controller 
+* * * map changed * * map change event * * * map model 

@@ -1,0 +1,2 @@
+* * * calculate value * * * date record * * * * logger 
+* * * calculate value * * * date record * * writable cell format 

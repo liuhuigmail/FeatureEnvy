@@ -1,0 +1,4 @@
+* * add child view * * * node view * * * node model 
+* * add child view * * * node view * * * attribute view 
+* * add child view * * * node view * * * main view 
+* * add child view * * * node view * * * map view 

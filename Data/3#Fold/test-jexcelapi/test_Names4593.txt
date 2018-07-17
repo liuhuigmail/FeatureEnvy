@@ -1,0 +1,14 @@
+* set p l s * * * sheet writer * p l s record 
+* set p l s * * * sheet writer * * * * logger 
+* set p l s * * * sheet writer * * * * file 
+* set p l s * * * sheet writer * * * header record 
+* set p l s * * * sheet writer * * * footer record 
+* set p l s * * * sheet writer * * * sheet settings 
+* set p l s * * * sheet writer * * * workbook settings 
+* set p l s * * * sheet writer * * * auto filter 
+* set p l s * * * sheet writer * * * data validation 
+* set p l s * * * sheet writer * * * merged cells 
+* set p l s * * * sheet writer * button property set record 
+* set p l s * * * sheet writer * * workspace information record 
+* set p l s * * * sheet writer * * sheet drawing writer 
+* set p l s * * * sheet writer * * writable sheet impl 

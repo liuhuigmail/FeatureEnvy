@@ -1,0 +1,10 @@
+* * * set log * * * preprocess panel * * instances summary panel 
+* * * set log * * * preprocess panel * * attribute selection panel 
+* * * set log * * * preprocess panel * * attribute summary panel 
+* * * set log * * * preprocess panel * * generic object editor 
+* * * set log * * * preprocess panel * * * property panel 
+* * * set log * * * preprocess panel * * converter file chooser 
+* * * set log * * * preprocess panel * * * * instances 
+* * * set log * * * preprocess panel * * * data generator 
+* * * set log * * * preprocess panel * * attribute visualization panel 
+* * * set log * * * preprocess panel * * * * explorer 

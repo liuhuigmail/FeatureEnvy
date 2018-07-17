@@ -1,0 +1,4 @@
+* * * remove extensions * * * mode controller * * * node model 
+* * * remove extensions * * * mode controller * * * extension container 
+* * * remove extensions * * * mode controller * * * map controller 
+* * * remove extensions * * * mode controller * * * * controller 

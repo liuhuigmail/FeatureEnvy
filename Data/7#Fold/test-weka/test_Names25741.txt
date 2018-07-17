@@ -1,0 +1,4 @@
+* set leaf prediction strategy * * * hoeffding tree * * * selected tag 
+* set leaf prediction strategy * * * hoeffding tree * * * * instances 
+* set leaf prediction strategy * * * hoeffding tree * * * h node 
+* set leaf prediction strategy * * * hoeffding tree * * * split metric 

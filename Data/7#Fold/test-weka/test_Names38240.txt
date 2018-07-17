@@ -1,0 +1,2 @@
+* * add configuration listener * * * * associator * * * bean visual 
+* * add configuration listener * * * * associator * * * * environment 

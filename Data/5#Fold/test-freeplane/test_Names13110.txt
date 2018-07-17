@@ -1,0 +1,3 @@
+add i node view life * * * extension container * * * mode controller 
+add i node view life * * * extension container * * * map controller 
+add i node view life * * * extension container * * * * controller 

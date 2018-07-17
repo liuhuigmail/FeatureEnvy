@@ -1,0 +1,4 @@
+* * set modified listener * * * classifier customizer * * * * classifier 
+* * set modified listener * * * classifier customizer * * property sheet panel 
+* * set modified listener * * * classifier customizer * * file environment field 
+* * set modified listener * * * classifier customizer * * * * environment 

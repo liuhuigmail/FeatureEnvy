@@ -1,0 +1,2 @@
+* * * set instances s q l viewer perspective * * * * instances 
+* * * set instances s q l viewer perspective * * * sql viewer 

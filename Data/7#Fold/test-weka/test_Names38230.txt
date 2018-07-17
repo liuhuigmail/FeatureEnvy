@@ -1,0 +1,3 @@
+* * * build associations * * * * instances * * * * associator 
+* * * build associations * * * * instances * * * bean visual 
+* * * build associations * * * * instances * * * * environment 

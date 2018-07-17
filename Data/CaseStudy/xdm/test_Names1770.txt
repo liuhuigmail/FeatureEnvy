@@ -1,0 +1,5 @@
+* * * donwload complete * * * connection manager * * * * connection 
+* * * donwload complete * * * connection manager * x d m config 
+* * * donwload complete * * * connection manager * * * helper connection 
+* * * donwload complete * * * connection manager m i m e util 
+* * * donwload complete * * * connection manager * * * * credential 

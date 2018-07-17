@@ -1,0 +1,5 @@
+* * * node changed * * * node view * * node change event 
+* * * node changed * * * node view * * * attribute view 
+* * * node changed * * * node view * * * main view 
+* * * node changed * * * node view * * * map view 
+* * * node changed * * * node view * * * node model 

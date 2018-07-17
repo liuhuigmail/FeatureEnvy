@@ -1,0 +1,2 @@
+* * add searchresult item * * target search result * * search result item 
+* * add searchresult item * * target search result * * * abstract target 

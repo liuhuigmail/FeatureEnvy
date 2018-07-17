@@ -1,0 +1,5 @@
+* * fire node deleted * * * node model * * * map controller 
+* * fire node deleted * * * node model * * * map reader 
+* * fire node deleted * * * node model * * * map writer 
+* * fire node deleted * * * node model * * * read manager 
+* * fire node deleted * * * node model * * * write manager 

@@ -1,0 +1,2 @@
+* * * set visual instance stream to batch maker * * * bean visual 
+* * * set visual instance stream to batch maker * * * * instances 

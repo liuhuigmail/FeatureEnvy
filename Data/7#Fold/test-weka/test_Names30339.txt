@@ -1,0 +1,3 @@
+* * get x coordinates * r o c graph * * * x coordinates 
+* * get x coordinates * r o c graph * * * y coordinates 
+* * get x coordinates * r o c graph * * * boundary values 

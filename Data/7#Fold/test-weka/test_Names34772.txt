@@ -1,0 +1,2 @@
+* * * global info * * change date format * * * single index 
+* * * global info * * change date format * * * * attribute 

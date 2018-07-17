@@ -1,0 +1,2 @@
+* * * set log instance stream to batch maker * * * bean visual 
+* * * set log instance stream to batch maker * * * * instances 

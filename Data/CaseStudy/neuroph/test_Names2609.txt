@@ -1,0 +1,4 @@
+* * remove input connection * * * * neuron * * * * connection 
+* * remove input connection * * * * neuron * * * * layer 
+* * remove input connection * * * * neuron * * * input function 
+* * remove input connection * * * * neuron * * * transfer function 

@@ -1,0 +1,1 @@
+* * * global info * * * ball splitter * * top down constructor 

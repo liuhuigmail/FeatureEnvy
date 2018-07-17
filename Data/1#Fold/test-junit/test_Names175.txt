@@ -1,0 +1,1 @@
+* * * print errors * * * test result * * * result printer 

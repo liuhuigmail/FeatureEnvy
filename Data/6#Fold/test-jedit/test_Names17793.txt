@@ -1,0 +1,1 @@
+* * get type node b s h typed variable * * * * modifiers 

@@ -1,0 +1,2 @@
+* * * initialize classifier * * * logit boost * * * * instances 
+* * * initialize classifier * * * logit boost * * * * attribute 

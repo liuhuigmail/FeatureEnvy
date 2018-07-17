@@ -1,0 +1,2 @@
+* * assign class value * * class value picker * * * * instances 
+* * assign class value * * class value picker * * * bean visual 

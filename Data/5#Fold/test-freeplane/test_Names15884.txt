@@ -1,0 +1,1 @@
+* * are attributes visible extended attribute table model decorator * * * attribute view 

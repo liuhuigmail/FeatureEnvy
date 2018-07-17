@@ -1,0 +1,8 @@
+* * create edit pane * * * * view * * * * buffer 
+* * create edit pane * * * * view * * dockable window manager 
+* * create edit pane * * * * view * * tool bar manager 
+* * create edit pane * * * * view * * * search bar 
+* * create edit pane * * * * view * * * action bar 
+* * create edit pane * * * * view * * * edit pane 
+* * create edit pane * * * * view * * * status bar 
+* * create edit pane * * * * view * * * input handler 

@@ -1,0 +1,4 @@
+* add configured document type * * * document type * * * jar bundler 
+* add configured document type * * * document type * * app bundle properties 
+* add configured document type * * * document type * * * jar bundler 
+* add configured document type * * * document type * * app bundle properties 

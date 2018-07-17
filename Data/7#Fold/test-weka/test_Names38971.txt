@@ -1,0 +1,2 @@
+* * set main perspective * * step editor dialog * main k f perspective 
+* * set main perspective * * step editor dialog * * * * environment 

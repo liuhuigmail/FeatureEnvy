@@ -1,0 +1,4 @@
+* * get node view * * * node model * * * map view 
+* * get node view * * * node model * * * node view 
+* * get node view * * * node model * * * mode controller 
+* * get node view * * * node model * * * map model 

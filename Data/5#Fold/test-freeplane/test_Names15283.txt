@@ -1,0 +1,3 @@
+* get node content location * * * map view * * * node view 
+* get node content location * * * map view * * * mode controller 
+* get node content location * * * map view * * * map model 

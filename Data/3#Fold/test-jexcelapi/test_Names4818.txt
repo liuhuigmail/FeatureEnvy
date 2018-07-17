@@ -1,0 +1,12 @@
+* * * column removed * * writable workbook impl * * writable sheet impl 
+* * * column removed * * writable workbook impl * * * * logger 
+* * * column removed * * writable workbook impl * * * formatting records 
+* * * column removed * * writable workbook impl * * * * file 
+* * * column removed * * writable workbook impl * * * * fonts 
+* * * column removed * * writable workbook impl * * external sheet record 
+* * * column removed * * writable workbook impl * * * shared strings 
+* * * column removed * * writable workbook impl * * * workbook settings 
+* * * column removed * * writable workbook impl * * * drawing group 
+* * * column removed * * writable workbook impl * * * * styles 
+* * * column removed * * writable workbook impl * button property set record 
+* * * column removed * * writable workbook impl * * * country record 

@@ -1,0 +1,4 @@
+* * invoke local method * * * * name * * * * interpreter 
+* * invoke local method * * * * name * * * call stack 
+* * invoke local method * * * * name * * * simple node 
+* * invoke local method * * * * name * * * name space 

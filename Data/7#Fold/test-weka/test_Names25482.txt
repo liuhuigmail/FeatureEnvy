@@ -1,0 +1,5 @@
+* * * * weight * * classifier dec list * * entropy split crit 
+* * * * weight * * classifier dec list * * * model selection 
+* * * * weight * * classifier dec list * * classifier split model 
+* * * * weight * * classifier dec list * * * * instances 
+* * * * weight * * classifier dec list * * * * distribution 

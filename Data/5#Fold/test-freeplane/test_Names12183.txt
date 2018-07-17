@@ -1,0 +1,2 @@
+* * * add icon * * * icon registry * * u i icon 
+* * * add icon * * * icon registry * sorted combo box model 

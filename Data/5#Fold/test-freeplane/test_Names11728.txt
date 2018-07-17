@@ -1,0 +1,7 @@
+* * * create filter * * * filter controller * * a selectable condition 
+* * * create filter * * * filter controller * * * condition factory 
+* * * create filter * * * filter controller * * default condition renderer 
+* * * create filter * * * filter controller * * filter menu builder 
+* * * create filter * * * filter controller * * * filter history 
+* * * create filter * * * filter controller * * * * filter 
+* * * create filter * * * filter controller * * filter condition editor 

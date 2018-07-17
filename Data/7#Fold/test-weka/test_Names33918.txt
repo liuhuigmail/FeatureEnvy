@@ -1,0 +1,4 @@
+* * test input format * * * * instances * * * * filter 
+* * test input format * * * * instances * * * * queue 
+* * test input format * * * * instances * * * string locator 
+* * test input format * * * * instances * * * relational locator 

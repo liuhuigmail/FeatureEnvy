@@ -1,0 +1,1 @@
+* * get value editor * * * named object * node text condition controller 

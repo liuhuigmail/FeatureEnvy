@@ -1,0 +1,6 @@
+* * set skeleton property * * j smooth application * * * skeleton property 
+* * set skeleton property * * j smooth application * * j smooth action 
+* * set skeleton property * * j smooth application * * j smooth page 
+* * set skeleton property * * j smooth application * j smooth model bean 
+* * set skeleton property * * j smooth application * * * exe compiler 
+* * set skeleton property * * j smooth application * * * skeleton list 

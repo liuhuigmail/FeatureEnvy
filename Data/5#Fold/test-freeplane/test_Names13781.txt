@@ -1,0 +1,2 @@
+* * * get text * * * text controller * * * node model 
+* * * get text * * * text controller * * * mode controller 

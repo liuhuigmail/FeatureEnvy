@@ -1,0 +1,2 @@
+* * * properties changed * * * status bar * * * * view 
+* * * properties changed * * * status bar * * tool tip label 

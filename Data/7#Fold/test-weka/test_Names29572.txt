@@ -1,0 +1,1 @@
+* * set package manager * * * default package * * * package manager 

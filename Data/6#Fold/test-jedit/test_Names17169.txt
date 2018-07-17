@@ -1,0 +1,2 @@
+* * * * init * * * token marker * * * * mode 
+* * * * init * * * * mode * * * token marker 

@@ -1,0 +1,5 @@
+* fire pre node delete * * * map controller * * * node model 
+* fire pre node delete * * * map controller * * * map reader 
+* fire pre node delete * * * map controller * * * map writer 
+* fire pre node delete * * * map controller * * * read manager 
+* fire pre node delete * * * map controller * * * write manager 

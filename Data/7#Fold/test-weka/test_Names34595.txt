@@ -1,0 +1,3 @@
+* * test input format * * * cluster membership * * * * instances 
+* * test input format * * * cluster membership * * * * range 
+* * test input format * * * cluster membership * * * * filter 

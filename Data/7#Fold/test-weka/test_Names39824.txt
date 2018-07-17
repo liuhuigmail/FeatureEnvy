@@ -1,0 +1,4 @@
+* set up combo boxes * * * visualize panel * * * * instances 
+* set up combo boxes * * * visualize panel * * * attribute panel 
+* set up combo boxes * * * visualize panel * * * legend panel 
+* set up combo boxes * * * visualize panel * * * class panel 

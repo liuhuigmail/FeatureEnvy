@@ -1,0 +1,2 @@
+* * notify instance produced * * * instance joiner * * * instance event 
+* * notify instance produced * * * instance joiner * * * * instances 

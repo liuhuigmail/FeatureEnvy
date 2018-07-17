@@ -1,0 +1,3 @@
+* remove capabilities filter listener * * * * explorer * * * preprocess panel 
+* remove capabilities filter listener * * * * explorer * * * log panel 
+* remove capabilities filter listener * * * * explorer * * * * memory 

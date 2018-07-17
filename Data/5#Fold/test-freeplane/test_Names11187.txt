@@ -1,0 +1,4 @@
+* * add attributes listener * * * attribute registry * * * attribute controller 
+* * add attributes listener * * * attribute registry * * sorted map vector 
+* * add attributes listener * * * attribute registry attribute registry combo box column 
+* * add attributes listener * * * attribute registry * attribute registry table model 

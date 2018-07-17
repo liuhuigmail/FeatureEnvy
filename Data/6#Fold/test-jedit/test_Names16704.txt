@@ -1,0 +1,2 @@
+* * * resolve entity * * service list handler * plugin j a r 
+* * * resolve entity * plugin j a r * * service list handler 

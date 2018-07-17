@@ -1,0 +1,10 @@
+* * capabilities filter changed * * * preprocess panel * * instances summary panel 
+* * capabilities filter changed * * * preprocess panel * * attribute selection panel 
+* * capabilities filter changed * * * preprocess panel * * attribute summary panel 
+* * capabilities filter changed * * * preprocess panel * * generic object editor 
+* * capabilities filter changed * * * preprocess panel * * * property panel 
+* * capabilities filter changed * * * preprocess panel * * converter file chooser 
+* * capabilities filter changed * * * preprocess panel * * * * instances 
+* * capabilities filter changed * * * preprocess panel * * * data generator 
+* * capabilities filter changed * * * preprocess panel * * attribute visualization panel 
+* * capabilities filter changed * * * preprocess panel * * * * explorer 

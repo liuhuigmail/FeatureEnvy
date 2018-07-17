@@ -1,0 +1,8 @@
+* * capabilities filter changed * * * * explorer * * * clusterer panel 
+* * capabilities filter changed * * * * explorer * * generic object editor 
+* * capabilities filter changed * * * * explorer * * * property panel 
+* * capabilities filter changed * * * * explorer * * * save buffer 
+* * capabilities filter changed * * * * explorer * * result history panel 
+* * capabilities filter changed * * * * explorer * * * * instances 
+* * capabilities filter changed * * * * explorer * * * visualize panel 
+* * capabilities filter changed * * * * explorer * * instances summary panel 

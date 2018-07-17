@@ -1,0 +1,7 @@
+* * * * rationalize * * * index mapping * * * * chart 
+* * * * rationalize * * * index mapping * * * * logger 
+* * * * rationalize * * * index mapping * * mso drawing record 
+* * * * rationalize * * * index mapping * * * obj record 
+* * * * rationalize * * * index mapping * * * * file 
+* * * * rationalize * * * index mapping * * * drawing data 
+* * * * rationalize * * * index mapping * * * workbook settings 

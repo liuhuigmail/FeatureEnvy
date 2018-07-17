@@ -1,0 +1,4 @@
+* * column width changed * * * attribute table * column width change event 
+* * column width changed * * * attribute table * attribute table cell renderer 
+* * column width changed * * * attribute table * * * cursor updater 
+* * column width changed * * * attribute table * * * attribute view 

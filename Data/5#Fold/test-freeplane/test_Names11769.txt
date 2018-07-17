@@ -1,0 +1,2 @@
+* get find from text * * * find action * * * node model 
+* get find from text * * * find action * * filter condition editor 

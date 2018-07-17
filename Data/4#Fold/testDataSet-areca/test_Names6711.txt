@@ -1,0 +1,10 @@
+* * * show dialog * * * abstract window * * * * application 
+* * * show dialog * * * abstract window * * * resource manager 
+* * * show dialog * * * abstract window * c tab folder manager 
+* * * show dialog * * * abstract window * * * * workspace 
+* * * show dialog * * * abstract window * * * main window 
+* * * show dialog * * * abstract window * * * trace entry 
+* * * show dialog * * * abstract window * * entry archive data 
+* * * show dialog * * * abstract window * u i recovery filter 
+* * * show dialog * * * abstract window * * * file tool 
+* * * show dialog * * * abstract window * * * simulation result 

@@ -1,0 +1,5 @@
+* * * classify instance * * classifier dec list * * entropy split crit 
+* * * classify instance * * classifier dec list * * * model selection 
+* * * classify instance * * classifier dec list * * classifier split model 
+* * * classify instance * * classifier dec list * * * * instances 
+* * * classify instance * * classifier dec list * * * * distribution 

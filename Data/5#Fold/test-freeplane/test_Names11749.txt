@@ -1,0 +1,7 @@
+* update settings from filter * * * * filter * * * filter controller 
+* update settings from filter * * * * filter * * a selectable condition 
+* update settings from filter * * * * filter * * * condition factory 
+* update settings from filter * * * * filter * * default condition renderer 
+* update settings from filter * * * * filter * * filter menu builder 
+* update settings from filter * * * * filter * * * filter history 
+* update settings from filter * * * * filter * * filter condition editor 

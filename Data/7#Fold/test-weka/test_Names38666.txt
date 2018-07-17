@@ -1,0 +1,10 @@
+* * update radio links * * * classifier panel * * * * explorer 
+* * update radio links * * * classifier panel * * generic object editor 
+* * update radio links * * * classifier panel * * * property panel 
+* * update radio links * * * classifier panel * * * save buffer 
+* * update radio links * * * classifier panel * * result history panel 
+* * update radio links * * * classifier panel * * * * range 
+* * update radio links * * * classifier panel * * * property dialog 
+* * update radio links * * * classifier panel * * cost matrix editor 
+* * update radio links * * * classifier panel * * * * instances 
+* * update radio links * * * classifier panel * * * visualize panel 

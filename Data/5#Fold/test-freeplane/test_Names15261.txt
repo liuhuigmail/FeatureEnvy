@@ -1,0 +1,3 @@
+* * * show notes * * * map view * * * node view 
+* * * show notes * * * map view * * * mode controller 
+* * * show notes * * * map view * * * map model 

@@ -1,0 +1,3 @@
+* * anchor to selected * * * map view * * * node view 
+* * anchor to selected * * * map view * * * mode controller 
+* * anchor to selected * * * map view * * * map model 

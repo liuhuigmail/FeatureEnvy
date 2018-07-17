@@ -1,0 +1,6 @@
+* * * set log * * * associations panel * * * * explorer 
+* * * set log * * * associations panel * * generic object editor 
+* * * set log * * * associations panel * * * property panel 
+* * * set log * * * associations panel * * * save buffer 
+* * * set log * * * associations panel * * result history panel 
+* * * set log * * * associations panel * * * * instances 

@@ -1,0 +1,2 @@
+* * create style map * * * map model * * map style model 
+* * create style map * * * map model * * conditional style model 

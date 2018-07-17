@@ -1,0 +1,1 @@
+* * validate instance methods * * * method validator * * * test class 

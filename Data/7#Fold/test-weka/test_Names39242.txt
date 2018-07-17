@@ -1,0 +1,1 @@
+* set combo to class class assigner step editor dialog * * * * instances 

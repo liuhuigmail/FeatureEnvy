@@ -1,0 +1,2 @@
+* * * * start * * * abstract rule * * * rule context 
+* * * * start * * * abstract rule * * * language version 

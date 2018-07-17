@@ -1,0 +1,8 @@
+* * * * release * * * display manager * * * first line 
+* * * * release * * * display manager * * scroll line count 
+* * * * release * * * display manager * * screen line manager 
+* * * * release * * * display manager * * * range map 
+* * * * release * * * display manager * * j edit buffer 
+* * * * release * * * display manager * * * text area 
+* * * * release * * * display manager * * * buffer handler 
+* * * * release * * * display manager elastic tab stop buffer listener 

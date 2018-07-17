@@ -1,0 +1,2 @@
+* * * show dialog * * youtube grabber dlg * x d m config 
+* * * show dialog * * youtube grabber dlg x d m http client 

@@ -1,0 +1,2 @@
+* * * connect maps * * * convolutional layer * * layer 2 d 
+* * * connect maps * * * convolutional layer * * * neuron properties 

@@ -1,0 +1,5 @@
+* * * get true * * * simple rule * * * simple predicate 
+* * * get true * * * simple rule * * * compound predicate 
+* * * get true * * * simple rule * * simple set predicate 
+* * * get true * * * simple rule * * * * true 
+* * * get true * * * simple rule * * * * false 

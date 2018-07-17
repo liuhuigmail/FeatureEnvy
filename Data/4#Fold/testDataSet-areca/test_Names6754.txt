@@ -1,0 +1,10 @@
+* * enforce selected target * * * * application * * * abstract target 
+* * enforce selected target * * * * application * * * resource manager 
+* * enforce selected target * * * * application * c tab folder manager 
+* * enforce selected target * * * * application * * * * workspace 
+* * enforce selected target * * * * application * * * main window 
+* * enforce selected target * * * * application * * * trace entry 
+* * enforce selected target * * * * application * * entry archive data 
+* * enforce selected target * * * * application * u i recovery filter 
+* * enforce selected target * * * * application * * * file tool 
+* * enforce selected target * * * * application * * * simulation result 

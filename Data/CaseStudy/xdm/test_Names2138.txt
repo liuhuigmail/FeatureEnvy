@@ -1,0 +1,17 @@
+* * * create downloader x d m main window * x d m config 
+* * * create downloader x d m main window x d m video panel 
+* * * create downloader x d m main window * * main table model 
+* * * create downloader x d m main window * * * download list 
+* * * create downloader x d m main window x d m tool bar 
+* * * create downloader x d m main window x d m button u 
+* * * create downloader x d m main window * * * config dialog 
+* * * create downloader x d m main window * * * batch dlg 
+* * * create downloader x d m main window * * batch download dlg 
+* * * create downloader x d m main window * * media table model 
+* * * create downloader x d m main window * * youtube grabber dlg 
+* * * create downloader x d m main window * * browser integration dlg 
+* * * create downloader x d m main window * * * about dialog 
+* * * create downloader x d m main window * * download list item 
+* * * create downloader x d m main window * * * assemble dialog 
+* * * create downloader x d m main window * * * drop box 
+* * * create downloader x d m main window * * * side panel 

@@ -1,0 +1,5 @@
+* * select multiple nodes * * * map controller * * * node model 
+* * select multiple nodes * * * map controller * * * map reader 
+* * select multiple nodes * * * map controller * * * map writer 
+* * select multiple nodes * * * map controller * * * read manager 
+* * select multiple nodes * * * map controller * * * write manager 

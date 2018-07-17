@@ -1,0 +1,9 @@
+* * * set selection * * * text area * * * * selection 
+* * * set selection * * * text area * * * chunk cache 
+* * * set selection * * * text area * * * display manager 
+* * * set selection * * * text area * * * selection manager 
+* * * set selection * * * text area * * * * gutter 
+* * * set selection * * * text area * * text area painter 
+* * * set selection * * * text area * elastic tabstops tab expander 
+* * * set selection * * * text area * * input method support 
+* * * set selection * * * text area * * j edit buffer 

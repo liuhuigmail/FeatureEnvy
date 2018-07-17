@@ -1,0 +1,4 @@
+* * * invoke method * * * * name * * * * interpreter 
+* * * invoke method * * * * name * * * call stack 
+* * * invoke method * * * * name * * * simple node 
+* * * invoke method * * * * name * * * name space 

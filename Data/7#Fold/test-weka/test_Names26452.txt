@@ -1,0 +1,3 @@
+* * * set canopies * * * * canopy * * * * instances 
+* * * set canopies * * * * canopy * * * * filter 
+* * * set canopies * * * * canopy * * * normalizable distance 

@@ -1,0 +1,2 @@
+* * * * run * * j unit core * * * * computer 
+* * * * run * * j unit core * * * run notifier 

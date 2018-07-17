@@ -1,0 +1,2 @@
+* * * left side * * * * instances * * * residual split 
+* * * left side * * * * instances * * * * attribute 

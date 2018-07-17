@@ -1,0 +1,5 @@
+add map view change listener * * map view controller * * * map view 
+add map view change listener * * map view controller map view change observer compound 
+add map view change listener * * map view controller * * * * controller 
+add map view change listener * * map view controller * * zoom in action 
+add map view change listener * * map view controller * * zoom out action 

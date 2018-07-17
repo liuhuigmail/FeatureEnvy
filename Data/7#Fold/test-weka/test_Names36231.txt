@@ -1,0 +1,3 @@
+* * set capabilities filter * * generic object editor * * * * capabilities 
+* * set capabilities filter * * generic object editor * * * property panel 
+* * set capabilities filter * * generic object editor * generic object editor history 

@@ -1,0 +1,1 @@
+* * set short filenames * p m d configuration * p m d task 

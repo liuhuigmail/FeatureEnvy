@@ -1,0 +1,2 @@
+* * * content inserted elastic tab stop buffer listener * * j edit buffer 
+* * * content inserted elastic tab stop buffer listener * * * text area 

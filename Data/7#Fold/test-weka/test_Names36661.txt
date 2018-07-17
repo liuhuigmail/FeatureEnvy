@@ -1,0 +1,3 @@
+* * * accept text * * * text saver * * * text event 
+* * * accept text * * * text saver * * * bean visual 
+* * * accept text * * * text saver * * * * environment 

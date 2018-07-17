@@ -1,0 +1,4 @@
+* * * do popup * * * bean instance * * knowledge flow app 
+* * * do popup * * * bean instance * * attribute selection panel 
+* * * do popup * * * bean instance * * * * environment 
+* * * do popup * * * bean instance * * * * memory 

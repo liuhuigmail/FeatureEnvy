@@ -1,0 +1,2 @@
+* * * determine error * * simulated annealing learning * * * data set 
+* * * determine error * * simulated annealing learning * * * neural network 

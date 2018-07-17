@@ -1,0 +1,4 @@
+* * set is minimized * * * text controller * * * node model 
+* * set is minimized * * * text controller * * * mode controller 
+* * set is minimized * * * node model * * * text controller 
+* * set is minimized * * * node model * * * mode controller 

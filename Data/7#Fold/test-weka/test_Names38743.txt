@@ -1,0 +1,8 @@
+* * * set log * * * clusterer panel * * * * explorer 
+* * * set log * * * clusterer panel * * generic object editor 
+* * * set log * * * clusterer panel * * * property panel 
+* * * set log * * * clusterer panel * * * save buffer 
+* * * set log * * * clusterer panel * * result history panel 
+* * * set log * * * clusterer panel * * * * instances 
+* * * set log * * * clusterer panel * * * visualize panel 
+* * * set log * * * clusterer panel * * instances summary panel 

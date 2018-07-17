@@ -1,0 +1,2 @@
+* * * generate partition * r e p tree * * * * instances 
+* * * generate partition * r e p tree * * * zero r 

@@ -1,0 +1,1 @@
+* * * remove attribute * * m attribute controller * * * node model 

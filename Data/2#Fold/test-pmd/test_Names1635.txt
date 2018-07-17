@@ -1,0 +1,1 @@
+* * get underlying node * * * element node * * * document node 

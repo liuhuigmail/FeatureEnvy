@@ -1,0 +1,3 @@
+* * * right side * * * * instances * c 4 5 split 
+* * * right side * * * * instances * info gain split crit 
+* * * right side * * * * instances * gain ratio split crit 

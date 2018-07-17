@@ -1,0 +1,2 @@
+* * get logical view * * aggregated view context abstract incremental file system medium 
+* * get logical view * * aggregated view context * * entry archive data 

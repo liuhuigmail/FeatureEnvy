@@ -1,0 +1,2 @@
+* * * correctly initialized * * * ball splitter * * * * instances 
+* * * correctly initialized * * * ball splitter * * * euclidean distance 

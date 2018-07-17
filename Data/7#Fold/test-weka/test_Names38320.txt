@@ -1,0 +1,2 @@
+* * add instance listener * * * class assigner * * * * instances 
+* * add instance listener * * * class assigner * * * bean visual 

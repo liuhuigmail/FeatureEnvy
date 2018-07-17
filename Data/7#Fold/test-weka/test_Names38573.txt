@@ -1,0 +1,8 @@
+* * * set experiment * * * setup panel * * * * experiment 
+* * * set experiment * * * setup panel * * setup mode panel 
+* * * set experiment * * * setup panel * * generic object editor 
+* * * set experiment * * * setup panel * * * property panel 
+* * * set experiment * * * setup panel * generator property iterator panel 
+* * * set experiment * * * setup panel * * run number panel 
+* * * set experiment * * * setup panel * * distribute experiment panel 
+* * * set experiment * * * setup panel * * dataset list panel 

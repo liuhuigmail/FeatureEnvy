@@ -1,0 +1,1 @@
+* * set generator option * * * bayes net * * bayes net generator 

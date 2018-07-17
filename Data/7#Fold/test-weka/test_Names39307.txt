@@ -1,0 +1,1 @@
+* * * * init * text viewer interactive view * * result history panel 

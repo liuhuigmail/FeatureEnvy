@@ -1,0 +1,1 @@
+* * handle properties changed * * * log viewer * * * properties changed 

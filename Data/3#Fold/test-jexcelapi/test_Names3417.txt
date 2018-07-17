@@ -1,0 +1,10 @@
+* * write tail records * * * combo box * * * * file 
+* * write tail records * * * combo box * * * * logger 
+* * write tail records * * * combo box * * * escher container 
+* * write tail records * * * combo box * * mso drawing record 
+* * write tail records * * * combo box * * * obj record 
+* * write tail records * * * combo box * * * * origin 
+* * write tail records * * * combo box * * * drawing group 
+* * write tail records * * * combo box * * * drawing data 
+* * write tail records * * * combo box * * * shape type 
+* * write tail records * * * combo box * * * workbook settings 

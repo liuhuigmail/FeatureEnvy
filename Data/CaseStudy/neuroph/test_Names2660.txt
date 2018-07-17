@@ -1,0 +1,1 @@
+* * * randomize weights * * * neural network * * * weights randomizer 

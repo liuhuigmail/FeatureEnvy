@@ -1,0 +1,1 @@
+* * * create viewer * * * external resource * * bitmap viewer factory 

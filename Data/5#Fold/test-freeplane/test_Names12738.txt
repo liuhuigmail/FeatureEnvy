@@ -1,0 +1,5 @@
+* * * set saved * * * map model * * * map controller 
+* * * set saved * * * map model * * * map reader 
+* * * set saved * * * map model * * * map writer 
+* * * set saved * * * map model * * * read manager 
+* * * set saved * * * map model * * * write manager 

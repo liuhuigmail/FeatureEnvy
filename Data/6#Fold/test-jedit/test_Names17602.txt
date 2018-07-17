@@ -1,0 +1,5 @@
+* * * * rename * v f s browser * v f s file 
+* * * * rename * v f s browser * * * action context 
+* * * * rename * v f s browser * * * * view 
+* * * * rename * v f s browser * * history text field 
+* * * * rename * v f s browser * * * browser view 

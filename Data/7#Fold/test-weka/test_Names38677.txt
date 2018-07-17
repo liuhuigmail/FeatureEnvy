@@ -1,0 +1,10 @@
+* * visualize classifier errors * * * classifier panel * * * visualize panel 
+* * visualize classifier errors * * * classifier panel * * * * explorer 
+* * visualize classifier errors * * * classifier panel * * generic object editor 
+* * visualize classifier errors * * * classifier panel * * * property panel 
+* * visualize classifier errors * * * classifier panel * * * save buffer 
+* * visualize classifier errors * * * classifier panel * * result history panel 
+* * visualize classifier errors * * * classifier panel * * * * range 
+* * visualize classifier errors * * * classifier panel * * * property dialog 
+* * visualize classifier errors * * * classifier panel * * cost matrix editor 
+* * visualize classifier errors * * * classifier panel * * * * instances 

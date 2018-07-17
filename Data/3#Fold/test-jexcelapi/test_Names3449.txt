@@ -1,0 +1,12 @@
+* * write tail records * * * check box * * * * file 
+* * write tail records * * * check box * * * * logger 
+* * write tail records * * * check box * * * escher container 
+* * write tail records * * * check box * * mso drawing record 
+* * write tail records * * * check box * * * obj record 
+* * write tail records * * * check box * * * * origin 
+* * write tail records * * * check box * * * drawing group 
+* * write tail records * * * check box * * * drawing data 
+* * write tail records * * * check box * * * shape type 
+* * write tail records * * * check box * * text object record 
+* * write tail records * * * check box * * * continue record 
+* * write tail records * * * check box * * * workbook settings 

@@ -1,0 +1,2 @@
+* * * basic run * * * test result * * * test decorator 
+* * * basic run * * * test decorator * * * test result 

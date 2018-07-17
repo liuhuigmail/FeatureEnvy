@@ -1,0 +1,3 @@
+* * set result listener * * * * instances * explicit testset result producer 
+* * set result listener * * * * instances * * * output zipper 
+* * set result listener * * * * instances * * * * environment 

@@ -1,0 +1,1 @@
+* * * * invoke * * bean shell action * * * * view 

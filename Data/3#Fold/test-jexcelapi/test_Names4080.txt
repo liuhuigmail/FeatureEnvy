@@ -1,0 +1,1 @@
+* * * read blanks * * mul blank record * * * * logger 

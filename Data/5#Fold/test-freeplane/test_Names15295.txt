@@ -1,0 +1,3 @@
+* * get visible left * * * map view * * * node view 
+* * get visible left * * * map view * * * mode controller 
+* * get visible left * * * map view * * * map model 

@@ -1,0 +1,2 @@
+* * * get type * * * * logger * * * label record 
+* * * get type * * * * logger * * * shared strings 

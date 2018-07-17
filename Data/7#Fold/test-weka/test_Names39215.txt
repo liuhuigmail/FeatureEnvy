@@ -1,0 +1,1 @@
+set main k f perspective * * base interactive viewer * main k f perspective 

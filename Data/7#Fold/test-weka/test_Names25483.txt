@@ -1,0 +1,5 @@
+* * * * cleanup * * classifier dec list * * * * instances 
+* * * * cleanup * * classifier dec list * * entropy split crit 
+* * * * cleanup * * classifier dec list * * * model selection 
+* * * * cleanup * * classifier dec list * * classifier split model 
+* * * * cleanup * * classifier dec list * * * * distribution 

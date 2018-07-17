@@ -1,0 +1,2 @@
+* * * set data * node view layout adapter * * * node model 
+* * * set data * node view layout adapter * * * node view 

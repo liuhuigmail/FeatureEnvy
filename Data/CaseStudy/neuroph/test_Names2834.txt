@@ -1,0 +1,2 @@
+* * * remove listener * * * learning rule * * * neural network 
+* * * remove listener * * * learning rule * * * data set 

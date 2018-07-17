@@ -1,0 +1,1 @@
+* set mining schema instances * mining field meta info * * * * instances 

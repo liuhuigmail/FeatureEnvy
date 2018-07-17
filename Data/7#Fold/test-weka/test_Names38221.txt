@@ -1,0 +1,2 @@
+* * * set environment * * * * associator * * * * environment 
+* * * set environment * * * * associator * * * bean visual 

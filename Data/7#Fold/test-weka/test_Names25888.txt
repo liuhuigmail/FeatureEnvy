@@ -1,0 +1,3 @@
+* * * reset distribution * c 4 5 split * * * * instances 
+* * * reset distribution * c 4 5 split * info gain split crit 
+* * * reset distribution * c 4 5 split * gain ratio split crit 

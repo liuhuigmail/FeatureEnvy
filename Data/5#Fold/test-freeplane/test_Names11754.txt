@@ -1,0 +1,8 @@
+* * is node highlighted * * * filter controller * * * node model 
+* * is node highlighted * * * filter controller * * a selectable condition 
+* * is node highlighted * * * filter controller * * * condition factory 
+* * is node highlighted * * * filter controller * * default condition renderer 
+* * is node highlighted * * * filter controller * * filter menu builder 
+* * is node highlighted * * * filter controller * * * filter history 
+* * is node highlighted * * * filter controller * * * * filter 
+* * is node highlighted * * * filter controller * * filter condition editor 

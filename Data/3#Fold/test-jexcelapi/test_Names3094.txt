@@ -1,0 +1,10 @@
+* * * * rationalize * * * index mapping * * x f record 
+* * * * rationalize * * * index mapping * * * * logger 
+* * * * rationalize * * * index mapping * * * * alignment 
+* * * * rationalize * * * index mapping * * * vertical alignment 
+* * * * rationalize * * * index mapping * * * * orientation 
+* * * * rationalize * * * index mapping * * border line style 
+* * * * rationalize * * * index mapping * * * * colour 
+* * * * rationalize * * * index mapping * * * * pattern 
+* * * * rationalize * * * index mapping * * * font record 
+* * * * rationalize * * * index mapping * * * formatting records 

@@ -1,0 +1,2 @@
+* * log rules used * p m d task * * * rule sets 
+* * log rules used * p m d task * p m d configuration 

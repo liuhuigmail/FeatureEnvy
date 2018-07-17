@@ -1,0 +1,2 @@
+* * * set value * * * * variable * * * * modifiers 
+* * * set value * * * * variable * * l h s 

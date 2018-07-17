@@ -1,0 +1,3 @@
+* * distribution for instance * * * hoeffding tree * * * * instances 
+* * distribution for instance * * * hoeffding tree * * * h node 
+* * distribution for instance * * * hoeffding tree * * * split metric 

@@ -1,0 +1,9 @@
+* * update capabilities filter * * * clusterer panel * * * * capabilities 
+* * update capabilities filter * * * clusterer panel * * * * explorer 
+* * update capabilities filter * * * clusterer panel * * generic object editor 
+* * update capabilities filter * * * clusterer panel * * * property panel 
+* * update capabilities filter * * * clusterer panel * * * save buffer 
+* * update capabilities filter * * * clusterer panel * * result history panel 
+* * update capabilities filter * * * clusterer panel * * * * instances 
+* * update capabilities filter * * * clusterer panel * * * visualize panel 
+* * update capabilities filter * * * clusterer panel * * instances summary panel 

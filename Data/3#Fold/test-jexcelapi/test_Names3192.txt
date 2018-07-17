@@ -1,0 +1,7 @@
+* * * * initialize * * * drawing 2 * * * * logger 
+* * * * initialize * * * drawing 2 * * * escher container 
+* * * * initialize * * * drawing 2 * * mso drawing record 
+* * * * initialize * * * drawing 2 * * * * origin 
+* * * * initialize * * * drawing 2 * * * drawing group 
+* * * * initialize * * * drawing 2 * * * drawing data 
+* * * * initialize * * * drawing 2 * * * shape type 

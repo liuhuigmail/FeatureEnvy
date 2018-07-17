@@ -1,0 +1,3 @@
+* get xml note text * * * note controller * * * node model 
+* get xml note text * * * note controller * * u i icon 
+* get xml note text * * * note controller * * * mode controller 

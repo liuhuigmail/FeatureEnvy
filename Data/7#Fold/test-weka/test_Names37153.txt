@@ -1,0 +1,4 @@
+* * * set environment * * knowledge flow app * * * * environment 
+* * * set environment * * knowledge flow app * * * bean instance 
+* * * set environment * * knowledge flow app * * attribute selection panel 
+* * * set environment * * knowledge flow app * * * * memory 

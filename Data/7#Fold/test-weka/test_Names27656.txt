@@ -1,0 +1,1 @@
+* set relational class format * * * test instances * * * * instances 

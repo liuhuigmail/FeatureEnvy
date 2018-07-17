@@ -1,0 +1,3 @@
+* * * paint component * * * text area * * * * gutter 
+* * * paint component * * * text area * * * extension manager 
+* * * paint component * * * text area * * j edit buffer 

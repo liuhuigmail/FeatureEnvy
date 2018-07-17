@@ -1,0 +1,1 @@
+* shall handle transaction point * * conditional transaction handler * * * transaction point 

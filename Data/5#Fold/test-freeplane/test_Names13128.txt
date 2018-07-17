@@ -1,0 +1,3 @@
+remove i node view life * * * mode controller * * * extension container 
+remove i node view life * * * mode controller * * * map controller 
+remove i node view life * * * mode controller * * * * controller 

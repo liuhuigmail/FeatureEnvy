@@ -1,0 +1,1 @@
+* * get text reader encoding with b o m * * * charset encoding 

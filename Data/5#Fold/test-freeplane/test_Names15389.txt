@@ -1,0 +1,2 @@
+* * * place children * node view layout adapter * * * node model 
+* * * place children * node view layout adapter * * * node view 

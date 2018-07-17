@@ -1,0 +1,5 @@
+* remove query execute listener * * * connection panel * * * sql viewer 
+* remove query execute listener * * * connection panel * * * query panel 
+* remove query execute listener * * * connection panel * * * result panel 
+* remove query execute listener * * * connection panel * * * info panel 
+* remove query execute listener * * * connection panel * * * * memory 

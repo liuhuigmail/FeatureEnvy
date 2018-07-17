@@ -1,0 +1,3 @@
+* * * global info * * * image viewer * * result history panel 
+* * * global info * * * image viewer * * * bean visual 
+* * * global info * * * image viewer * * * * environment 

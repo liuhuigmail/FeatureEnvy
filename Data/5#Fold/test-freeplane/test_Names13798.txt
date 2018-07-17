@@ -1,0 +1,4 @@
+* * * toggle shortened * * * text controller * * * node model 
+* * * toggle shortened * * * text controller * * * mode controller 
+* * * toggle shortened * * * text controller * * * node model 
+* * * toggle shortened * * * text controller * * * mode controller 

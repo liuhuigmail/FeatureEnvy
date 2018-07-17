@@ -1,0 +1,1 @@
+* get open bracket count * * j edit buffer * open bracket indent rule 

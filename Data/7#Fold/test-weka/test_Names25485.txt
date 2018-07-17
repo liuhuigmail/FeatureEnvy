@@ -1,0 +1,5 @@
+* get new dec list * * classifier dec list * * * * instances 
+* get new dec list * * classifier dec list * * entropy split crit 
+* get new dec list * * classifier dec list * * * model selection 
+* get new dec list * * classifier dec list * * classifier split model 
+* get new dec list * * classifier dec list * * * * distribution 

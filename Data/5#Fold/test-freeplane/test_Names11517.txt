@@ -1,0 +1,2 @@
+* * register attribute handlers * * * cloud builder * * * read manager 
+* * register attribute handlers * * * cloud builder * * * cloud controller 

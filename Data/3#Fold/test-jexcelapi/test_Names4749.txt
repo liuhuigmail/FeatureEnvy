@@ -1,0 +1,4 @@
+* * initialize copied formula * * * formula record * * * workbook settings 
+* * initialize copied formula * * * formula record * * * * logger 
+* * initialize copied formula * * * formula record * * * formula parser 
+* * initialize copied formula * * * formula record * * * cell value 

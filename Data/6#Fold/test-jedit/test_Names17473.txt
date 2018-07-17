@@ -1,0 +1,3 @@
+* * * * eval * * bean shell facade * * * name space 
+* * * * eval * * bean shell facade * * bsh class manager 
+* * * * eval * * bean shell facade * * * * interpreter 

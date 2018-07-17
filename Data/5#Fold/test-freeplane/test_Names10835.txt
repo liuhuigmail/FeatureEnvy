@@ -1,0 +1,1 @@
+* * * get hour * * j time chooser * * j spin field 

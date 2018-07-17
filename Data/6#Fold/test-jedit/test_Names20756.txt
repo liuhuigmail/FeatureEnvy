@@ -1,0 +1,4 @@
+* * * add extension * * * * gutter * * text area extension 
+* * * add extension * * * * gutter * * * text area 
+* * * add extension * * * * gutter * * * extension manager 
+* * * add extension * * * * gutter * * j edit buffer 

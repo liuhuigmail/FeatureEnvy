@@ -1,0 +1,2 @@
+* write l o c * * zip output stream * * * zip entry 
+* write l o c * * zip output stream * * * serialized collection 

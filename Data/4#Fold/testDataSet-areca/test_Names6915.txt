@@ -1,0 +1,2 @@
+* * fill generic data * * * properties composite * * * resource manager 
+* * fill generic data * * * properties composite * * * * application 

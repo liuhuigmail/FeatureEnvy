@@ -1,0 +1,2 @@
+* * test neural network * concrete strenght test sample * * * neural network 
+* * test neural network * concrete strenght test sample * * * data set 

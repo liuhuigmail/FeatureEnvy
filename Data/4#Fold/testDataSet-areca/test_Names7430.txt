@@ -1,0 +1,4 @@
+* * * write init * * * process context * * * transaction point 
+* * * write init * * * process context * * archive content adapter 
+* * * write init * * * process context * * archive trace adapter 
+* * * write init * * * process context * * transaction point header 

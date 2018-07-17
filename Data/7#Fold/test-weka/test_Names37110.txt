@@ -1,0 +1,5 @@
+* * generate merged instance * * * * join * * * * environment 
+* * generate merged instance * * * * join * * * instance event 
+* * generate merged instance * * * * join * * * * instances 
+* * generate merged instance * * * * join * * * bean visual 
+* * generate merged instance * * * * join * * * stream throughput 

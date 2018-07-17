@@ -1,0 +1,9 @@
+* add bg color control * * style editor panel * * * named object 
+* add bg color control * * style editor panel * * * color property 
+* add bg color control * * style editor panel * * * combo property 
+* add bg color control * * style editor panel * * * number property 
+* add bg color control * * style editor panel * * * boolean property 
+* add bg color control * * style editor panel * * * font property 
+* add bg color control * * style editor panel * editable pattern combo property 
+* add bg color control * * style editor panel * m u i factory 
+* add bg color control * * style editor panel * * * mode controller 

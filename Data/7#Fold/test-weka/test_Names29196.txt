@@ -1,0 +1,2 @@
+* * * nearest neighbour * * * euclidean distance * * * cover tree 
+* * * nearest neighbour * * * euclidean distance * * tree performance stats 

@@ -1,0 +1,5 @@
+* add icons to menu * * m icon controller * * * mode controller 
+* add icons to menu * * m icon controller * * * menu builder 
+* add icons to menu * * m icon controller * * * icon store 
+* add icons to menu * * m icon controller j auto scroll bar pane 
+* add icons to menu * * m icon controller * * * mind icon 

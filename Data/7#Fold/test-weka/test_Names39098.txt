@@ -1,0 +1,2 @@
+* * * * setup * * attribute summary perspective * * * * settings 
+* * * * setup * * attribute summary perspective * * * * instances 

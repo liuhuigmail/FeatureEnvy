@@ -1,0 +1,2 @@
+* * * * update * * * cover tree * * * euclidean distance 
+* * * * update * * * cover tree * * tree performance stats 

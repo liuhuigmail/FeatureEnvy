@@ -1,0 +1,3 @@
+* * notify rules listeners * * * * associator * batch association rules event 
+* * notify rules listeners * * * * associator * * * bean visual 
+* * notify rules listeners * * * * associator * * * * environment 

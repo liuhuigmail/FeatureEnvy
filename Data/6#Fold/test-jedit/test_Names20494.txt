@@ -1,0 +1,1 @@
+* * get prev file * * buffer list set * * * * view 

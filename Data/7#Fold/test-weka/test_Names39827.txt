@@ -1,0 +1,4 @@
+* * * add plot * plot data 2 d * * * visualize panel 
+* * * add plot * plot data 2 d * * * attribute panel 
+* * * add plot * plot data 2 d * * * legend panel 
+* * * add plot * plot data 2 d * * * class panel 

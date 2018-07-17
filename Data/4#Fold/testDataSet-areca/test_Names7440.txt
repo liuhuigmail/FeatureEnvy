@@ -1,0 +1,4 @@
+* * deserialize process context * * * transaction point * * * process context 
+* * deserialize process context * * * transaction point * * archive content adapter 
+* * deserialize process context * * * transaction point * * archive trace adapter 
+* * deserialize process context * * * transaction point * * transaction point header 

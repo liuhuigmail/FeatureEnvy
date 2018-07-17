@@ -1,0 +1,2 @@
+* * update layer weights * * matrix momentum backpropagation * * matrix mlp layer 
+* * update layer weights * * matrix momentum backpropagation * matrix multi layer perceptron 

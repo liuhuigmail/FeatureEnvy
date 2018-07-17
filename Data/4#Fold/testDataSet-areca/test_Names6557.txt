@@ -1,0 +1,2 @@
+* * * create contents * * source edition window * * * resource manager 
+* * * create contents * * source edition window * * file system target 

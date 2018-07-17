@@ -1,0 +1,3 @@
+* * * set log * * * visualize panel * * * attribute panel 
+* * * set log * * * visualize panel * * * legend panel 
+* * * set log * * * visualize panel * * * class panel 

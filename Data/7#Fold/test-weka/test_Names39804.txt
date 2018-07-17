@@ -1,0 +1,4 @@
+* * * apply settings * * * visualize panel * * * * settings 
+* * * apply settings * * * visualize panel * * * attribute panel 
+* * * apply settings * * * visualize panel * * * legend panel 
+* * * apply settings * * * visualize panel * * * class panel 

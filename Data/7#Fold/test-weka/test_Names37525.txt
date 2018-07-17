@@ -1,0 +1,2 @@
+* * * set environment * * * * environment * * substring replacer rules 
+* * * set environment * * * * environment * * * * instances 

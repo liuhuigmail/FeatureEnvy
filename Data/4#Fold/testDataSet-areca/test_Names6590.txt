@@ -1,0 +1,6 @@
+* * enforce selected target * * * main window * * * abstract target 
+* * enforce selected target * * * main window * * target tree composite 
+* * enforce selected target * * * main window * * * properties composite 
+* * enforce selected target * * * main window * * * progress composite 
+* * enforce selected target * * * main window * * logical view composite 
+* * enforce selected target * * * main window * * * search composite 

@@ -1,0 +1,3 @@
+* * * update classifier * * * hoeffding tree * * * * instances 
+* * * update classifier * * * hoeffding tree * * * h node 
+* * * update classifier * * * hoeffding tree * * * split metric 

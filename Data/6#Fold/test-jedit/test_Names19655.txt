@@ -1,0 +1,2 @@
+* can change edit mode * * e b message * * docking layout manager 
+* can change edit mode * * e b message * * * action set 

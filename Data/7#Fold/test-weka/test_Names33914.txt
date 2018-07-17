@@ -1,0 +1,4 @@
+* * init output locators * * * * instances * * * * filter 
+* * init output locators * * * * instances * * * * queue 
+* * init output locators * * * * instances * * * string locator 
+* * init output locators * * * * instances * * * relational locator 

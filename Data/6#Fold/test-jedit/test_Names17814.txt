@@ -1,0 +1,1 @@
+set instance name space parent * * class generator impl * * * name space 

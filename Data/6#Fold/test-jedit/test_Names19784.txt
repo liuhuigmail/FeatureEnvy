@@ -1,0 +1,2 @@
+* * * * init * * dockable window manager * * * * view 
+* * * * init * * dockable window manager * * dockable window factory 

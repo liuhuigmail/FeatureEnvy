@@ -1,0 +1,6 @@
+* * * set instances * * * associations panel * * * * instances 
+* * * set instances * * * associations panel * * * * explorer 
+* * * set instances * * * associations panel * * generic object editor 
+* * * set instances * * * associations panel * * * property panel 
+* * * set instances * * * associations panel * * * save buffer 
+* * * set instances * * * associations panel * * result history panel 

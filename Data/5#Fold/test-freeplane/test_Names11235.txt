@@ -1,0 +1,2 @@
+* * can edit values * * attribute condition controller * * * named object 
+* * can edit values * * attribute condition controller * extended combo box model 

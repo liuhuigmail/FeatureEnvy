@@ -1,0 +1,2 @@
+* * * remove buffer * * buffer set manager * * * edit pane 
+* * * remove buffer * * buffer set manager * * * * buffer 

@@ -1,0 +1,8 @@
+* * write additional records * * * drawing 2 * * * * file 
+* * write additional records * * * drawing 2 * * * * logger 
+* * write additional records * * * drawing 2 * * * escher container 
+* * write additional records * * * drawing 2 * * mso drawing record 
+* * write additional records * * * drawing 2 * * * * origin 
+* * write additional records * * * drawing 2 * * * drawing group 
+* * write additional records * * * drawing 2 * * * drawing data 
+* * write additional records * * * drawing 2 * * * shape type 

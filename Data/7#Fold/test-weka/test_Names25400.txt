@@ -1,0 +1,7 @@
+* * insert into table * * * decision table * * * * filter 
+* * insert into table * * * decision table * * * * remove 
+* * insert into table * * * decision table * * * i bk 
+* * insert into table * * * decision table * * * * instances 
+* * insert into table * * * decision table * * a s search 
+* * insert into table * * * decision table * * a s evaluation 
+* * insert into table * * * decision table * * * * evaluation 

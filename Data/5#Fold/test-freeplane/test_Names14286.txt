@@ -1,0 +1,3 @@
+* * * * destroy * * * freeplane applet * * applet resource controller 
+* * * * destroy * * * freeplane applet * * applet view controller 
+* * * * destroy * * * freeplane applet * * * * controller 

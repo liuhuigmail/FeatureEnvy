@@ -1,0 +1,16 @@
+* * add validation cell * * writable sheet impl * * * cell value 
+* * add validation cell * * writable sheet impl * * * cell view 
+* * add validation cell * * writable sheet impl * * * * logger 
+* * add validation cell * * writable sheet impl * * * * file 
+* * add validation cell * * writable sheet impl * * * formatting records 
+* * add validation cell * * writable sheet impl * * * shared strings 
+* * add validation cell * * writable sheet impl * * * merged cells 
+* * add validation cell * * writable sheet impl * p l s record 
+* * add validation cell * * writable sheet impl * button property set record 
+* * add validation cell * * writable sheet impl * * * data validation 
+* * add validation cell * * writable sheet impl * * * auto filter 
+* * add validation cell * * writable sheet impl * * * combo box 
+* * add validation cell * * writable sheet impl * * * sheet settings 
+* * add validation cell * * writable sheet impl * * * sheet writer 
+* * add validation cell * * writable sheet impl * * * workbook settings 
+* * add validation cell * * writable sheet impl * * writable workbook impl 

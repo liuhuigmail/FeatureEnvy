@@ -1,0 +1,2 @@
+* set euclidean distance function * * * ball splitter * * * euclidean distance 
+* set euclidean distance function * * * ball splitter * * * * instances 

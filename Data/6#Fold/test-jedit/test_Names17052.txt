@@ -1,0 +1,12 @@
+* * handle properties changed * * * edit pane * * * properties changed 
+* * handle properties changed * * * edit pane * * * * view 
+* * handle properties changed * * * edit pane * * * buffer set 
+* * handle properties changed * * * edit pane * * * * buffer 
+* * handle properties changed * * * edit pane * * * buffer switcher 
+* * handle properties changed * * * edit pane * j edit text area 
+* * handle properties changed * * * edit pane * * * properties changed 
+* * handle properties changed * * * edit pane * * * * view 
+* * handle properties changed * * * edit pane * * * buffer set 
+* * handle properties changed * * * edit pane * * * * buffer 
+* * handle properties changed * * * edit pane * * * buffer switcher 
+* * handle properties changed * * * edit pane * j edit text area 

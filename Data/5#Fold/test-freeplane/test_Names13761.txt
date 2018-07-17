@@ -1,0 +1,2 @@
+* * * check node * * node contains condition * * * node model 
+* * * check node * * * node model * * node contains condition 

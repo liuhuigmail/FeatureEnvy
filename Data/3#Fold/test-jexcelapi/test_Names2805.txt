@@ -1,0 +1,2 @@
+* get g c disabled * * * workbook settings * * * * logger 
+* get g c disabled * * * workbook settings * * * function names 

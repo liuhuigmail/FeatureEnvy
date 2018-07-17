@@ -1,0 +1,3 @@
+* * * cluster instance * * simple k means * * replace missing values 
+* * * cluster instance * * simple k means * * * * instances 
+* * * cluster instance * * simple k means * * * * canopy 

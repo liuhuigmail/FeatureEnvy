@@ -1,0 +1,3 @@
+write h t m l mind map h t m * * * node model 
+write h t m l mind map h t m * * * map controller 
+write h t m l mind map h t m * * node style controller 

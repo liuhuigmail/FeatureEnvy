@@ -1,0 +1,2 @@
+* * * invoke action * text area input handler j edit bean shell action 
+* * * invoke action * text area input handler * * * text area 

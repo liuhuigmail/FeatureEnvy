@@ -1,0 +1,1 @@
+* * * get description * * * * colour * * r g b 

@@ -1,0 +1,3 @@
+* * * set variable * * bean shell facade * * * name space 
+* * * set variable * * bean shell facade * * bsh class manager 
+* * * set variable * * bean shell facade * * * * interpreter 

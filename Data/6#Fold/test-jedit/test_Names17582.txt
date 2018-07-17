@@ -1,0 +1,10 @@
+handle v f s update * v f s update * v f s browser 
+handle v f s update * v f s update * * * action context 
+handle v f s update * v f s update * * * * view 
+handle v f s update * v f s update * * history text field 
+handle v f s update * v f s update * * * browser view 
+handle v f s update * v f s browser * v f s update 
+handle v f s update * v f s browser * * * action context 
+handle v f s update * v f s browser * * * * view 
+handle v f s update * v f s browser * * history text field 
+handle v f s update * v f s browser * * * browser view 

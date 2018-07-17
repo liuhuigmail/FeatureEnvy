@@ -1,0 +1,3 @@
+* * * template string * * paired t tester * * * * instances 
+* * * template string * * paired t tester * * * * range 
+* * * template string * * paired t tester * * * result matrix 

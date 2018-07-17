@@ -1,0 +1,16 @@
+* * * remove hyperlink * * writable sheet impl * * * writable hyperlink 
+* * * remove hyperlink * * writable sheet impl * * * cell view 
+* * * remove hyperlink * * writable sheet impl * * * * logger 
+* * * remove hyperlink * * writable sheet impl * * * * file 
+* * * remove hyperlink * * writable sheet impl * * * formatting records 
+* * * remove hyperlink * * writable sheet impl * * * shared strings 
+* * * remove hyperlink * * writable sheet impl * * * merged cells 
+* * * remove hyperlink * * writable sheet impl * p l s record 
+* * * remove hyperlink * * writable sheet impl * button property set record 
+* * * remove hyperlink * * writable sheet impl * * * data validation 
+* * * remove hyperlink * * writable sheet impl * * * auto filter 
+* * * remove hyperlink * * writable sheet impl * * * combo box 
+* * * remove hyperlink * * writable sheet impl * * * sheet settings 
+* * * remove hyperlink * * writable sheet impl * * * sheet writer 
+* * * remove hyperlink * * writable sheet impl * * * workbook settings 
+* * * remove hyperlink * * writable sheet impl * * writable workbook impl 

@@ -1,0 +1,6 @@
+* * set read comment * * base cell features * * * * logger 
+* * set read comment * * base cell features * * * * comment 
+* * set read comment * * base cell features * * * combo box 
+* * set read comment * * base cell features * data validity settings record 
+* * set read comment * * base cell features * * d v parser 
+* * set read comment * * base cell features * * * cell value 

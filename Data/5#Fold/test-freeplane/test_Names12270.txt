@@ -1,0 +1,4 @@
+* * update icon toolbar * * m icon controller * * * mode controller 
+* * update icon toolbar * * m icon controller * * * icon store 
+* * update icon toolbar * * m icon controller j auto scroll bar pane 
+* * update icon toolbar * * m icon controller * * * mind icon 

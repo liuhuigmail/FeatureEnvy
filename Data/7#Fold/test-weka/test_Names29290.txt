@@ -1,0 +1,5 @@
+* assign sub to centers * * k d tree * k d tree node 
+* assign sub to centers * * k d tree * * * * instances 
+* assign sub to centers * * k d tree k d tree node splitter 
+* assign sub to centers * * k d tree * * tree performance stats 
+* assign sub to centers * * k d tree * * * euclidean distance 

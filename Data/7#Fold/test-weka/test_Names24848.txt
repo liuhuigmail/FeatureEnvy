@@ -1,0 +1,2 @@
+* * * predict intervals * * * * discretize * * regression by discretization 
+* * * predict intervals * * * * discretize * * * * instances 

@@ -1,0 +1,2 @@
+* * * on select * * * note manager * * * node model 
+* * * on select * * * note manager * * m note controller 

@@ -1,0 +1,4 @@
+* * viewer model changed * * * main frame * * viewer model event 
+* * viewer model changed * * * main frame * * * viewer model 
+* * viewer model changed * * * main frame * * source code panel 
+* * viewer model changed * * * main frame * * x path panel 

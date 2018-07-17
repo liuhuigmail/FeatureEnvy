@@ -1,0 +1,2 @@
+* get wrapped algorithm class * * * data generator * * * * data 
+* get wrapped algorithm class * * * data generator * * * stream throughput 

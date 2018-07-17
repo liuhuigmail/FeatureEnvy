@@ -1,0 +1,2 @@
+* get values for property * * attribute condition controller * * * named object 
+* get values for property * * attribute condition controller * extended combo box model 

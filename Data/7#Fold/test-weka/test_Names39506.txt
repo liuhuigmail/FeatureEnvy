@@ -1,0 +1,1 @@
+* add result changed listener * * * result panel * * * query panel 

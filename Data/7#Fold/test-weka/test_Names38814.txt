@@ -1,0 +1,11 @@
+* * update capabilities filter * * * preprocess panel * * * * capabilities 
+* * update capabilities filter * * * preprocess panel * * instances summary panel 
+* * update capabilities filter * * * preprocess panel * * attribute selection panel 
+* * update capabilities filter * * * preprocess panel * * attribute summary panel 
+* * update capabilities filter * * * preprocess panel * * generic object editor 
+* * update capabilities filter * * * preprocess panel * * * property panel 
+* * update capabilities filter * * * preprocess panel * * converter file chooser 
+* * update capabilities filter * * * preprocess panel * * * * instances 
+* * update capabilities filter * * * preprocess panel * * * data generator 
+* * update capabilities filter * * * preprocess panel * * attribute visualization panel 
+* * update capabilities filter * * * preprocess panel * * * * explorer 

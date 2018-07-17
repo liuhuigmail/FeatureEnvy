@@ -1,0 +1,2 @@
+* * * insert file * * * * buffer * * * * view 
+* * * insert file * * * * buffer * * * token marker 

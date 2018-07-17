@@ -1,0 +1,2 @@
+* * * title updated * * * scripting panel * * title updated event 
+* * * title updated * * * scripting panel * reader to text pane 

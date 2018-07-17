@@ -1,0 +1,2 @@
+* * * add tab * * * list pane * * * about window 
+* * * add tab * * * list pane * * * resource manager 

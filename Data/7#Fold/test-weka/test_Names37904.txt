@@ -1,0 +1,2 @@
+* * * set log * * * * clusterer * * * bean visual 
+* * * set log * * * * clusterer * * * * instances 

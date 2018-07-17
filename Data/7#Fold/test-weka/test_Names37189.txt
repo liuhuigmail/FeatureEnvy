@@ -1,0 +1,4 @@
+* check for duplicate name * * knowledge flow app * * * bean instance 
+* check for duplicate name * * knowledge flow app * * attribute selection panel 
+* check for duplicate name * * knowledge flow app * * * * environment 
+* check for duplicate name * * knowledge flow app * * * * memory 

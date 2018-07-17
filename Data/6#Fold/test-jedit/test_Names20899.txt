@@ -1,0 +1,3 @@
+* * * reset cursor * * text area painter * * * text area 
+* * * reset cursor * * text area painter * * * anti alias 
+* * * reset cursor * * text area painter * * * extension manager 

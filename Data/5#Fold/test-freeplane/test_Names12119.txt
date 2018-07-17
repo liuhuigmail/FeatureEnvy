@@ -1,0 +1,1 @@
+gather leaves and set style * * * node model * * * hierarchical icons 

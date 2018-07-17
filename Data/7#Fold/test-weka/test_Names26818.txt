@@ -1,0 +1,3 @@
+* * determine selected range * * * dictionary builder * * * * instances 
+* * determine selected range * * * dictionary builder * * * * tokenizer 
+* * determine selected range * * * dictionary builder * * * * range 

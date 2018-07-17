@@ -1,0 +1,3 @@
+* * process first batch * * * * filter * * * * instances 
+* * process first batch * * * * filter * * * * filter 
+* * process first batch * * * * filter * * * * data 

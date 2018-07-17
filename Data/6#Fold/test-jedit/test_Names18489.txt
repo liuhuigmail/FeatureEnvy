@@ -1,0 +1,3 @@
+* * * generate constructor * * class generator util * * * class writer 
+* * * generate constructor * * class generator util * * * name space 
+* * * generate constructor * * class generator util * * * * modifiers 

@@ -1,0 +1,10 @@
+* * * duplicate target * * * * application * * * abstract target 
+* * * duplicate target * * * * application * * * resource manager 
+* * * duplicate target * * * * application * c tab folder manager 
+* * * duplicate target * * * * application * * * * workspace 
+* * * duplicate target * * * * application * * * main window 
+* * * duplicate target * * * * application * * * trace entry 
+* * * duplicate target * * * * application * * entry archive data 
+* * * duplicate target * * * * application * u i recovery filter 
+* * * duplicate target * * * * application * * * file tool 
+* * * duplicate target * * * * application * * * simulation result 

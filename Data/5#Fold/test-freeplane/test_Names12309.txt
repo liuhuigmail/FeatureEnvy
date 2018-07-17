@@ -1,0 +1,1 @@
+* * get value renderer * * * named object * * link condition controller 

@@ -1,0 +1,2 @@
+remove batch association rules listener * * * * associator * * * bean visual 
+remove batch association rules listener * * * * associator * * * * environment 

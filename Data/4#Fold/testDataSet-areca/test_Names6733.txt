@@ -1,0 +1,10 @@
+* * disable wait cursor * * * abstract window * * * * application 
+* * disable wait cursor * * * abstract window * * * resource manager 
+* * disable wait cursor * * * abstract window * c tab folder manager 
+* * disable wait cursor * * * abstract window * * * * workspace 
+* * disable wait cursor * * * abstract window * * * main window 
+* * disable wait cursor * * * abstract window * * * trace entry 
+* * disable wait cursor * * * abstract window * * entry archive data 
+* * disable wait cursor * * * abstract window * u i recovery filter 
+* * disable wait cursor * * * abstract window * * * file tool 
+* * disable wait cursor * * * abstract window * * * simulation result 

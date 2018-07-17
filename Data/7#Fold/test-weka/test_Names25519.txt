@@ -1,0 +1,2 @@
+* * * source class * * * * attribute * * * decision stump 
+* * * source class * * * * attribute * * * * instances 

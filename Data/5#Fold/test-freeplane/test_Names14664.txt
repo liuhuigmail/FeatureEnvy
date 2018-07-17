@@ -1,0 +1,1 @@
+* set freeplane menu bar * * * dialog controller * * freeplane menu bar 

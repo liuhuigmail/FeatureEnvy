@@ -1,0 +1,3 @@
+* * * set log * * * * instances * * * * appender 
+* * * set log * * * * instances * * * instance event 
+* * * set log * * * * instances * * * bean visual 

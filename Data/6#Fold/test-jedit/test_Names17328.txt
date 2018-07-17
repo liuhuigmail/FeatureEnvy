@@ -1,0 +1,2 @@
+* * toggle word wrap * * * * view * * * * buffer 
+* * toggle word wrap * * * * view * * * token marker 

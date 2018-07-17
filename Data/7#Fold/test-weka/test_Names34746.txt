@@ -1,0 +1,6 @@
+* * * global info * * * * instances * * * principal components 
+* * * global info * * * * instances * * replace missing values 
+* * * global info * * * * instances * * nominal to binary 
+* * * global info * * * * instances * * * * remove 
+* * * global info * * * * instances * * * * standardize 
+* * * global info * * * * instances * * * * center 

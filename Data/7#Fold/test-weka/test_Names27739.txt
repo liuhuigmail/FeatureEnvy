@@ -1,0 +1,2 @@
+* * * * handles * * find with capabilities * * * * capabilities 
+* * * * handles * * find with capabilities * * * single index 

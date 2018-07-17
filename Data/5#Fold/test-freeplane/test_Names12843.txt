@@ -1,0 +1,6 @@
+* * fire node changed * * node change event * * * node model 
+* * fire node changed * * node change event * * * extension container 
+* * fire node changed * * node change event * * * filter info 
+* * fire node changed * * node change event * * history information model 
+* * fire node changed * * node change event * node icon set model 
+* * fire node changed * * node change event * * * map model 

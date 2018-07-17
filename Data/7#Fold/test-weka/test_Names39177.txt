@@ -1,0 +1,6 @@
+* * * set instances * * * * instances * main k f perspective 
+* * * set instances * * * * instances * * * * memory 
+* * * set instances * * * * instances * * step manager impl 
+* * * set instances * * * * instances * * * step tree 
+* * * set instances * * * * instances * * * template manager 
+* * * set instances * * * * instances main k f perspective tool 

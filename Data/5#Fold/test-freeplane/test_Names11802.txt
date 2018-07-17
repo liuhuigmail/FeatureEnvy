@@ -1,0 +1,2 @@
+* * * action performed * * quick filter action * * * filter controller 
+* * * action performed * * quick filter action * * filter condition editor 

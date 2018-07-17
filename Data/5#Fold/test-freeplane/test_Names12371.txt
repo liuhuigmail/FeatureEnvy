@@ -1,0 +1,2 @@
+* get link short text * * * node model * * * link controller 
+* get link short text * * * node model * * * icon store 

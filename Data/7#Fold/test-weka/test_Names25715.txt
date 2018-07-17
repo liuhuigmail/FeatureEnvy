@@ -1,0 +1,3 @@
+* * * global info * * * hoeffding tree * * * * instances 
+* * * global info * * * hoeffding tree * * * h node 
+* * * global info * * * hoeffding tree * * * split metric 

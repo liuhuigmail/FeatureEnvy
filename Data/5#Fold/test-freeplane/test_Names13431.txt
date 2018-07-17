@@ -1,0 +1,3 @@
+* show notes in map * * * map model * * * note controller 
+* show notes in map * * * map model * * u i icon 
+* show notes in map * * * map model * * * mode controller 

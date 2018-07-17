@@ -1,0 +1,16 @@
+* add to shared formulas * base shared formula record * * * sheet reader 
+* add to shared formulas * base shared formula record * * * * logger 
+* add to shared formulas * base shared formula record * * * * file 
+* add to shared formulas * base shared formula record * s s t record 
+* add to shared formulas * base shared formula record * b o f record 
+* add to shared formulas * base shared formula record * * * formatting records 
+* add to shared formulas * base shared formula record * * * auto filter 
+* add to shared formulas * base shared formula record * * * data validation 
+* add to shared formulas * base shared formula record * * * drawing data 
+* add to shared formulas * base shared formula record * p l s record 
+* add to shared formulas * base shared formula record * button property set record 
+* add to shared formulas * base shared formula record * * workspace information record 
+* add to shared formulas * base shared formula record * * * sheet settings 
+* add to shared formulas * base shared formula record * * * workbook settings 
+* add to shared formulas * base shared formula record * * * workbook parser 
+* add to shared formulas * base shared formula record * * * sheet impl 

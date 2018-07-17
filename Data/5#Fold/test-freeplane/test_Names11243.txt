@@ -1,0 +1,2 @@
+* * is case dependent * * * named object * * attribute condition controller 
+* * is case dependent * * * named object * extended combo box model 

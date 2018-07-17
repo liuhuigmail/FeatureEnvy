@@ -1,0 +1,2 @@
+* * add text listener * * * bean visual * * * text viewer 
+* * add text listener * * * bean visual * * result history panel 

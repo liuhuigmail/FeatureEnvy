@@ -1,0 +1,6 @@
+* * fire node changed * * * map controller * * * node model 
+* * fire node changed * * * map controller * * node change event 
+* * fire node changed * * * map controller * * * map reader 
+* * fire node changed * * * map controller * * * map writer 
+* * fire node changed * * * map controller * * * read manager 
+* * fire node changed * * * map controller * * * write manager 

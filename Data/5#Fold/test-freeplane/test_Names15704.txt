@@ -1,0 +1,4 @@
+* * on node inserted * * * node view * * * node model 
+* * on node inserted * * * node view * * * attribute view 
+* * on node inserted * * * node view * * * main view 
+* * on node inserted * * * node view * * * map view 

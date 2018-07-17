@@ -1,0 +1,2 @@
+set perspective toolbar always hidden * * * perspective manager * * * * settings 
+set perspective toolbar always hidden * * * perspective manager * * * log panel 

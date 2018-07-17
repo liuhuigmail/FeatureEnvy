@@ -1,0 +1,3 @@
+* * * create editor * * m text controller * * * node model 
+* * * create editor * * m text controller * * edit node base 
+* * * create editor * * m text controller * * * event buffer 

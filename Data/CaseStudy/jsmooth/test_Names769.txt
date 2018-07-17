@@ -1,0 +1,1 @@
+* * * init components * * * compilation dialog * * * exe compiler 

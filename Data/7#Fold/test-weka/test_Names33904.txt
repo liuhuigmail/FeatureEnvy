@@ -1,0 +1,4 @@
+* * * get capabilities * * * * instances * * * * filter 
+* * * get capabilities * * * * instances * * * * queue 
+* * * get capabilities * * * * instances * * * string locator 
+* * * get capabilities * * * * instances * * * relational locator 

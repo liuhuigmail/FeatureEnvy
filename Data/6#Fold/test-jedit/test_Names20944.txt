@@ -1,0 +1,4 @@
+* * * remove extension * * text area painter * * text area extension 
+* * * remove extension * * text area painter * * * text area 
+* * * remove extension * * text area painter * * * anti alias 
+* * * remove extension * * text area painter * * * extension manager 

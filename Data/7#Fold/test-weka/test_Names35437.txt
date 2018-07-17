@@ -1,0 +1,2 @@
+* * * global info * * remove with values * * * single index 
+* * * global info * * remove with values * * * * range 

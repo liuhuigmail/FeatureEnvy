@@ -1,0 +1,4 @@
+* * add drag listener * * * node view * * * attribute view 
+* * add drag listener * * * node view * * * main view 
+* * add drag listener * * * node view * * * map view 
+* * add drag listener * * * node view * * * node model 

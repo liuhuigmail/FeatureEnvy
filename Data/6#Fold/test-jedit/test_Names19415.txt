@@ -1,0 +1,3 @@
+* handle edit pane update * * * marker viewer * * edit pane update 
+* handle edit pane update * * * marker viewer * * * * view 
+* handle edit pane update * * * marker viewer * * * rollover button 

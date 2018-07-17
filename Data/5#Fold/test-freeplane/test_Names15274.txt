@@ -1,0 +1,3 @@
+* * * * deselect * * * map view * * * node view 
+* * * * deselect * * * map view * * * mode controller 
+* * * * deselect * * * map view * * * map model 

@@ -1,0 +1,2 @@
+* * * primitive equals b s h switch statement * * * call stack 
+* * * primitive equals b s h switch statement * * * simple node 

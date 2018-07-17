@@ -1,0 +1,6 @@
+* * * set instances * * attribute selection panel * * * * instances 
+* * * set instances * * attribute selection panel * * * * explorer 
+* * * set instances * * attribute selection panel * * generic object editor 
+* * * set instances * * attribute selection panel * * * property panel 
+* * * set instances * * attribute selection panel * * * save buffer 
+* * * set instances * * attribute selection panel * * result history panel 

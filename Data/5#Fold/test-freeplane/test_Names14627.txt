@@ -1,0 +1,2 @@
+* * create mode controllers * * freeplane headless starter * * * * controller 
+* * create mode controllers * * freeplane headless starter * * application resource controller 

@@ -1,0 +1,10 @@
+* * * set instances * * * * instances * * * preprocess panel 
+* * * set instances * * * * instances * * instances summary panel 
+* * * set instances * * * * instances * * attribute selection panel 
+* * * set instances * * * * instances * * attribute summary panel 
+* * * set instances * * * * instances * * generic object editor 
+* * * set instances * * * * instances * * * property panel 
+* * * set instances * * * * instances * * converter file chooser 
+* * * set instances * * * * instances * * * data generator 
+* * * set instances * * * * instances * * attribute visualization panel 
+* * * set instances * * * * instances * * * * explorer 

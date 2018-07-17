@@ -1,0 +1,3 @@
+* map to mining schema p m m l classifier * * * * instances 
+* map to mining schema p m m l classifier * * * mining schema 
+* map to mining schema p m m l classifier * * * mapping info 

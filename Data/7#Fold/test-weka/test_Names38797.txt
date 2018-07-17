@@ -1,0 +1,11 @@
+* save instances to file * * * preprocess panel * * abstract file saver 
+* save instances to file * * * preprocess panel * * * * instances 
+* save instances to file * * * preprocess panel * * instances summary panel 
+* save instances to file * * * preprocess panel * * attribute selection panel 
+* save instances to file * * * preprocess panel * * attribute summary panel 
+* save instances to file * * * preprocess panel * * generic object editor 
+* save instances to file * * * preprocess panel * * * property panel 
+* save instances to file * * * preprocess panel * * converter file chooser 
+* save instances to file * * * preprocess panel * * * data generator 
+* save instances to file * * * preprocess panel * * attribute visualization panel 
+* save instances to file * * * preprocess panel * * * * explorer 

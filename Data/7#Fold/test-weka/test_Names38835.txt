@@ -1,0 +1,6 @@
+* * * set explorer * * attribute selection panel * * * * explorer 
+* * * set explorer * * attribute selection panel * * generic object editor 
+* * * set explorer * * attribute selection panel * * * property panel 
+* * * set explorer * * attribute selection panel * * * save buffer 
+* * * set explorer * * attribute selection panel * * result history panel 
+* * * set explorer * * attribute selection panel * * * * instances 

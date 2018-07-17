@@ -1,0 +1,1 @@
+* * * * register * * floating window container * dockable window manager impl 

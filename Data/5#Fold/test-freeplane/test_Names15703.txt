@@ -1,0 +1,4 @@
+* * on node deleted * * * node view * * * node model 
+* * on node deleted * * * node view * * * attribute view 
+* * on node deleted * * * node view * * * main view 
+* * on node deleted * * * node view * * * map view 

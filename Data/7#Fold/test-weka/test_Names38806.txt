@@ -1,0 +1,11 @@
+* set instances from file * * * preprocess panel * * abstract file loader 
+* set instances from file * * * preprocess panel * * instances summary panel 
+* set instances from file * * * preprocess panel * * attribute selection panel 
+* set instances from file * * * preprocess panel * * attribute summary panel 
+* set instances from file * * * preprocess panel * * generic object editor 
+* set instances from file * * * preprocess panel * * * property panel 
+* set instances from file * * * preprocess panel * * converter file chooser 
+* set instances from file * * * preprocess panel * * * * instances 
+* set instances from file * * * preprocess panel * * * data generator 
+* set instances from file * * * preprocess panel * * attribute visualization panel 
+* set instances from file * * * preprocess panel * * * * explorer 

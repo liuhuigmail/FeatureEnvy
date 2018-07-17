@@ -1,0 +1,2 @@
+* * * action performed * * * menu builder * * * accelerateable action 
+* * * action performed * * * menu builder * * a freeplane action 

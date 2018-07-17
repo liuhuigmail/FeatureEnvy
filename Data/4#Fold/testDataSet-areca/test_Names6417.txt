@@ -1,0 +1,2 @@
+* * * create contents * * * resource manager * * * check window 
+* * * create contents * * * resource manager * * * abstract target 

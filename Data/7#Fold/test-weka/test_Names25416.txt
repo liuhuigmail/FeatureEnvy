@@ -1,0 +1,7 @@
+* * * set search * * * decision table * * a s search 
+* * * set search * * * decision table * * * * filter 
+* * * set search * * * decision table * * * * remove 
+* * * set search * * * decision table * * * i bk 
+* * * set search * * * decision table * * * * instances 
+* * * set search * * * decision table * * a s evaluation 
+* * * set search * * * decision table * * * * evaluation 

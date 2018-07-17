@@ -1,0 +1,2 @@
+* * * get contents * * * formula record * * * * logger 
+* * * get contents * * * formula record * * * cell value 

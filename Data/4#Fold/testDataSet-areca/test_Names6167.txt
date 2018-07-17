@@ -1,0 +1,2 @@
+* * * * init * * * process context * * default archive handler 
+* * * * init * * * process context * * * transaction point 

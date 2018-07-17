@@ -1,0 +1,4 @@
+* * * set visual * * * bean visual * * * * filter 
+* * * set visual * * * bean visual * * * * instances 
+* * * set visual * * * bean visual * * * * filter 
+* * * set visual * * * bean visual * * * instance event 

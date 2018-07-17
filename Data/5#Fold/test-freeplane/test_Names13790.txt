@@ -1,0 +1,2 @@
+* * * is minimized * * * node model * * * text controller 
+* * * is minimized * * * node model * * * mode controller 

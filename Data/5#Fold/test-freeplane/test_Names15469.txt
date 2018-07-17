@@ -1,0 +1,6 @@
+* * * get views * * map view controller * * * map model 
+* * * get views * * map view controller * * * map view 
+* * * get views * * map view controller map view change observer compound 
+* * * get views * * map view controller * * * * controller 
+* * * get views * * map view controller * * zoom in action 
+* * * get views * * map view controller * * zoom out action 

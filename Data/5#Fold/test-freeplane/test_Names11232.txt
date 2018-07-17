@@ -1,0 +1,4 @@
+* * * * write * * * attribute registry * * * attribute controller 
+* * * * write * * * attribute registry * * sorted map vector 
+* * * * write * * * attribute registry attribute registry combo box column 
+* * * * write * * * attribute registry * attribute registry table model 

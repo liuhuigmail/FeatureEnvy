@@ -1,0 +1,4 @@
+* * * * push * * * * filter * * * * instances 
+* * * * push * * * * filter * * * * queue 
+* * * * push * * * * filter * * * string locator 
+* * * * push * * * * filter * * * relational locator 

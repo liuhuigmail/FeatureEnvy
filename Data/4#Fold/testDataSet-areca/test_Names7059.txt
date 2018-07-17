@@ -1,0 +1,2 @@
+* * * add processor * * * processors table * * * resource manager 
+* * * add processor * * * processors table * * target edition window 

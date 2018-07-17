@@ -1,0 +1,2 @@
+* * do learning epoch * * simulated annealing learning * * * data set 
+* * do learning epoch * * simulated annealing learning * * * neural network 

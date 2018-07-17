@@ -1,0 +1,2 @@
+* * * set skeleton * * * skeleton editor * * * skeleton bean 
+* * * set skeleton * * * skeleton editor * skeleton property table model 

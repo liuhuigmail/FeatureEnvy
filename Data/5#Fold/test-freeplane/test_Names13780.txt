@@ -1,0 +1,2 @@
+* * remove text transformer * * * text controller * * * mode controller 
+* * remove text transformer * * * text controller * * * mode controller 

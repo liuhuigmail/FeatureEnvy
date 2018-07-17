@@ -1,0 +1,2 @@
+* * test neural network * * wine classification sample * * * neural network 
+* * test neural network * * wine classification sample * * * data set 

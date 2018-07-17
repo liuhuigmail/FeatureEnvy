@@ -1,0 +1,3 @@
+* * * check missing * * * cover tree * * * * instances 
+* * * check missing * * * cover tree * * * euclidean distance 
+* * * check missing * * * cover tree * * tree performance stats 

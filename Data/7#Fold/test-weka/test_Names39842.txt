@@ -1,0 +1,3 @@
+* * * apply settings * * plot 2 d * * * * settings 
+* * * apply settings * * plot 2 d * plot data 2 d 
+* * * apply settings * * plot 2 d * * * * instances 

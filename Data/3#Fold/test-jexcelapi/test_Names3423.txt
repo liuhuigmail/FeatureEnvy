@@ -1,0 +1,11 @@
+* * * * initialize * * * check box * * * * logger 
+* * * * initialize * * * check box * * * escher container 
+* * * * initialize * * * check box * * mso drawing record 
+* * * * initialize * * * check box * * * obj record 
+* * * * initialize * * * check box * * * * origin 
+* * * * initialize * * * check box * * * drawing group 
+* * * * initialize * * * check box * * * drawing data 
+* * * * initialize * * * check box * * * shape type 
+* * * * initialize * * * check box * * text object record 
+* * * * initialize * * * check box * * * continue record 
+* * * * initialize * * * check box * * * workbook settings 

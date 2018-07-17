@@ -1,0 +1,4 @@
+* * create mode controllers freeplane g u i starter * * * * controller 
+* * create mode controllers freeplane g u i starter * * application resource controller 
+* * create mode controllers freeplane g u i starter * * freeplane splash modern 
+* * create mode controllers freeplane g u i starter * * application view controller 

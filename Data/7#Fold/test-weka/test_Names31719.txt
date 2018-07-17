@@ -1,0 +1,4 @@
+* * get x coordinates * * * lift graph * * * x coordinates 
+* * get x coordinates * * * lift graph * * * y coordinates 
+* * get x coordinates * * * lift graph * * * boundary values 
+* * get x coordinates * * * lift graph * * boundary value means 

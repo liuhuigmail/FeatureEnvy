@@ -1,0 +1,1 @@
+* * update text color * * * main view * * * node view 

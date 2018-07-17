@@ -1,0 +1,2 @@
+add batch association rules listener * * * * associator * * * bean visual 
+add batch association rules listener * * * * associator * * * * environment 

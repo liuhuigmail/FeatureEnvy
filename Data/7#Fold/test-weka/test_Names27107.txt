@@ -1,0 +1,2 @@
+* * * to string * * * abstract instance * * * * attribute 
+* * * to string * * * abstract instance * * * * instances 

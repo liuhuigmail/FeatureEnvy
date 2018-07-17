@@ -1,0 +1,2 @@
+* * * * distance * * * * instances * * * farthest first 
+* * * * distance * * * * instances * * replace missing values 

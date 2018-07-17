@@ -1,0 +1,4 @@
+* * * remove icon * * * node model * * m icon controller 
+* * * remove icon * * * node model * * * icon store 
+* * * remove icon * * * node model j auto scroll bar pane 
+* * * remove icon * * * node model * * * mind icon 

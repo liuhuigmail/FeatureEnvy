@@ -1,0 +1,4 @@
+* * * nearest neighbour * * k d tree * k d tree node 
+* * * nearest neighbour * * k d tree k d tree node splitter 
+* * * nearest neighbour * * k d tree * * tree performance stats 
+* * * nearest neighbour * * k d tree * * * euclidean distance 

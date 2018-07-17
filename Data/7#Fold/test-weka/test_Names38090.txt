@@ -1,0 +1,6 @@
+* * set trained classifier * * * bean visual * * * * classifier 
+* * set trained classifier * * * bean visual * * * * instances 
+* * set trained classifier * * * bean visual * * incremental classifier event 
+* * set trained classifier * * * bean visual * * * * environment 
+* * set trained classifier * * * bean visual * * * instance event 
+* * set trained classifier * * * bean visual * * * stream throughput 

@@ -1,0 +1,3 @@
+* * * highlight selected * * * node view * * * map view 
+* * * highlight selected * * * node view * * * mode controller 
+* * * highlight selected * * * node view * * * map model 

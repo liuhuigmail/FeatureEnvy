@@ -1,0 +1,2 @@
+* * * remove factory * * * viewer controller m external image drop listener 
+* * * remove factory * * * viewer controller * external image popup menu 

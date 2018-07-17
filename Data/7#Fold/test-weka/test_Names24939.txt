@@ -1,0 +1,3 @@
+* * set combination rule * * * * vote * * * selected tag 
+* * set combination rule * * * * vote * * * * environment 
+* * set combination rule * * * * vote * * * * instances 

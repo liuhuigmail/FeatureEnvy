@@ -1,0 +1,1 @@
+* * print defect header * * * test failure * * * result printer 

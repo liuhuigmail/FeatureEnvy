@@ -1,0 +1,1 @@
+* * get hide mode * * * hideobj record * * * * logger 

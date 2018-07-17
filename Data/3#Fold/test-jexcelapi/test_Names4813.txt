@@ -1,0 +1,12 @@
+get colour r g b * * * * colour * * writable workbook impl 
+get colour r g b * * * * colour * * * * logger 
+get colour r g b * * * * colour * * * formatting records 
+get colour r g b * * * * colour * * * * file 
+get colour r g b * * * * colour * * * * fonts 
+get colour r g b * * * * colour * * external sheet record 
+get colour r g b * * * * colour * * * shared strings 
+get colour r g b * * * * colour * * * workbook settings 
+get colour r g b * * * * colour * * * drawing group 
+get colour r g b * * * * colour * * * * styles 
+get colour r g b * * * * colour * button property set record 
+get colour r g b * * * * colour * * * country record 

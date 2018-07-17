@@ -1,0 +1,2 @@
+* * set split evaluator * * * * instances * random split result producer 
+* * set split evaluator * * * * instances * * * output zipper 

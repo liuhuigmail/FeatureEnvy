@@ -1,0 +1,1 @@
+* * * split node points closest to furthest children * * * ball node 

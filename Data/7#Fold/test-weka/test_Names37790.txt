@@ -1,0 +1,4 @@
+* * * set log * * * * filter * * * bean visual 
+* * * set log * * * * filter * * * * instances 
+* * * set log * * * * filter * * * * filter 
+* * * set log * * * * filter * * * instance event 

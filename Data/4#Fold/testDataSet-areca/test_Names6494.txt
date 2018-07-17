@@ -1,0 +1,5 @@
+* * * init tab * * target edition window * * * list pane 
+* * * init tab * * target edition window * * * resource manager 
+* * * init tab * * target edition window * * * abstract target 
+* * * init tab * * target edition window * * * filter group 
+* * * init tab * * target edition window * * * processors table 

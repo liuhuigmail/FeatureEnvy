@@ -1,0 +1,2 @@
+* set freeplane menu bar * * applet view controller * * freeplane menu bar 
+* set freeplane menu bar * * applet view controller * * * freeplane applet 

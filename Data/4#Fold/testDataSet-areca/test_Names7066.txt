@@ -1,0 +1,3 @@
+* * * set processors * * * processor list * * * processors table 
+* * * set processors * * * processor list * * * resource manager 
+* * * set processors * * * processor list * * target edition window 

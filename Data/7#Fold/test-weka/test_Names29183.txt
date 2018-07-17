@@ -1,0 +1,2 @@
+* * copy zero set * * * cover tree * * * euclidean distance 
+* * copy zero set * * * cover tree * * tree performance stats 

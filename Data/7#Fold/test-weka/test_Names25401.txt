@@ -1,0 +1,7 @@
+evaluate instance leave one out * * * decision table * * * * filter 
+evaluate instance leave one out * * * decision table * * * * remove 
+evaluate instance leave one out * * * decision table * * * i bk 
+evaluate instance leave one out * * * decision table * * * * instances 
+evaluate instance leave one out * * * decision table * * a s search 
+evaluate instance leave one out * * * decision table * * a s evaluation 
+evaluate instance leave one out * * * decision table * * * * evaluation 

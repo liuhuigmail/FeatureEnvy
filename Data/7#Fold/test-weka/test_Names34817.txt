@@ -1,0 +1,2 @@
+* * * * input * * * make indicator * * * single index 
+* * * * input * * * make indicator * * * * range 

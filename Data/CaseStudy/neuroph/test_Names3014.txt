@@ -1,0 +1,2 @@
+* * create feature maps * * feature maps layer * * * neuron properties 
+* * create feature maps * * feature maps layer * * * * kernel 

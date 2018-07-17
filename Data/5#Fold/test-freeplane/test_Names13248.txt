@@ -1,0 +1,1 @@
+* * register attribute handlers * * * location builder * * * read manager 

@@ -1,0 +1,9 @@
+* set x f details * * x f record * * * * logger 
+* set x f details * * x f record * * * * alignment 
+* set x f details * * x f record * * * vertical alignment 
+* set x f details * * x f record * * * * orientation 
+* set x f details * * x f record * * border line style 
+* set x f details * * x f record * * * * colour 
+* set x f details * * x f record * * * * pattern 
+* set x f details * * x f record * * * font record 
+* set x f details * * x f record * * * formatting records 

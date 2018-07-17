@@ -1,0 +1,2 @@
+* write e x t * * zip output stream * * * zip entry 
+* write e x t * * zip output stream * * * serialized collection 

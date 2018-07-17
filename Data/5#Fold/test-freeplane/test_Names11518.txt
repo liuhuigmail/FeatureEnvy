@@ -1,0 +1,3 @@
+* * * register by * * * cloud builder * * * read manager 
+* * * register by * * * cloud builder * * * write manager 
+* * * register by * * * cloud builder * * * cloud controller 

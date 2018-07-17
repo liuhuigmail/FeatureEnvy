@@ -1,0 +1,4 @@
+* * * accept image * * * image viewer * * * image event 
+* * * accept image * * * image viewer * * result history panel 
+* * * accept image * * * image viewer * * * bean visual 
+* * * accept image * * * image viewer * * * * environment 

@@ -1,0 +1,4 @@
+* add configured java property * * * jar bundler * * * java property 
+* add configured java property * * * jar bundler * * app bundle properties 
+* add configured java property * * * jar bundler * * * java property 
+* add configured java property * * * jar bundler * * app bundle properties 

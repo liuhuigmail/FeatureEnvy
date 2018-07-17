@@ -1,0 +1,16 @@
+* * close duplicate buffers * * * * view * * edit pane update 
+* * close duplicate buffers * * * * view * * dockable window manager 
+* * close duplicate buffers * * * * view * * tool bar manager 
+* * close duplicate buffers * * * * view * * * search bar 
+* * close duplicate buffers * * * * view * * * action bar 
+* * close duplicate buffers * * * * view * * * edit pane 
+* * close duplicate buffers * * * * view * * * status bar 
+* * close duplicate buffers * * * * view * * * input handler 
+* * close duplicate buffers * * edit pane update * * * * view 
+* * close duplicate buffers * * edit pane update * * dockable window manager 
+* * close duplicate buffers * * edit pane update * * tool bar manager 
+* * close duplicate buffers * * edit pane update * * * search bar 
+* * close duplicate buffers * * edit pane update * * * action bar 
+* * close duplicate buffers * * edit pane update * * * edit pane 
+* * close duplicate buffers * * edit pane update * * * status bar 
+* * close duplicate buffers * * edit pane update * * * input handler 

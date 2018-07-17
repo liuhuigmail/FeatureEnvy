@@ -1,0 +1,5 @@
+* * * * add * mso drawing group record * * * drawing group 
+* * * * add * mso drawing group record * * * * logger 
+* * * * add * mso drawing group record * * * escher container 
+* * * * add * mso drawing group record * * b store container 
+* * * * add * mso drawing group record * * * * origin 

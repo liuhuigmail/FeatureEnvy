@@ -1,0 +1,2 @@
+* * paint fold start * * triangle fold painter * * * * gutter 
+* * paint fold start * * triangle fold painter * * j edit buffer 

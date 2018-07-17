@@ -1,0 +1,1 @@
+* * default file extension x s l t renderer * * * string property 

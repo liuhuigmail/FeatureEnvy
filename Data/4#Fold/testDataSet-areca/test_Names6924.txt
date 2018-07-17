@@ -1,0 +1,4 @@
+* * * check changed * * * search composite * * * target group 
+* * * check changed * * * search composite * * * resource manager 
+* * * check changed * * * search composite * * * * application 
+* * * check changed * * * search composite * * * task monitor 

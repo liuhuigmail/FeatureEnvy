@@ -1,0 +1,2 @@
+* * set global model * n b tree split n b tree no split 
+* * set global model * n b tree split * c 4 5 split 

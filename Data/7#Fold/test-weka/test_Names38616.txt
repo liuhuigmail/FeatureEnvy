@@ -1,0 +1,5 @@
+* * * get name * * * * experiment * * simple setup panel 
+* * * get name * * * * experiment * * setup mode panel 
+* * * get name * * * * experiment * * extension file filter 
+* * * get name * * * * experiment * * dataset list panel 
+* * * get name * * * * experiment * * algorithm list panel 

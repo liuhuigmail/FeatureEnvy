@@ -1,0 +1,3 @@
+* get r o c * * * confusion matrix * * predictive model quality 
+* get r o c * * * confusion matrix * * * lift data 
+* get r o c * * * confusion matrix * * r o c 

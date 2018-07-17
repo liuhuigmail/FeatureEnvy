@@ -1,0 +1,11 @@
+* visualize cost benefit analysis * * * classifier panel * * cost benefit analysis 
+* visualize cost benefit analysis * * * classifier panel * * * * explorer 
+* visualize cost benefit analysis * * * classifier panel * * generic object editor 
+* visualize cost benefit analysis * * * classifier panel * * * property panel 
+* visualize cost benefit analysis * * * classifier panel * * * save buffer 
+* visualize cost benefit analysis * * * classifier panel * * result history panel 
+* visualize cost benefit analysis * * * classifier panel * * * * range 
+* visualize cost benefit analysis * * * classifier panel * * * property dialog 
+* visualize cost benefit analysis * * * classifier panel * * cost matrix editor 
+* visualize cost benefit analysis * * * classifier panel * * * * instances 
+* visualize cost benefit analysis * * * classifier panel * * * visualize panel 

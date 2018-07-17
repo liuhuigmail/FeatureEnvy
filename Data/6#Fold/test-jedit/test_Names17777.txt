@@ -1,0 +1,2 @@
+* * get type descriptor b s h formal parameter * * * call stack 
+* * get type descriptor b s h formal parameter * * * * interpreter 

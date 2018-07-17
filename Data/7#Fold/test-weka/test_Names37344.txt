@@ -1,0 +1,5 @@
+* * accept data set * * model performance chart * * visualizable error event 
+* * accept data set * * model performance chart * * * bean visual 
+* * accept data set * * model performance chart * plot data 2 d 
+* * accept data set * * model performance chart * * * visualize panel 
+* * accept data set * * model performance chart * * * * environment 

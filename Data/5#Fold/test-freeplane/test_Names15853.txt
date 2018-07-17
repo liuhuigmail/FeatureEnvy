@@ -1,0 +1,5 @@
+* * * view removed attribute table model decorator adapter * * * node view 
+* * * view removed attribute table model decorator adapter * * * attribute controller 
+* * * view removed attribute table model decorator adapter * * * attribute registry 
+* * * view removed attribute table model decorator adapter * node attribute table model 
+* * * view removed attribute table model decorator adapter * * * text controller 

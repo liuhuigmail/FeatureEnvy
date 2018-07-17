@@ -1,0 +1,3 @@
+* update state icons recursively * * * map view * * * node view 
+* update state icons recursively * * * map view * * * mode controller 
+* update state icons recursively * * * map view * * * map model 

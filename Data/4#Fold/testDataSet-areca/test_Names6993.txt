@@ -1,0 +1,3 @@
+* * * build filter * * * trace entry * * * archive explorer 
+* * * build filter * * * trace entry * * * resource manager 
+* * * build filter * * * trace entry * * aggregated view context 

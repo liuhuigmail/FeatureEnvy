@@ -1,0 +1,3 @@
+* * * array allocation b s h array dimensions b s h allocation expression 
+* * * array allocation b s h array dimensions * * * call stack 
+* * * array allocation b s h array dimensions * * * * interpreter 

@@ -1,0 +1,3 @@
+* * * * write * * * * file * * * * logger 
+* * * * write * * * * file * * * workbook settings 
+* * * * write * * * * file * * * compound file 

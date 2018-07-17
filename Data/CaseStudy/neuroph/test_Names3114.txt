@@ -1,0 +1,1 @@
+* * update neuron weights * * unsupervised hebbian learning * * * * neuron 

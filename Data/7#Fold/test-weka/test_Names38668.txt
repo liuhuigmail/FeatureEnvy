@@ -1,0 +1,10 @@
+* * * set instances * * * classifier panel * * * * instances 
+* * * set instances * * * classifier panel * * * * explorer 
+* * * set instances * * * classifier panel * * generic object editor 
+* * * set instances * * * classifier panel * * * property panel 
+* * * set instances * * * classifier panel * * * save buffer 
+* * * set instances * * * classifier panel * * result history panel 
+* * * set instances * * * classifier panel * * * * range 
+* * * set instances * * * classifier panel * * * property dialog 
+* * * set instances * * * classifier panel * * cost matrix editor 
+* * * set instances * * * classifier panel * * * visualize panel 

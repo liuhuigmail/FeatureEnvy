@@ -1,0 +1,4 @@
+* * * add filter * * target edition window * * * resource manager 
+* * * add filter * * target edition window * * * abstract target 
+* * * add filter * * target edition window * * * filter group 
+* * * add filter * * target edition window * * * processors table 

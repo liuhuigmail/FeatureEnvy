@@ -1,0 +1,1 @@
+* * set docking layout * dockable window manager impl * * panel window container 

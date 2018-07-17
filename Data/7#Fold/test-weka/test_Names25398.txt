@@ -1,0 +1,7 @@
+* * * global info * * * * filter * * * decision table 
+* * * global info * * * * filter * * * * remove 
+* * * global info * * * * filter * * * i bk 
+* * * global info * * * * filter * * * * instances 
+* * * global info * * * * filter * * a s search 
+* * * global info * * * * filter * * a s evaluation 
+* * * global info * * * * filter * * * * evaluation 

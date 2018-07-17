@@ -1,0 +1,3 @@
+* * * apply settings scatter plot matrix interactive view * * * * settings 
+* * * apply settings scatter plot matrix interactive view * * result history panel 
+* * * apply settings scatter plot matrix interactive view * * * matrix panel 

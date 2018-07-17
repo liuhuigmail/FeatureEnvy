@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/eclipse-workbench-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/gr.uom.java.jdeodorant_5.0.66.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/org.apache.sling.api-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/org.eclipse.ui.navigator.source_3.5.300.v20130517-0139.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/org.eclipse.ui.navigator_3.5.300.v20130517-0139.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib/vscaladoc-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/diffutils-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/gr.uom.java.jdeodorant_5.0.66.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/intt.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/openxml4j-bin-beta.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/xbean.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/xmlbeans-qname.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/xmlbeans-xmlpublic-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/MyProjects/ProposedApproach/lib1/JDedorant_modified.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+* * find nearest neighbours * * k d tree * k d tree node 
+* * find nearest neighbours * * k d tree k d tree node splitter 
+* * find nearest neighbours * * k d tree * * tree performance stats 
+* * find nearest neighbours * * k d tree * * * euclidean distance 

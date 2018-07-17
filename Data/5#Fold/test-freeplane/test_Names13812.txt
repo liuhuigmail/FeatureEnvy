@@ -1,0 +1,1 @@
+* * is case dependent * node text condition controller * * * named object 

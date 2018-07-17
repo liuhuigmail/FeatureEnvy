@@ -1,0 +1,4 @@
+* get plain text content * * * text controller * * * node model 
+* get plain text content * * * text controller * * * mode controller 
+* get plain text content * * * text controller * * * node model 
+* get plain text content * * * text controller * * * mode controller 

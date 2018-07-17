@@ -1,0 +1,4 @@
+* * * global info * * * prediction appender * * * * instances 
+* * * global info * * * prediction appender * * * bean visual 
+* * * global info * * * prediction appender * * * instance event 
+* * * global info * * * prediction appender * * * stream throughput 

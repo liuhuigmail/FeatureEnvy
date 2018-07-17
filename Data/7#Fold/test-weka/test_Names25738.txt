@@ -1,0 +1,4 @@
+* * set split criterion * * * hoeffding tree * * * selected tag 
+* * set split criterion * * * hoeffding tree * * * * instances 
+* * set split criterion * * * hoeffding tree * * * h node 
+* * set split criterion * * * hoeffding tree * * * split metric 

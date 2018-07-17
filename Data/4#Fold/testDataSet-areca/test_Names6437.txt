@@ -1,0 +1,3 @@
+* * * create contents * * * resource manager * * * delete window 
+* * * create contents * * * resource manager * * * abstract target 
+* * * create contents * * * resource manager * * * target group 

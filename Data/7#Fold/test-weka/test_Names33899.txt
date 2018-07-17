@@ -1,0 +1,4 @@
+* * is new batch * * * * filter * * * * instances 
+* * is new batch * * * * filter * * * * queue 
+* * is new batch * * * * filter * * * string locator 
+* * is new batch * * * * filter * * * relational locator 

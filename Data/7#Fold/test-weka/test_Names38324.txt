@@ -1,0 +1,2 @@
+* add training set listener * * * class assigner * * * * instances 
+* add training set listener * * * class assigner * * * bean visual 

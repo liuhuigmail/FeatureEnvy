@@ -1,0 +1,5 @@
+* set pallete selected step * main k f perspective * * step manager impl 
+* set pallete selected step * main k f perspective * * * * memory 
+* set pallete selected step * main k f perspective * * * step tree 
+* set pallete selected step * main k f perspective * * * template manager 
+* set pallete selected step * main k f perspective main k f perspective tool 

@@ -1,0 +1,2 @@
+* * * set neuron * * * * layer * * * * neuron 
+* * * set neuron * * * * layer * * * neural network 

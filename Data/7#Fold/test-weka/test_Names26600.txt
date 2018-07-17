@@ -1,0 +1,3 @@
+* * * move centroid * * simple k means * * * * instances 
+* * * move centroid * * simple k means * * replace missing values 
+* * * move centroid * * simple k means * * * * canopy 

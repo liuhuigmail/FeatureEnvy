@@ -1,0 +1,5 @@
+* * set mode panel * * setup mode panel * * simple setup panel 
+* * set mode panel * * setup mode panel * * * * experiment 
+* * set mode panel * * setup mode panel * * extension file filter 
+* * set mode panel * * setup mode panel * * dataset list panel 
+* * set mode panel * * setup mode panel * * algorithm list panel 

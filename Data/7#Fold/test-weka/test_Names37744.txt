@@ -1,0 +1,2 @@
+* add data source listener instance stream to batch maker * * * bean visual 
+* add data source listener instance stream to batch maker * * * * instances 

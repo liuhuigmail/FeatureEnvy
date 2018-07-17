@@ -1,0 +1,8 @@
+* * remove ignore cols * * * clusterer panel * * * * instances 
+* * remove ignore cols * * * clusterer panel * * * * explorer 
+* * remove ignore cols * * * clusterer panel * * generic object editor 
+* * remove ignore cols * * * clusterer panel * * * property panel 
+* * remove ignore cols * * * clusterer panel * * * save buffer 
+* * remove ignore cols * * * clusterer panel * * result history panel 
+* * remove ignore cols * * * clusterer panel * * * visualize panel 
+* * remove ignore cols * * * clusterer panel * * instances summary panel 

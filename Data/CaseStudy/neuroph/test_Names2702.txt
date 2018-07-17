@@ -1,0 +1,2 @@
+* * * index of * * * * layer * * * * neuron 
+* * * index of * * * * layer * * * neural network 

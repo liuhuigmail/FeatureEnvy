@@ -1,0 +1,3 @@
+* set guessed node object * * m text controller * * * node model 
+* set guessed node object * * m text controller * * edit node base 
+* set guessed node object * * m text controller * * * event buffer 

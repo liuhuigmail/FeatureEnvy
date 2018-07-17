@@ -1,0 +1,3 @@
+* * * accept instance instance stream to batch maker * * * instance event 
+* * * accept instance instance stream to batch maker * * * bean visual 
+* * * accept instance instance stream to batch maker * * * * instances 

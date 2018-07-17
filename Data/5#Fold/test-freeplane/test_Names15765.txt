@@ -1,0 +1,6 @@
+* * * add listeners * * attribute popup menu * * * attribute view 
+* * * add listeners * * attribute popup menu * * * attribute table 
+* * * add listeners * * attribute popup menu attribute table model decorator adapter 
+* * * add listeners * * attribute popup menu extended attribute table model decorator 
+* * * add listeners * * attribute popup menu * * * node view 
+* * * add listeners * * attribute popup menu reduced attribute table model decorator 

@@ -1,0 +1,3 @@
+* * set custom name * * incremental classifier evaluator * * * * evaluation 
+* * set custom name * * incremental classifier evaluator * * * chart event 
+* * set custom name * * incremental classifier evaluator * * * stream throughput 

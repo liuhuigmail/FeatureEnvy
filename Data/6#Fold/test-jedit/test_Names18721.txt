@@ -1,0 +1,4 @@
+* * set typed variable * * * * modifiers * * * name space 
+* * set typed variable * * * * modifiers * * bsh class manager 
+* * set typed variable * * * * modifiers * * * * this 
+* * set typed variable * * * * modifiers * * * simple node 

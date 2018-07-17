@@ -1,0 +1,3 @@
+* construct with class body b s h allocation expression * b s h block 
+* construct with class body b s h allocation expression * * * call stack 
+* construct with class body b s h allocation expression * * * * interpreter 

@@ -1,0 +1,6 @@
+* * * accept instance * * * * classifier * * * instance event 
+* * * accept instance * * * * classifier * * * bean visual 
+* * * accept instance * * * * classifier * * * * instances 
+* * * accept instance * * * * classifier * * incremental classifier event 
+* * * accept instance * * * * classifier * * * * environment 
+* * * accept instance * * * * classifier * * * stream throughput 

@@ -1,0 +1,3 @@
+* * * paint links * * * map view * * * node view 
+* * * paint links * * * map view * * * mode controller 
+* * * paint links * * * map view * * * map model 

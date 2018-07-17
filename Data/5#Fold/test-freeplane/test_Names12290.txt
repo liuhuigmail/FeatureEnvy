@@ -1,0 +1,2 @@
+* * register attribute handlers * * * link builder * * * read manager 
+* * register attribute handlers * * * link builder * * * link controller 

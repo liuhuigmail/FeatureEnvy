@@ -1,0 +1,4 @@
+make cluster data set probabilities * * * prediction appender * * * * instances 
+make cluster data set probabilities * * * prediction appender * * * bean visual 
+make cluster data set probabilities * * * prediction appender * * * instance event 
+make cluster data set probabilities * * * prediction appender * * * stream throughput 

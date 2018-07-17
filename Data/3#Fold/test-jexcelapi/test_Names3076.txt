@@ -1,0 +1,10 @@
+* * get border line * * x f record * * * * border 
+* * get border line * * x f record * * * * logger 
+* * get border line * * x f record * * * * alignment 
+* * get border line * * x f record * * * vertical alignment 
+* * get border line * * x f record * * * * orientation 
+* * get border line * * x f record * * border line style 
+* * get border line * * x f record * * * * colour 
+* * get border line * * x f record * * * * pattern 
+* * get border line * * x f record * * * font record 
+* * get border line * * x f record * * * formatting records 

@@ -1,0 +1,2 @@
+* * * apply settings * * * attribute panel * * * * settings 
+* * * apply settings * * * attribute panel * * * * instances 

@@ -1,0 +1,3 @@
+* * add instance info * * filtered neighbour search * * add i d 
+* * add instance info * * filtered neighbour search * * * * filter 
+* * add instance info * * filtered neighbour search * * nearest neighbour search 

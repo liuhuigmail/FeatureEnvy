@@ -1,0 +1,4 @@
+* * * set evaluator * * attribute selected classifier * * a s evaluation 
+* * * set evaluator * * attribute selected classifier * * * attribute selection 
+* * * set evaluator * * attribute selected classifier * * a s search 
+* * * set evaluator * * attribute selected classifier * * * * instances 

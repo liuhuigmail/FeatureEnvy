@@ -1,0 +1,2 @@
+set r e a l * * * vector instance r e a l sparse 
+set r e a l * * * vector instance * * * array type 

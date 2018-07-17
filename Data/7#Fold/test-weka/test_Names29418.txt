@@ -1,0 +1,1 @@
+* * * calc pivot * * * * instances * * bottom up constructor 

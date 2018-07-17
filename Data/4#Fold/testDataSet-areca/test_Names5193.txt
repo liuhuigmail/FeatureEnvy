@@ -1,0 +1,2 @@
+* * is child of * * abstract workspace item * * * target group 
+* * is child of * * abstract workspace item * * * configuration source 

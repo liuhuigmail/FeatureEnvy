@@ -1,0 +1,2 @@
+* remove batch clusterer listener * * * * clusterer * * * bean visual 
+* remove batch clusterer listener * * * * clusterer * * * * instances 

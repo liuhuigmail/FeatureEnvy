@@ -1,0 +1,2 @@
+* * * relational value * * * abstract instance * * * * attribute 
+* * * relational value * * * abstract instance * * * * instances 

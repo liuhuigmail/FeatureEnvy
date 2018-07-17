@@ -1,0 +1,1 @@
+* * * global info * * string to nominal * * * * range 

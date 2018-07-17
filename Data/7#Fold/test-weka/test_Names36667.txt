@@ -1,0 +1,4 @@
+* copy string att vals * * * * sorter * * * instance event 
+* copy string att vals * * * * sorter * * * * environment 
+* copy string att vals * * * * sorter * * * * instances 
+* copy string att vals * * * * sorter * * * bean visual 

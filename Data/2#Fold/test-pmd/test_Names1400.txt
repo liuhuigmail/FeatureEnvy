@@ -1,0 +1,1 @@
+* * * * visit * * node visitor adapter * * * constructor node 

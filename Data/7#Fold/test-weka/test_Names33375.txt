@@ -1,0 +1,3 @@
+* * * calculate statistics * * paired t tester * * * * instances 
+* * * calculate statistics * * paired t tester * * * * range 
+* * * calculate statistics * * paired t tester * * * result matrix 

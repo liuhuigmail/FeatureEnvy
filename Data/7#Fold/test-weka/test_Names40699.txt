@@ -1,0 +1,2 @@
+* compute min max atts * * * boundary plotter * * * * instances 
+* compute min max atts * * * boundary plotter * k d data generator 

@@ -1,0 +1,2 @@
+* * parse simple entry m v s f t * f t p file 
+* * parse simple entry m v s f t unix f t p entry 

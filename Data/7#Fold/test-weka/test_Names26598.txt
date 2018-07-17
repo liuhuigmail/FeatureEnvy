@@ -1,0 +1,3 @@
+* * farthest first init * * simple k means * * * * instances 
+* * farthest first init * * simple k means * * replace missing values 
+* * farthest first init * * simple k means * * * * canopy 

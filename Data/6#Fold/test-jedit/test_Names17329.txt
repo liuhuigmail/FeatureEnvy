@@ -1,0 +1,2 @@
+* * toggle auto indent * * * * view * * * * buffer 
+* * toggle auto indent * * * * view * * * token marker 

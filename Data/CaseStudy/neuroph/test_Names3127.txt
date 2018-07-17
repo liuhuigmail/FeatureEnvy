@@ -1,0 +1,1 @@
+* * update neuron weights * * * outstar learning * * * * neuron 

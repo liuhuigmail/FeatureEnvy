@@ -1,0 +1,2 @@
+* * * render body * * * * report h t m l renderer 
+* * * render body * * * * report * * * string property 

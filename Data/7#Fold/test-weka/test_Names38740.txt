@@ -1,0 +1,4 @@
+* notify capabilities filter listener * * * * explorer * * * * capabilities 
+* notify capabilities filter listener * * * * explorer * * * preprocess panel 
+* notify capabilities filter listener * * * * explorer * * * log panel 
+* notify capabilities filter listener * * * * explorer * * * * memory 

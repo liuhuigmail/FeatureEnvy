@@ -1,0 +1,3 @@
+* * * accept graph * * * graph event * * * graph viewer 
+* * * accept graph * * * graph event * * * bean visual 
+* * * accept graph * * * graph event * * result history panel 

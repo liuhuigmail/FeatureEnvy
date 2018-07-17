@@ -1,0 +1,4 @@
+* * * global info * * * * filter * * * bean visual 
+* * * global info * * * * filter * * * * instances 
+* * * global info * * * * filter * * * * filter 
+* * * global info * * * * filter * * * instance event 

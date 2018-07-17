@@ -1,0 +1,10 @@
+* show recovery result window * * * * application * * * process context 
+* show recovery result window * * * * application * * * resource manager 
+* show recovery result window * * * * application * c tab folder manager 
+* show recovery result window * * * * application * * * * workspace 
+* show recovery result window * * * * application * * * main window 
+* show recovery result window * * * * application * * * trace entry 
+* show recovery result window * * * * application * * entry archive data 
+* show recovery result window * * * * application * u i recovery filter 
+* show recovery result window * * * * application * * * file tool 
+* show recovery result window * * * * application * * * simulation result 

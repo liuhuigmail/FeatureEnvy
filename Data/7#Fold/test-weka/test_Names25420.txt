@@ -1,0 +1,8 @@
+* * set evaluation measure * * * selected tag * * * decision table 
+* * set evaluation measure * * * selected tag * * * * filter 
+* * set evaluation measure * * * selected tag * * * * remove 
+* * set evaluation measure * * * selected tag * * * i bk 
+* * set evaluation measure * * * selected tag * * * * instances 
+* * set evaluation measure * * * selected tag * * a s search 
+* * set evaluation measure * * * selected tag * * a s evaluation 
+* * set evaluation measure * * * selected tag * * * * evaluation 

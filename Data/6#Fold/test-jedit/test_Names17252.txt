@@ -1,0 +1,7 @@
+* * * * visit * * * * view * * dockable window manager 
+* * * * visit * * * * view * * tool bar manager 
+* * * * visit * * * * view * * * search bar 
+* * * * visit * * * * view * * * action bar 
+* * * * visit * * * * view * * * edit pane 
+* * * * visit * * * * view * * * status bar 
+* * * * visit * * * * view * * * input handler 

@@ -1,0 +1,4 @@
+* * notify instance available * * * prediction appender * * * instance event 
+* * notify instance available * * * prediction appender * * * * instances 
+* * notify instance available * * * prediction appender * * * bean visual 
+* * notify instance available * * * prediction appender * * * stream throughput 

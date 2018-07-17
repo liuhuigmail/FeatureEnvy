@@ -1,0 +1,2 @@
+* * * add icons * * * icon registry * * * map model 
+* * * add icons * * * icon registry * sorted combo box model 

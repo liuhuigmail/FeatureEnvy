@@ -1,0 +1,3 @@
+* * * get panels * * * * explorer * * * preprocess panel 
+* * * get panels * * * * explorer * * * log panel 
+* * * get panels * * * * explorer * * * * memory 

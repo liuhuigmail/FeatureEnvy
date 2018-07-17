@@ -1,0 +1,2 @@
+* * * batch insert * * * cover tree * * * euclidean distance 
+* * * batch insert * * * cover tree * * tree performance stats 

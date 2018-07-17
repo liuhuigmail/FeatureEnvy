@@ -1,0 +1,2 @@
+* * * show dialog * * * viewer dialog * * * * instances 
+* * * show dialog * * * viewer dialog * * * arff panel 

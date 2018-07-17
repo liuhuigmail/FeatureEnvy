@@ -1,0 +1,1 @@
+* * * calc pivot * * middle out constructor * * * * instances 

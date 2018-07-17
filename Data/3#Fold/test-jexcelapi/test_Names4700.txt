@@ -1,0 +1,16 @@
+* * set page setup * * writable sheet impl * * * page orientation 
+* * set page setup * * writable sheet impl * * * cell view 
+* * set page setup * * writable sheet impl * * * * logger 
+* * set page setup * * writable sheet impl * * * * file 
+* * set page setup * * writable sheet impl * * * formatting records 
+* * set page setup * * writable sheet impl * * * shared strings 
+* * set page setup * * writable sheet impl * * * merged cells 
+* * set page setup * * writable sheet impl * p l s record 
+* * set page setup * * writable sheet impl * button property set record 
+* * set page setup * * writable sheet impl * * * data validation 
+* * set page setup * * writable sheet impl * * * auto filter 
+* * set page setup * * writable sheet impl * * * combo box 
+* * set page setup * * writable sheet impl * * * sheet settings 
+* * set page setup * * writable sheet impl * * * sheet writer 
+* * set page setup * * writable sheet impl * * * workbook settings 
+* * set page setup * * writable sheet impl * * writable workbook impl 

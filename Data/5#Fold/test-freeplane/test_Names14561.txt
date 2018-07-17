@@ -1,0 +1,2 @@
+* * get text color * headless map view controller * * * node model 
+* * get text color * headless map view controller * * * map model 

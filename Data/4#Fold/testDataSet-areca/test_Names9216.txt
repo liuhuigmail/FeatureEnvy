@@ -1,0 +1,2 @@
+get mode base 1 0 * * a c l * posix meta data impl 
+get mode base 1 0 * * a c l * * extended attribute list 

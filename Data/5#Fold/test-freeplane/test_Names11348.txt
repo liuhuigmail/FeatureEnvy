@@ -1,0 +1,2 @@
+* * after map change * * * map model * * assign attribute dialog 
+* * after map change * * * map model * * * attribute controller 

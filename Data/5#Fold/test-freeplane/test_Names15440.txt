@@ -1,0 +1,6 @@
+* * * get component * * map view controller * * * node model 
+* * * get component * * map view controller * * * map view 
+* * * get component * * map view controller map view change observer compound 
+* * * get component * * map view controller * * * * controller 
+* * * get component * * map view controller * * zoom in action 
+* * * get component * * map view controller * * zoom out action 

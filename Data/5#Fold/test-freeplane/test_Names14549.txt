@@ -1,0 +1,2 @@
+* * get background color * headless map view controller * * * node model 
+* * get background color * headless map view controller * * * map model 

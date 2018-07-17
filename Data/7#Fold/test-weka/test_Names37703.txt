@@ -1,0 +1,4 @@
+* * * accept clusterer * * serialized model saver * * batch clusterer event 
+* * * accept clusterer * * serialized model saver * * * bean visual 
+* * * accept clusterer * * serialized model saver * * * * tag 
+* * * accept clusterer * * serialized model saver * * * * environment 

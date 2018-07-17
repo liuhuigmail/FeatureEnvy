@@ -1,0 +1,2 @@
+* * * update processor * * * processors table * * * resource manager 
+* * * update processor * * * processors table * * target edition window 

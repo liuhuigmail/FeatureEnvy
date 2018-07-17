@@ -1,0 +1,3 @@
+* * * read seq * * * delta reader * * * task monitor 
+* * * read seq * * * delta reader * * * hash sequence 
+* * * read seq * * * delta reader * file sequencer byte processor 

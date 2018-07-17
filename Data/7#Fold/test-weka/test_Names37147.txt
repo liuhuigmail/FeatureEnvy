@@ -1,0 +1,5 @@
+* * * set environment * * * * join * * * * environment 
+* * * set environment * * * * join * * * instance event 
+* * * set environment * * * * join * * * * instances 
+* * * set environment * * * * join * * * bean visual 
+* * * set environment * * * * join * * * stream throughput 

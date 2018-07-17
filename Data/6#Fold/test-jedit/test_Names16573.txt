@@ -1,0 +1,2 @@
+* * add document type * * app bundle properties * * * document type 
+* * add document type * * * document type * * app bundle properties 

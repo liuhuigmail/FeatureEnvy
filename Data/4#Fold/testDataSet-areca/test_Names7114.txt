@@ -1,0 +1,2 @@
+* * * allow test * * abstract filter composite * * * resource manager 
+* * * allow test * * abstract filter composite * * filter edition window 

@@ -1,0 +1,7 @@
+* * * global info * * * boundary visualizer * * * * instances 
+* * * global info * * * boundary visualizer * * * boundary panel 
+* * * global info * * * boundary visualizer * * * class panel 
+* * * global info * * * boundary visualizer * k d data generator 
+* * * global info * * * boundary visualizer * * generic object editor 
+* * * global info * * * boundary visualizer * * * property panel 
+* * * global info * * * boundary visualizer * * extension file filter 

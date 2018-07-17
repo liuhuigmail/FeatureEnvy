@@ -1,0 +1,2 @@
+* * set sort type * * * sort labels * * * selected tag 
+* * set sort type * * * sort labels * * * * range 

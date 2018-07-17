@@ -1,0 +1,10 @@
+* * write tail records * * * * drawing * * * * file 
+* * write tail records * * * * drawing * * * * logger 
+* * write tail records * * * * drawing * * * escher container 
+* * write tail records * * * * drawing * * mso drawing record 
+* * write tail records * * * * drawing * * * obj record 
+* * write tail records * * * * drawing * * * * origin 
+* * write tail records * * * * drawing * * * drawing group 
+* * write tail records * * * * drawing * * * drawing data 
+* * write tail records * * * * drawing * * * shape type 
+* * write tail records * * * * drawing * p n g reader 

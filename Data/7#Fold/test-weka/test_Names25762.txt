@@ -1,0 +1,3 @@
+* * * classify instance * * l m t * * replace missing values 
+* * * classify instance * * l m t * * nominal to binary 
+* * * classify instance * * l m t * l m t node 

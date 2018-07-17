@@ -1,0 +1,11 @@
+* * * add mso * * * * button * * mso drawing record 
+* * * add mso * * * * button * * * * logger 
+* * * add mso * * * * button * * * escher container 
+* * * add mso * * * * button * * * obj record 
+* * * add mso * * * * button * * * * origin 
+* * * add mso * * * * button * * * drawing group 
+* * * add mso * * * * button * * * drawing data 
+* * * add mso * * * * button * * * shape type 
+* * * add mso * * * * button * * text object record 
+* * * add mso * * * * button * * * continue record 
+* * * add mso * * * * button * * * workbook settings 

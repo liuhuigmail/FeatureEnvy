@@ -1,0 +1,4 @@
+* * new color attribute * * * visualize panel * * * * instances 
+* * new color attribute * * * visualize panel * * * attribute panel 
+* * new color attribute * * * visualize panel * * * legend panel 
+* * new color attribute * * * visualize panel * * * class panel 

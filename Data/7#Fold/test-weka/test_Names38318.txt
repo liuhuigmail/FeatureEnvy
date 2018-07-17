@@ -1,0 +1,3 @@
+* * notify instance listeners * * * class assigner * * * instance event 
+* * notify instance listeners * * * class assigner * * * * instances 
+* * notify instance listeners * * * class assigner * * * bean visual 

@@ -1,0 +1,11 @@
+* * * * initialize * * * * button * * * * logger 
+* * * * initialize * * * * button * * * escher container 
+* * * * initialize * * * * button * * mso drawing record 
+* * * * initialize * * * * button * * * obj record 
+* * * * initialize * * * * button * * * * origin 
+* * * * initialize * * * * button * * * drawing group 
+* * * * initialize * * * * button * * * drawing data 
+* * * * initialize * * * * button * * * shape type 
+* * * * initialize * * * * button * * text object record 
+* * * * initialize * * * * button * * * continue record 
+* * * * initialize * * * * button * * * workbook settings 

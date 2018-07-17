@@ -1,0 +1,2 @@
+* * * set log * * * text saver * * * bean visual 
+* * * set log * * * text saver * * * * environment 

@@ -1,0 +1,2 @@
+* fill x m l * * style contains condition * x m l element 
+* fill x m l * x m l element * * style contains condition 

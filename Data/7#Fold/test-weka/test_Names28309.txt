@@ -1,0 +1,3 @@
+* * * set environment * * * database loader * * * * environment 
+* * * set environment * * * database loader * * * * instances 
+* * * set environment * * * database loader * * * database connection 

@@ -1,0 +1,1 @@
+* * get exterior color * * * cloud controller * * * node model 

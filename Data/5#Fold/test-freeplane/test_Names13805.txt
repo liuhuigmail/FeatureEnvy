@@ -1,0 +1,1 @@
+* * can select values * node text condition controller * * * named object 

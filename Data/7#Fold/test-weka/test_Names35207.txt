@@ -1,0 +1,2 @@
+* * * set stemmer fixed dictionary string to word * * * dictionary builder 
+* * * set stemmer fixed dictionary string to word * * * * environment 

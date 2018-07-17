@@ -1,0 +1,3 @@
+* add branch to selection * * * map view * * * node view 
+* add branch to selection * * * map view * * * mode controller 
+* add branch to selection * * * map view * * * map model 

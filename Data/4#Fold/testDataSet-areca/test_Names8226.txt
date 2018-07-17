@@ -1,0 +1,2 @@
+* * * ensure open * * zip output stream * * * zip entry 
+* * * ensure open * * zip output stream * * * serialized collection 

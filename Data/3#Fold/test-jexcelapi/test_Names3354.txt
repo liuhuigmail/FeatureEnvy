@@ -1,0 +1,10 @@
+* * get vertical resolution * * * * drawing * * * length unit 
+* * get vertical resolution * * * * drawing * * * * logger 
+* * get vertical resolution * * * * drawing * * * escher container 
+* * get vertical resolution * * * * drawing * * mso drawing record 
+* * get vertical resolution * * * * drawing * * * obj record 
+* * get vertical resolution * * * * drawing * * * * origin 
+* * get vertical resolution * * * * drawing * * * drawing group 
+* * get vertical resolution * * * * drawing * * * drawing data 
+* * get vertical resolution * * * * drawing * * * shape type 
+* * get vertical resolution * * * * drawing * p n g reader 

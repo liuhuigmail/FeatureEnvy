@@ -1,0 +1,17 @@
+* * * rename file x d m main window * * download list item 
+* * * rename file x d m main window x d m video panel 
+* * * rename file x d m main window * * main table model 
+* * * rename file x d m main window * * * download list 
+* * * rename file x d m main window * x d m config 
+* * * rename file x d m main window x d m tool bar 
+* * * rename file x d m main window x d m button u 
+* * * rename file x d m main window * * * config dialog 
+* * * rename file x d m main window * * * batch dlg 
+* * * rename file x d m main window * * batch download dlg 
+* * * rename file x d m main window * * media table model 
+* * * rename file x d m main window * * youtube grabber dlg 
+* * * rename file x d m main window * * browser integration dlg 
+* * * rename file x d m main window * * * about dialog 
+* * * rename file x d m main window * * * assemble dialog 
+* * * rename file x d m main window * * * drop box 
+* * * rename file x d m main window * * * side panel 

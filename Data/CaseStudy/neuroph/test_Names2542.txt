@@ -1,0 +1,1 @@
+calculate error and update output * * matrix momentum backpropagation * matrix multi layer perceptron 

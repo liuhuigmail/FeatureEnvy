@@ -1,0 +1,2 @@
+write zip 6 4 extra * * zip output stream * * * zip entry 
+write zip 6 4 extra * * zip output stream * * * serialized collection 

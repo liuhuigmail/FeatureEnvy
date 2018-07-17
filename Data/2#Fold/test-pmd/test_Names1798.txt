@@ -1,0 +1,1 @@
+* * * equals node * * abstract report node * * * violation node 

@@ -1,0 +1,4 @@
+get transformed object no throw * * * text controller * * * node model 
+get transformed object no throw * * * text controller * * * mode controller 
+get transformed object no throw * * * text controller * * * node model 
+get transformed object no throw * * * text controller * * * mode controller 

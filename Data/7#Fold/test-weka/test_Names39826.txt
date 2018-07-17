@@ -1,0 +1,4 @@
+* * set master plot * * * visualize panel * plot data 2 d 
+* * set master plot * * * visualize panel * * * attribute panel 
+* * set master plot * * * visualize panel * * * legend panel 
+* * set master plot * * * visualize panel * * * class panel 

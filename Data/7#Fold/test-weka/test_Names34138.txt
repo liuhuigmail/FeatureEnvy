@@ -1,0 +1,3 @@
+* * * set estimator * * class conditional probabilities * * * naive bayes 
+* * * set estimator * * class conditional probabilities * * * * remove 
+* * * set estimator * * class conditional probabilities * * * * instances 

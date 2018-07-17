@@ -1,0 +1,5 @@
+* * accept training set * * * * filter * * training set event 
+* * accept training set * * * * filter * * * bean visual 
+* * accept training set * * * * filter * * * * instances 
+* * accept training set * * * * filter * * * * filter 
+* * accept training set * * * * filter * * * instance event 

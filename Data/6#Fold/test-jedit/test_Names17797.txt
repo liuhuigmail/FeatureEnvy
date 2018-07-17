@@ -1,0 +1,3 @@
+* * get type descriptor b s h typed variable * * * call stack 
+* * get type descriptor b s h typed variable * * * * interpreter 
+* * get type descriptor b s h typed variable * * * * modifiers 

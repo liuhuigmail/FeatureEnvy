@@ -1,0 +1,11 @@
+set instances from d b * * * preprocess panel * * * instance query 
+set instances from d b * * * preprocess panel * * instances summary panel 
+set instances from d b * * * preprocess panel * * attribute selection panel 
+set instances from d b * * * preprocess panel * * attribute summary panel 
+set instances from d b * * * preprocess panel * * generic object editor 
+set instances from d b * * * preprocess panel * * * property panel 
+set instances from d b * * * preprocess panel * * converter file chooser 
+set instances from d b * * * preprocess panel * * * * instances 
+set instances from d b * * * preprocess panel * * * data generator 
+set instances from d b * * * preprocess panel * * attribute visualization panel 
+set instances from d b * * * preprocess panel * * * * explorer 

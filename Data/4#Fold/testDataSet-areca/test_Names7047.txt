@@ -1,0 +1,2 @@
+* * get current id * import target tree composite * * * resource manager 
+* * get current id * import target tree composite * * * * workspace 

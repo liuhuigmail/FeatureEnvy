@@ -1,0 +1,10 @@
+* * handle buffer update * v f s browser * * * buffer update 
+* * handle buffer update * v f s browser * * * action context 
+* * handle buffer update * v f s browser * * * * view 
+* * handle buffer update * v f s browser * * history text field 
+* * handle buffer update * v f s browser * * * browser view 
+* * handle buffer update * * * buffer update * v f s browser 
+* * handle buffer update * * * buffer update * * * action context 
+* * handle buffer update * * * buffer update * * * * view 
+* * handle buffer update * * * buffer update * * history text field 
+* * handle buffer update * * * buffer update * * * browser view 

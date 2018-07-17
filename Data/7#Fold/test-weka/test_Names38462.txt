@@ -1,0 +1,7 @@
+* * * set instances * * * boundary visualizer * * * * instances 
+* * * set instances * * * boundary visualizer * * * boundary panel 
+* * * set instances * * * boundary visualizer * * * class panel 
+* * * set instances * * * boundary visualizer * k d data generator 
+* * * set instances * * * boundary visualizer * * generic object editor 
+* * * set instances * * * boundary visualizer * * * property panel 
+* * * set instances * * * boundary visualizer * * extension file filter 

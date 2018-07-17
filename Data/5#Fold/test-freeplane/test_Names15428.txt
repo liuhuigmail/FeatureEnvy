@@ -1,0 +1,5 @@
+* add map selection listener * * map view controller * * * map view 
+* add map selection listener * * map view controller map view change observer compound 
+* add map selection listener * * map view controller * * * * controller 
+* add map selection listener * * map view controller * * zoom in action 
+* add map selection listener * * map view controller * * zoom out action 

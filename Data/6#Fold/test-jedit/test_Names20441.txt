@@ -1,0 +1,4 @@
+* handle search settings changed * * e b message * * * search dialog 
+* handle search settings changed * * e b message * * * * view 
+* handle search settings changed * * e b message * * history text area 
+* handle search settings changed * * e b message * * history text field 

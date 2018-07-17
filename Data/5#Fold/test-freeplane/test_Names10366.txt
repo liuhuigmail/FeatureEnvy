@@ -1,0 +1,2 @@
+* * * decorate action * * * menu builder * * a freeplane action 
+* * * decorate action * * * menu builder * * * mode controller 

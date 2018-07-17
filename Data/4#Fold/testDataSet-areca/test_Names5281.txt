@@ -1,0 +1,4 @@
+* * * * open * * * abstract target * * * * manifest 
+* * * * open * * * abstract target * * * process context 
+* * * * open * * * abstract target * * * filter group 
+* * * * open * * * abstract target * * * processor list 

@@ -1,0 +1,4 @@
+* * do hyper search * * * * buffer * * hyper search request 
+* * do hyper search * * * * buffer * * * * view 
+* * do hyper search * * * * buffer * * * search matcher 
+* * do hyper search * * * * buffer * * hyper search results 

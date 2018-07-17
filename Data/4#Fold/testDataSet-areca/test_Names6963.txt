@@ -1,0 +1,4 @@
+* * * refresh manifest * * logical view composite * * entry archive data 
+* * * refresh manifest * * logical view composite * * * archive explorer 
+* * * refresh manifest * * logical view composite * * * * application 
+* * * refresh manifest * * logical view composite * * * resource manager 

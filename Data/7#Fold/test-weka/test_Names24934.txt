@@ -1,0 +1,2 @@
+distribution for instance majority voting * * * * environment * * * * vote 
+distribution for instance majority voting * * * * environment * * * * instances 

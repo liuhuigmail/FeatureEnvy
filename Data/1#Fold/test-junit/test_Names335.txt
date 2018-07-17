@@ -1,0 +1,2 @@
+* * get annotated supplier * * * * assignments * * * parameter signature 
+* * get annotated supplier * * * * assignments * * * test class 

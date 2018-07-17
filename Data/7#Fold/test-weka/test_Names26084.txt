@@ -1,0 +1,3 @@
+* * * right side bin c 4 5 split * * * * instances 
+* * * right side bin c 4 5 split * info gain split crit 
+* * * right side bin c 4 5 split * gain ratio split crit 

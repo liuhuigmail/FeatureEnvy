@@ -1,0 +1,12 @@
+* * * copy workbook * * * * workbook * * writable workbook impl 
+* * * copy workbook * * * * workbook * * * * logger 
+* * * copy workbook * * * * workbook * * * formatting records 
+* * * copy workbook * * * * workbook * * * * file 
+* * * copy workbook * * * * workbook * * * * fonts 
+* * * copy workbook * * * * workbook * * external sheet record 
+* * * copy workbook * * * * workbook * * * shared strings 
+* * * copy workbook * * * * workbook * * * workbook settings 
+* * * copy workbook * * * * workbook * * * drawing group 
+* * * copy workbook * * * * workbook * * * * styles 
+* * * copy workbook * * * * workbook * button property set record 
+* * * copy workbook * * * * workbook * * * country record 

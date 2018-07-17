@@ -1,0 +1,2 @@
+* * check file status * * * * view * * * * buffer 
+* * check file status * * * * view * * * token marker 

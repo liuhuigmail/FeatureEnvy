@@ -1,0 +1,2 @@
+* * * set visual * * * class assigner * * * bean visual 
+* * * set visual * * * class assigner * * * * instances 

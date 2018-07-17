@@ -1,0 +1,3 @@
+* * notify instance loaded * * * * loader * * * instance event 
+* * notify instance loaded * * * * loader * * * * instances 
+* * notify instance loaded * * * * loader * * * * environment 

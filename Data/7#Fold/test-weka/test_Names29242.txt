@@ -1,0 +1,3 @@
+* * * get capabilities * * add i d * * filtered neighbour search 
+* * * get capabilities * * add i d * * * * filter 
+* * * get capabilities * * add i d * * nearest neighbour search 

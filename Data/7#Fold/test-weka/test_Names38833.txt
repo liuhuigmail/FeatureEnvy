@@ -1,0 +1,7 @@
+* * update capabilities filter * * attribute selection panel * * * * capabilities 
+* * update capabilities filter * * attribute selection panel * * * * explorer 
+* * update capabilities filter * * attribute selection panel * * generic object editor 
+* * update capabilities filter * * attribute selection panel * * * property panel 
+* * update capabilities filter * * attribute selection panel * * * save buffer 
+* * update capabilities filter * * attribute selection panel * * result history panel 
+* * update capabilities filter * * attribute selection panel * * * * instances 

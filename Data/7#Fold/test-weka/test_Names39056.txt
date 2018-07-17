@@ -1,0 +1,6 @@
+* set up log panel * * * visible layout * * * log panel 
+* set up log panel * * * visible layout * * * * flow 
+* set up log panel * * * visible layout * * * * environment 
+* set up log panel * * * visible layout * main k f perspective 
+* set up log panel * * * visible layout * * * layout panel 
+* set up log panel * * * visible layout * * * step visual 

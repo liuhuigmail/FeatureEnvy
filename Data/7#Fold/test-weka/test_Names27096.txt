@@ -1,0 +1,2 @@
+* * * set value * * * * attribute * * * abstract instance 
+* * * set value * * * * attribute * * * * instances 

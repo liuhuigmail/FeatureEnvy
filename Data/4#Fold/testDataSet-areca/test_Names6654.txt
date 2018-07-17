@@ -1,0 +1,3 @@
+* * * init filter * * filter edition window * * * resource manager 
+* * * init filter * * filter edition window * * abstract filter composite 
+* * * init filter * * filter edition window * * file system target 

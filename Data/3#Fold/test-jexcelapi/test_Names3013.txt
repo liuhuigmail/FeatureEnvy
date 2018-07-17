@@ -1,0 +1,1 @@
+* * get format index * * * * logger * * * format record 

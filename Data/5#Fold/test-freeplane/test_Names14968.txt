@@ -1,0 +1,5 @@
+* * * set zoom * * * mode controller * * * viewer controller 
+* * * set zoom * * * mode controller * * * map model 
+* * * set zoom * * * mode controller * * * external resource 
+* * * set zoom * * * mode controller m external image drop listener 
+* * * set zoom * * * mode controller * external image popup menu 

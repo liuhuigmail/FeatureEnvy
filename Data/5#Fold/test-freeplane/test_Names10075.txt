@@ -1,0 +1,1 @@
+add property change listener and * * * resource controller * * * resource bundles 

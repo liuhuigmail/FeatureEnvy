@@ -1,0 +1,2 @@
+* copy string att vals * * * * instances * * * * sorter 
+* copy string att vals * * * * instances * * * * data 

@@ -1,0 +1,8 @@
+* * before map change * * * filter controller * * * map model 
+* * before map change * * * filter controller * * a selectable condition 
+* * before map change * * * filter controller * * * condition factory 
+* * before map change * * * filter controller * * default condition renderer 
+* * before map change * * * filter controller * * filter menu builder 
+* * before map change * * * filter controller * * * filter history 
+* * before map change * * * filter controller * * * * filter 
+* * before map change * * * filter controller * * filter condition editor 

@@ -1,0 +1,2 @@
+* * * global info * * merge many values * * * single index 
+* * * global info * * merge many values * * * * range 

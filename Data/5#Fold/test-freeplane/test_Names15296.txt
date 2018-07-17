@@ -1,0 +1,3 @@
+* get visible summary view * * * map view * * * node view 
+* get visible summary view * * * map view * * * mode controller 
+* get visible summary view * * * map view * * * map model 

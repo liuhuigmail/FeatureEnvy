@@ -1,0 +1,2 @@
+* * log recovery step * * recovery filter map * * * file list 
+* * log recovery step * * recovery filter map * * * process context 

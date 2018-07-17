@@ -1,0 +1,4 @@
+* * * get value * * * name space * * l h s 
+* * * get value * * * name space * * bsh class manager 
+* * * get value * * * name space * * * * this 
+* * * get value * * * name space * * * simple node 

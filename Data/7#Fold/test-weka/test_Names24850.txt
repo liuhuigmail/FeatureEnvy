@@ -1,0 +1,2 @@
+* * * classify instance * * * * discretize * * regression by discretization 
+* * * classify instance * * * * discretize * * * * instances 

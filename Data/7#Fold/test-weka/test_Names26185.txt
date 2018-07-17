@@ -1,0 +1,2 @@
+* * * classify instance * * * * instances * * * * rule 
+* * * classify instance * * * * instances * * * rule node 

@@ -1,0 +1,3 @@
+* * * write cells * * * row record * * * * file 
+* * * write cells * * * row record * * * * logger 
+* * * write cells * * * row record * * x f record 

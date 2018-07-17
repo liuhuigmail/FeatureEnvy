@@ -1,0 +1,5 @@
+* remove result changed listener * * * sql viewer * * * connection panel 
+* remove result changed listener * * * sql viewer * * * query panel 
+* remove result changed listener * * * sql viewer * * * result panel 
+* remove result changed listener * * * sql viewer * * * info panel 
+* remove result changed listener * * * sql viewer * * * * memory 

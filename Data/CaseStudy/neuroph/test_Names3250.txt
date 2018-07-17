@@ -1,0 +1,2 @@
+* * test neural network * * animals classification sample * * * neural network 
+* * test neural network * * animals classification sample * * * data set 

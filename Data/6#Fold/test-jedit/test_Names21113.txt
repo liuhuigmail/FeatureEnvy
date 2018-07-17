@@ -1,0 +1,9 @@
+* * get selected text * * * text area * * * * selection 
+* * get selected text * * * text area * * * chunk cache 
+* * get selected text * * * text area * * * display manager 
+* * get selected text * * * text area * * * selection manager 
+* * get selected text * * * text area * * * * gutter 
+* * get selected text * * * text area * * text area painter 
+* * get selected text * * * text area * elastic tabstops tab expander 
+* * get selected text * * * text area * * input method support 
+* * get selected text * * * text area * * j edit buffer 

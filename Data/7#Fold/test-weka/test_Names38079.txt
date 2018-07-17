@@ -1,0 +1,6 @@
+* * * global info * * * * classifier * * * bean visual 
+* * * global info * * * * classifier * * * * instances 
+* * * global info * * * * classifier * * incremental classifier event 
+* * * global info * * * * classifier * * * * environment 
+* * * global info * * * * classifier * * * instance event 
+* * * global info * * * * classifier * * * stream throughput 

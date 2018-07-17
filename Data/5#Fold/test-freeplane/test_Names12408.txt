@@ -1,0 +1,2 @@
+* format node as hyperlink * * * link controller * * * node model 
+* format node as hyperlink * * * link controller * * * icon store 

@@ -1,0 +1,10 @@
+* set x f border * * x f record * * * * border 
+* set x f border * * x f record * * border line style 
+* set x f border * * x f record * * * * colour 
+* set x f border * * x f record * * * * logger 
+* set x f border * * x f record * * * * alignment 
+* set x f border * * x f record * * * vertical alignment 
+* set x f border * * x f record * * * * orientation 
+* set x f border * * x f record * * * * pattern 
+* set x f border * * x f record * * * font record 
+* set x f border * * x f record * * * formatting records 

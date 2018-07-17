@@ -1,0 +1,4 @@
+* * set node splitter * * k d tree k d tree node splitter 
+* * set node splitter * * k d tree * k d tree node 
+* * set node splitter * * k d tree * * tree performance stats 
+* * set node splitter * * k d tree * * * euclidean distance 

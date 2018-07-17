@@ -1,0 +1,3 @@
+* * handle enumerated attribute * n b tree split * * * * instances 
+* * handle enumerated attribute * n b tree split * c 4 5 split 
+* * handle enumerated attribute * n b tree split n b tree no split 

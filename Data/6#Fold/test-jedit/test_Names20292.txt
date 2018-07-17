@@ -1,0 +1,2 @@
+* * * * init * text area option pane * * * font selector 
+* * * * init * text area option pane * * color well button 

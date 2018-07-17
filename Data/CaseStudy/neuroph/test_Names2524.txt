@@ -1,0 +1,2 @@
+* copy neurons to matrices * * matrix mlp layer * * * * layer 
+* copy neurons to matrices * * matrix mlp layer * * * transfer function 

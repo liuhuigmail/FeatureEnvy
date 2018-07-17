@@ -1,0 +1,3 @@
+* * set custom name * * * strip chart * * * bean visual 
+* * set custom name * * * strip chart * * * printable component 
+* * set custom name * * * strip chart * * * chart event 

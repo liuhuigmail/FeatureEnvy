@@ -1,0 +1,1 @@
+write children r t f * * * clipboard controller * * * node model 

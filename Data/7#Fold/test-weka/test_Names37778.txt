@@ -1,0 +1,4 @@
+* * add configuration listener * * * bean visual * * * * filter 
+* * add configuration listener * * * bean visual * * * * instances 
+* * add configuration listener * * * bean visual * * * * filter 
+* * add configuration listener * * * bean visual * * * instance event 

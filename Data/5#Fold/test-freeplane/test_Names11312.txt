@@ -1,0 +1,3 @@
+* * after map change * * attribute manager dialog * * * map model 
+* * after map change * * attribute manager dialog * * import attributes dialog 
+* * after map change * * attribute manager dialog * * * attribute registry 

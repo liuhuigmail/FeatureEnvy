@@ -1,0 +1,4 @@
+* * * eval selection * * * text area * * bean shell facade 
+* * * eval selection * * * text area * * * name space 
+* * * eval selection * * * text area * * bsh class manager 
+* * * eval selection * * * text area * * * * interpreter 

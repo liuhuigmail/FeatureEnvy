@@ -1,0 +1,1 @@
+* * * convert instance * * nominal to binary * * * * range 

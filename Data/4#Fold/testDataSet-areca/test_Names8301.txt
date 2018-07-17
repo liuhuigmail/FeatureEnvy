@@ -1,0 +1,2 @@
+* * * compute sig * * * delta reader * * * hash sequence 
+* * * compute sig * * * delta reader * file sequencer byte processor 

@@ -1,0 +1,5 @@
+* * * column removed * * * cell value * * * * logger 
+* * * column removed * * * cell value * * x f record 
+* * * column removed * * * cell value * * * formatting records 
+* * * column removed * * * cell value * * writable sheet impl 
+* * * column removed * * * cell value * * writable cell features 

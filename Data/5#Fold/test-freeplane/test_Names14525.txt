@@ -1,0 +1,1 @@
+* change note window location * * application view controller * navigation next map action 

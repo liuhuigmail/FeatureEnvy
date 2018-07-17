@@ -1,0 +1,2 @@
+* * add text listener * * * bean visual * * * * associator 
+* * add text listener * * * bean visual * * * * environment 

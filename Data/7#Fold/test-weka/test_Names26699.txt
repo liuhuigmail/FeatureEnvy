@@ -1,0 +1,2 @@
+* * set link type * * * hierarchical clusterer * * * selected tag 
+* * set link type * * * hierarchical clusterer * * * * instances 

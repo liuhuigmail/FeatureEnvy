@@ -1,0 +1,9 @@
+* * set image anchor * * * * drawing * * * * logger 
+* * set image anchor * * * * drawing * * * escher container 
+* * set image anchor * * * * drawing * * mso drawing record 
+* * set image anchor * * * * drawing * * * obj record 
+* * set image anchor * * * * drawing * * * * origin 
+* * set image anchor * * * * drawing * * * drawing group 
+* * set image anchor * * * * drawing * * * drawing data 
+* * set image anchor * * * * drawing * * * shape type 
+* * set image anchor * * * * drawing * p n g reader 

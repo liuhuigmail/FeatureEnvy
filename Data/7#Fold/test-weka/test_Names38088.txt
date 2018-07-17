@@ -1,0 +1,6 @@
+* * set classifier template * * * * classifier * * * bean visual 
+* * set classifier template * * * * classifier * * * * instances 
+* * set classifier template * * * * classifier * * incremental classifier event 
+* * set classifier template * * * * classifier * * * * environment 
+* * set classifier template * * * * classifier * * * instance event 
+* * set classifier template * * * * classifier * * * stream throughput 

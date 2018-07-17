@@ -1,0 +1,9 @@
+* * * set workspace * * * * application * * * * workspace 
+* * * set workspace * * * * application * * * resource manager 
+* * * set workspace * * * * application * c tab folder manager 
+* * * set workspace * * * * application * * * main window 
+* * * set workspace * * * * application * * * trace entry 
+* * * set workspace * * * * application * * entry archive data 
+* * * set workspace * * * * application * u i recovery filter 
+* * * set workspace * * * * application * * * file tool 
+* * * set workspace * * * * application * * * simulation result 

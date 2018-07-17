@@ -1,0 +1,4 @@
+* * set paper size * * * setup record * * * paper size 
+* * set paper size * * * setup record * * * * logger 
+* * set paper size * * * setup record * * * page orientation 
+* * set paper size * * * setup record * * * page order 

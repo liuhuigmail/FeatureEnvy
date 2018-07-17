@@ -1,0 +1,4 @@
+* add map change listener * * * map controller * * * map reader 
+* add map change listener * * * map controller * * * map writer 
+* add map change listener * * * map controller * * * read manager 
+* add map change listener * * * map controller * * * write manager 

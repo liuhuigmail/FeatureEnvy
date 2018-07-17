@@ -1,0 +1,3 @@
+* add capabilities filter listener * * * * explorer * * * preprocess panel 
+* add capabilities filter listener * * * * explorer * * * log panel 
+* add capabilities filter listener * * * * explorer * * * * memory 

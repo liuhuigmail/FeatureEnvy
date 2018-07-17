@@ -1,0 +1,3 @@
+* * * convert instance * * class conditional probabilities * * * naive bayes 
+* * * convert instance * * class conditional probabilities * * * * remove 
+* * * convert instance * * class conditional probabilities * * * * instances 

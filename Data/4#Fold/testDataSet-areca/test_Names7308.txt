@@ -1,0 +1,1 @@
+* * write hash entry * * archive content adapter * file system recovery entry 

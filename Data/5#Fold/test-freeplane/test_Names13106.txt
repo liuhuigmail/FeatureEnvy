@@ -1,0 +1,4 @@
+* * undoable remove extensions * * * mode controller * * * node model 
+* * undoable remove extensions * * * mode controller * * * extension container 
+* * undoable remove extensions * * * mode controller * * * map controller 
+* * undoable remove extensions * * * mode controller * * * * controller 

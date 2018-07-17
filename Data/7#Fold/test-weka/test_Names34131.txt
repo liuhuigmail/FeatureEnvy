@@ -1,0 +1,3 @@
+* * determine output format * * * * instances * * class conditional probabilities 
+* * determine output format * * * * instances * * * naive bayes 
+* * determine output format * * * * instances * * * * remove 

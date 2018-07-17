@@ -1,0 +1,4 @@
+* * set selected entry * * logical view composite * * * trace entry 
+* * set selected entry * * logical view composite * * * archive explorer 
+* * set selected entry * * logical view composite * * * * application 
+* * set selected entry * * logical view composite * * * resource manager 

@@ -1,0 +1,1 @@
+* get values for property * * link condition controller * * * named object 

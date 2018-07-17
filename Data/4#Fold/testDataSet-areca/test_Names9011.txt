@@ -1,0 +1,3 @@
+* init fictive local file * * * abstract proxy * * * fictive file 
+* init fictive local file * * * abstract proxy * * * remote debug 
+* init fictive local file * * * abstract proxy * remote file info cache 

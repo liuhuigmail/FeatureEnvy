@@ -1,0 +1,2 @@
+* * * check node * * * node model * condition not satisfied decorator 
+* * * check node * * * node model * * a selectable condition 

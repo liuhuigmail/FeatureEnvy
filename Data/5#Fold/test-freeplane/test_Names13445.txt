@@ -1,0 +1,3 @@
+* * * create actions * * m note controller * * * mode controller 
+* * * create actions * * m note controller * * * note manager 
+* * * create actions * * m note controller * * spell checker controller 

@@ -1,0 +1,1 @@
+* * print defect trace * * * result printer * * * test failure 

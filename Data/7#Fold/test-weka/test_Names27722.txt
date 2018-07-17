@@ -1,0 +1,2 @@
+set do not check capabilities * * find with capabilities * * * * capabilities 
+set do not check capabilities * * find with capabilities * * * single index 

@@ -1,0 +1,1 @@
+* * * get edge * * edge view factory * * * node view 

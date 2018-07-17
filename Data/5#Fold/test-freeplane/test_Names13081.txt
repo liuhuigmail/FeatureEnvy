@@ -1,0 +1,4 @@
+* * * select mode * * * * controller * * * mode controller 
+* * * select mode * * * * controller * * * extension container 
+* * * select mode * * * * controller * * * resource controller 
+* * * select mode * * * * controller * * option panel controller 

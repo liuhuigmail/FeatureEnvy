@@ -1,0 +1,5 @@
+* * * set visual * * * * join * * * bean visual 
+* * * set visual * * * * join * * * * environment 
+* * * set visual * * * * join * * * instance event 
+* * * set visual * * * * join * * * * instances 
+* * * set visual * * * * join * * * stream throughput 

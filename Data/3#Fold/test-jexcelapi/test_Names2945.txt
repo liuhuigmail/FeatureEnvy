@@ -1,0 +1,2 @@
+* * * set border * * * empty cell * * * * border 
+* * * set border * * * empty cell * * border line style 

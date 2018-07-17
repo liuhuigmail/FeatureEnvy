@@ -1,0 +1,1 @@
+* can handle n classes * * * check estimator * * * * estimator 

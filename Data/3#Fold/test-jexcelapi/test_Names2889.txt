@@ -1,0 +1,3 @@
+* * * * add * * * auto filter * * auto filter record 
+* * * * add * * * auto filter * * filter mode record 
+* * * * add * * * auto filter * auto filter info record 

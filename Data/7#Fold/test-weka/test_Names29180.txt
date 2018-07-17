@@ -1,0 +1,2 @@
+* * * * setter * * * cover tree * * * euclidean distance 
+* * * * setter * * * cover tree * * tree performance stats 

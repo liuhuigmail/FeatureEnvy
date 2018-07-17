@@ -1,0 +1,3 @@
+* * set parent frame * * set instances panel * * instances summary panel 
+* * set parent frame * * set instances panel * * converter file chooser 
+* * set parent frame * * set instances panel * * * * instances 

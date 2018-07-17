@@ -1,0 +1,4 @@
+* * remove attributes listener * * * attribute registry * * * attribute controller 
+* * remove attributes listener * * * attribute registry * * sorted map vector 
+* * remove attributes listener * * * attribute registry attribute registry combo box column 
+* * remove attributes listener * * * attribute registry * attribute registry table model 

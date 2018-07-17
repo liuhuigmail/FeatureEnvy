@@ -1,0 +1,8 @@
+* * handle buffer update * * * * view * * * buffer update 
+* * handle buffer update * * * * view * * dockable window manager 
+* * handle buffer update * * * * view * * tool bar manager 
+* * handle buffer update * * * * view * * * search bar 
+* * handle buffer update * * * * view * * * action bar 
+* * handle buffer update * * * * view * * * edit pane 
+* * handle buffer update * * * * view * * * status bar 
+* * handle buffer update * * * * view * * * input handler 

@@ -1,0 +1,1 @@
+* * * ensure open * * zip input stream * * * zip entry 

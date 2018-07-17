@@ -1,0 +1,1 @@
+* * * * serialize * * * sequence adapter * * * hash sequence 

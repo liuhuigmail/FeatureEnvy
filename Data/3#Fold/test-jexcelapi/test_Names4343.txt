@@ -1,0 +1,16 @@
+* * add cell validation * * * sheet reader * data validity settings record 
+* * add cell validation * * * sheet reader * * * * logger 
+* * add cell validation * * * sheet reader * * * * file 
+* * add cell validation * * * sheet reader * s s t record 
+* * add cell validation * * * sheet reader * b o f record 
+* * add cell validation * * * sheet reader * * * formatting records 
+* * add cell validation * * * sheet reader * * * auto filter 
+* * add cell validation * * * sheet reader * * * data validation 
+* * add cell validation * * * sheet reader * * * drawing data 
+* * add cell validation * * * sheet reader * p l s record 
+* * add cell validation * * * sheet reader * button property set record 
+* * add cell validation * * * sheet reader * * workspace information record 
+* * add cell validation * * * sheet reader * * * sheet settings 
+* * add cell validation * * * sheet reader * * * workbook settings 
+* * add cell validation * * * sheet reader * * * workbook parser 
+* * add cell validation * * * sheet reader * * * sheet impl 

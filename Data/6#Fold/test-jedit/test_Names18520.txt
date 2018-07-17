@@ -1,0 +1,4 @@
+* * insure nodes parsed b s h method declaration b s h return type 
+* * insure nodes parsed b s h method declaration b s h formal parameters 
+* * insure nodes parsed b s h method declaration * b s h block 
+* * insure nodes parsed b s h method declaration * * * * modifiers 

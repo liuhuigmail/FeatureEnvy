@@ -1,0 +1,7 @@
+* * * build classifier * * * decision table * * * * instances 
+* * * build classifier * * * decision table * * * * filter 
+* * * build classifier * * * decision table * * * * remove 
+* * * build classifier * * * decision table * * * i bk 
+* * * build classifier * * * decision table * * a s search 
+* * * build classifier * * * decision table * * a s evaluation 
+* * * build classifier * * * decision table * * * * evaluation 

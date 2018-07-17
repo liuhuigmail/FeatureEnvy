@@ -1,0 +1,9 @@
+* * * mouse pressed * * * text area * text area mouse handler 
+* * * mouse pressed * * * text area * * * chunk cache 
+* * * mouse pressed * * * text area * * * display manager 
+* * * mouse pressed * * * text area * * * selection manager 
+* * * mouse pressed * * * text area * * * * gutter 
+* * * mouse pressed * * * text area * * text area painter 
+* * * mouse pressed * * * text area * elastic tabstops tab expander 
+* * * mouse pressed * * * text area * * input method support 
+* * * mouse pressed * * * text area * * j edit buffer 

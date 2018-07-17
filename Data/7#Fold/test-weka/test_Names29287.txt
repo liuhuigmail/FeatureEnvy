@@ -1,0 +1,4 @@
+* * distance to hrect * k d tree node * * k d tree 
+* * distance to hrect * k d tree node k d tree node splitter 
+* * distance to hrect * k d tree node * * tree performance stats 
+* * distance to hrect * k d tree node * * * euclidean distance 

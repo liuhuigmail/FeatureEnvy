@@ -1,0 +1,2 @@
+* * test neural network * * forest fires sample * * * neural network 
+* * test neural network * * forest fires sample * * * data set 

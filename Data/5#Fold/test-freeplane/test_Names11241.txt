@@ -1,0 +1,2 @@
+* * get value editor * * attribute condition controller * * * named object 
+* * get value editor * * attribute condition controller * extended combo box model 

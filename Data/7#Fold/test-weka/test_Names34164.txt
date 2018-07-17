@@ -1,0 +1,2 @@
+* * * * process * * merge nominal values * * * * instances 
+* * * * process * * merge nominal values * * * * range 

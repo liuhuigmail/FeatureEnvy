@@ -1,0 +1,6 @@
+* * * convert instance * * * principal components * * * * instances 
+* * * convert instance * * * principal components * * replace missing values 
+* * * convert instance * * * principal components * * nominal to binary 
+* * * convert instance * * * principal components * * * * remove 
+* * * convert instance * * * principal components * * * * standardize 
+* * * convert instance * * * principal components * * * * center 

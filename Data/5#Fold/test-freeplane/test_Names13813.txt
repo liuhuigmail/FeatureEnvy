@@ -1,0 +1,2 @@
+* * supports approximate matching * node text condition controller * * * named object 
+* * supports approximate matching * * * named object * node text condition controller 

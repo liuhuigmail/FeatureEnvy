@@ -1,0 +1,2 @@
+* * * set visual * * * bean visual * * class value picker 
+* * * set visual * * * bean visual * * * * instances 

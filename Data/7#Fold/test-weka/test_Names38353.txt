@@ -1,0 +1,1 @@
+* get bean connection relation * * * meta bean * x m l beans 

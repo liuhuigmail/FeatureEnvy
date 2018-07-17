@@ -1,0 +1,4 @@
+* check on classifier type * * * classifier customizer * * * * classifier 
+* check on classifier type * * * classifier customizer * * property sheet panel 
+* check on classifier type * * * classifier customizer * * file environment field 
+* check on classifier type * * * classifier customizer * * * * environment 

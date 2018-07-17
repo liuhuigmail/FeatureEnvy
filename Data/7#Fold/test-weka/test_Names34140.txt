@@ -1,0 +1,3 @@
+* * set remove filter * * * * remove * * class conditional probabilities 
+* * set remove filter * * * * remove * * * naive bayes 
+* * set remove filter * * * * remove * * * * instances 

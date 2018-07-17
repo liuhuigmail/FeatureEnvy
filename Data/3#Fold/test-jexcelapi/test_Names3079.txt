@@ -1,0 +1,10 @@
+* * * * initialize * * * formatting records * * x f record 
+* * * * initialize * * * formatting records * * * * fonts 
+* * * * initialize * * * formatting records * * * * logger 
+* * * * initialize * * * formatting records * * * * alignment 
+* * * * initialize * * * formatting records * * * vertical alignment 
+* * * * initialize * * * formatting records * * * * orientation 
+* * * * initialize * * * formatting records * * border line style 
+* * * * initialize * * * formatting records * * * * colour 
+* * * * initialize * * * formatting records * * * * pattern 
+* * * * initialize * * * formatting records * * * font record 

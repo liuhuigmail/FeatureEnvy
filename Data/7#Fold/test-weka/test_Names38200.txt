@@ -1,0 +1,5 @@
+* * accept training set * * flow by expression * * training set event 
+* * accept training set * * flow by expression * * * * instances 
+* * accept training set * * flow by expression * * * * environment 
+* * accept training set * * flow by expression * * * instance event 
+* * accept training set * * flow by expression * * * bean visual 

@@ -1,0 +1,2 @@
+* add batch clusterer listener * * * * clusterer * * * bean visual 
+* add batch clusterer listener * * * * clusterer * * * * instances 

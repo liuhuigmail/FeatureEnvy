@@ -1,0 +1,3 @@
+* * add instance listener * * * * appender * * * * instances 
+* * add instance listener * * * * appender * * * instance event 
+* * add instance listener * * * * appender * * * bean visual 

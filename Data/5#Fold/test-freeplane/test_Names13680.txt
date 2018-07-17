@@ -1,0 +1,4 @@
+* * remove style menu * m logical style controller * * * menu builder 
+* * remove style menu * m logical style controller * * filter composer dialog 
+* * remove style menu * m logical style controller * * * menu builder 
+* * remove style menu * m logical style controller * * filter composer dialog 

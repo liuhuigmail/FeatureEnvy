@@ -1,0 +1,2 @@
+* * remove extended attributes * * v f s v f s directory entry 
+* * remove extended attributes v f s directory entry * * v f s 

@@ -1,0 +1,1 @@
+* * * can read name hash file system driver * * * hash cache 

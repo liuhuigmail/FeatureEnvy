@@ -1,0 +1,3 @@
+* * set environment variables * * * * environment * * base execution environment 
+* * set environment variables * * * * environment * * * * settings 
+* * set environment variables * * * * environment * * * log manager 

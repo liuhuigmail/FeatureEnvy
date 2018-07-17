@@ -1,0 +1,3 @@
+select as the only one * * * map view * * * node view 
+select as the only one * * * map view * * * mode controller 
+select as the only one * * * map view * * * map model 

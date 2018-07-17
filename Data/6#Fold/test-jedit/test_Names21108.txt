@@ -1,0 +1,9 @@
+* * remove from selection * * * text area * * * * selection 
+* * remove from selection * * * text area * * * chunk cache 
+* * remove from selection * * * text area * * * display manager 
+* * remove from selection * * * text area * * * selection manager 
+* * remove from selection * * * text area * * * * gutter 
+* * remove from selection * * * text area * * text area painter 
+* * remove from selection * * * text area * elastic tabstops tab expander 
+* * remove from selection * * * text area * * input method support 
+* * remove from selection * * * text area * * j edit buffer 

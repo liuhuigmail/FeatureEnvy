@@ -1,0 +1,5 @@
+* * * global info * * * substring replacer * * * * environment 
+* * * global info * * * substring replacer * * substring replacer rules 
+* * * global info * * * substring replacer * * * instance event 
+* * * global info * * * substring replacer * * * bean visual 
+* * * global info * * * substring replacer * * * stream throughput 

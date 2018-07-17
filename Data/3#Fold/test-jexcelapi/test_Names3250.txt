@@ -1,0 +1,3 @@
+* * * * write * * sheet drawing writer * * * * file 
+* * * * write * * sheet drawing writer * * * * logger 
+* * * * write * * sheet drawing writer * * * workbook settings 

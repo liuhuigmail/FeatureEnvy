@@ -1,0 +1,2 @@
+* * * set date * * * date record * * * * logger 
+* * * set date * * * date record * * writable cell format 

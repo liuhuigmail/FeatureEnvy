@@ -1,0 +1,2 @@
+* * * create area * * clickable image creator * * * map view 
+* * * create area * * clickable image creator * * * node model 

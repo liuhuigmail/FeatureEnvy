@@ -1,0 +1,4 @@
+* * * copy values * * * * instances * * * * filter 
+* * * copy values * * * * instances * * * * queue 
+* * * copy values * * * * instances * * * string locator 
+* * * copy values * * * * instances * * * relational locator 

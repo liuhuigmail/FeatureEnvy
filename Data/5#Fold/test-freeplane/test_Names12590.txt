@@ -1,0 +1,5 @@
+* * after map change * * assign attribute dialog * * * map model 
+* * after map change * * assign attribute dialog * * * extension container 
+* * after map change * * assign attribute dialog * * * * filter 
+* * after map change * * assign attribute dialog * * * icon registry 
+* * after map change * * assign attribute dialog * * * node model 

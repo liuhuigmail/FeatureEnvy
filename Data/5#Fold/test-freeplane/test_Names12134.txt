@@ -1,0 +1,3 @@
+* * * register by * * * icon builder * * * read manager 
+* * * register by * * * icon builder * * * write manager 
+* * * register by * * * icon builder * * * icon store 

@@ -1,0 +1,3 @@
+* * remove conditional style * m logical style controller * * * map model 
+* * remove conditional style * m logical style controller * * conditional style model 
+* * remove conditional style * m logical style controller * * filter composer dialog 

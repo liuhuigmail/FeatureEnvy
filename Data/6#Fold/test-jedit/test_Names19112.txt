@@ -1,0 +1,1 @@
+* get preceding fold levels * * * fold handler * * j edit buffer 

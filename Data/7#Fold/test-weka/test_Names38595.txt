@@ -1,0 +1,3 @@
+* * set result matrix * * output format dialog * * * result matrix 
+* * set result matrix * * output format dialog * * generic object editor 
+* * set result matrix * * output format dialog * * * property panel 

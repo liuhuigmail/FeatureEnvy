@@ -1,0 +1,2 @@
+add settings menu item to * * * perspective manager * * * * settings 
+add settings menu item to * * * perspective manager * * * log panel 

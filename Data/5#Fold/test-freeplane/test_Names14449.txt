@@ -1,0 +1,4 @@
+* * * build menus freeplane g u i starter * * * * controller 
+* * * build menus freeplane g u i starter * * application resource controller 
+* * * build menus freeplane g u i starter * * freeplane splash modern 
+* * * build menus freeplane g u i starter * * application view controller 

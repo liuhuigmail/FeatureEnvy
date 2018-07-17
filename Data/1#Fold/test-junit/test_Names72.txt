@@ -1,0 +1,4 @@
+* * count test cases j unit 4 test adapter * * * * runner 
+* * count test cases j unit 4 test adapter j unit 4 test adapter 
+* * count test cases * * * * runner j unit 4 test adapter 
+* * count test cases * * * * runner j unit 4 test adapter 

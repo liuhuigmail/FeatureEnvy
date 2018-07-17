@@ -1,0 +1,8 @@
+* * * apply filter * * * filter controller * * * * filter 
+* * * apply filter * * * filter controller * * * map model 
+* * * apply filter * * * filter controller * * a selectable condition 
+* * * apply filter * * * filter controller * * * condition factory 
+* * * apply filter * * * filter controller * * default condition renderer 
+* * * apply filter * * * filter controller * * filter menu builder 
+* * * apply filter * * * filter controller * * * filter history 
+* * * apply filter * * * filter controller * * filter condition editor 

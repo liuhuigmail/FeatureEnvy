@@ -1,0 +1,4 @@
+* * search in selection * * hyper search request * * * * buffer 
+* * search in selection * * hyper search request * * * * view 
+* * search in selection * * hyper search request * * * search matcher 
+* * search in selection * * hyper search request * * hyper search results 

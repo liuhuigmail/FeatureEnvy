@@ -1,0 +1,1 @@
+* get conditional node styles * * * node model * * logical style controller 

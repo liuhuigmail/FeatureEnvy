@@ -1,0 +1,10 @@
+* * * set explorer * * * preprocess panel * * * * explorer 
+* * * set explorer * * * preprocess panel * * instances summary panel 
+* * * set explorer * * * preprocess panel * * attribute selection panel 
+* * * set explorer * * * preprocess panel * * attribute summary panel 
+* * * set explorer * * * preprocess panel * * generic object editor 
+* * * set explorer * * * preprocess panel * * * property panel 
+* * * set explorer * * * preprocess panel * * converter file chooser 
+* * * set explorer * * * preprocess panel * * * * instances 
+* * * set explorer * * * preprocess panel * * * data generator 
+* * * set explorer * * * preprocess panel * * attribute visualization panel 

@@ -1,0 +1,2 @@
+* process only test set * * * * clusterer * * * * data 
+* process only test set * * * * clusterer * * * * instances 

@@ -1,0 +1,4 @@
+* * distribution for instance * * * attribute selection * * attribute selected classifier 
+* * distribution for instance * * * attribute selection * * a s evaluation 
+* * distribution for instance * * * attribute selection * * a s search 
+* * distribution for instance * * * attribute selection * * * * instances 

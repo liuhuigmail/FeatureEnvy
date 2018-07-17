@@ -1,0 +1,3 @@
+* write attributes generate content * * * node writer * * * node model 
+* write attributes generate content * * * node writer * * * map controller 
+* write attributes generate content * * * node writer * x m l element 

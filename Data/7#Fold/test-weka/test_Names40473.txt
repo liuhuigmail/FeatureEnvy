@@ -1,0 +1,3 @@
+* get wrapped algorithm class * * a s evaluator * * a s evaluation 
+* get wrapped algorithm class * * a s evaluator * * a s search 
+* get wrapped algorithm class * * a s evaluator * * * attribute selection 

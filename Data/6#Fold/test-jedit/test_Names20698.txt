@@ -1,0 +1,2 @@
+* * * drag enter * * * text area * text area drop handler 
+* * * drag enter * * * text area * * j edit buffer 

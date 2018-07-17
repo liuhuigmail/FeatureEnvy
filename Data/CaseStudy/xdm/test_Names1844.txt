@@ -1,0 +1,2 @@
+* * * * close * f t p connection * x d m config 
+* * * * close * f t p connection * f t p client 

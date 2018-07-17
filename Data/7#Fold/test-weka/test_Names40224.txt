@@ -1,0 +1,5 @@
+get incoming structure from step * * step manager impl * * * step visual 
+get incoming structure from step * * step manager impl * * base execution environment 
+get incoming structure from step * * step manager impl * * * * settings 
+get incoming structure from step * * step manager impl * * * log manager 
+get incoming structure from step * * step manager impl * * * stream throughput 

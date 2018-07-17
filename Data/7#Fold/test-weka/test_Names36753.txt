@@ -1,0 +1,2 @@
+* * * set visual * * * graph viewer * * * bean visual 
+* * * set visual * * * graph viewer * * result history panel 

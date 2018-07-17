@@ -1,0 +1,2 @@
+* * * run test * * * test result * * * test suite 
+* * * run test * * * test suite * * * test result 

@@ -1,0 +1,1 @@
+* * * visit fields * * * class node * * node visitor adapter 

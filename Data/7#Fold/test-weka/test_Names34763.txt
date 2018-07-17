@@ -1,0 +1,6 @@
+* * determine output format * * * principal components * * * * instances 
+* * determine output format * * * principal components * * replace missing values 
+* * determine output format * * * principal components * * nominal to binary 
+* * determine output format * * * principal components * * * * remove 
+* * determine output format * * * principal components * * * * standardize 
+* * determine output format * * * principal components * * * * center 

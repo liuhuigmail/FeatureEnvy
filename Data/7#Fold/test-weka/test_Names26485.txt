@@ -1,0 +1,2 @@
+* * * global info * * * * filter * * * filtered clusterer 
+* * * global info * * * * filter * * * * instances 

@@ -1,0 +1,3 @@
+* * * * init * * * name space * * bean shell facade 
+* * * * init * * * name space * * bsh class manager 
+* * * * init * * * name space * * * * interpreter 

@@ -1,0 +1,4 @@
+add map life cycle listener * * * map controller * * * map reader 
+add map life cycle listener * * * map controller * * * map writer 
+add map life cycle listener * * * map controller * * * read manager 
+add map life cycle listener * * * map controller * * * write manager 

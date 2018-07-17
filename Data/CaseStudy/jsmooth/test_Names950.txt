@@ -1,0 +1,2 @@
+* * build resource entry * p e resource directory * * p e section 
+* * build resource entry * p e resource directory * * p e file 

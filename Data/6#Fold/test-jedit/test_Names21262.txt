@@ -1,0 +1,8 @@
+* shift tall caret left * * * chunk cache * * * text area 
+* shift tall caret left * * * chunk cache * * * display manager 
+* shift tall caret left * * * chunk cache * * * selection manager 
+* shift tall caret left * * * chunk cache * * * * gutter 
+* shift tall caret left * * * chunk cache * * text area painter 
+* shift tall caret left * * * chunk cache * elastic tabstops tab expander 
+* shift tall caret left * * * chunk cache * * input method support 
+* shift tall caret left * * * chunk cache * * j edit buffer 

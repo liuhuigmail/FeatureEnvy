@@ -1,0 +1,2 @@
+* * * get input * * * * connection * * * * neuron 
+* * * get input * * * * connection * * * * weight 

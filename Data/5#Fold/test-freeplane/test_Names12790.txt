@@ -1,0 +1,2 @@
+* * * write attributes * * * node writer * * * map controller 
+* * * write attributes * * * node writer * x m l element 

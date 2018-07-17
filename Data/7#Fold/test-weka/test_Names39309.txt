@@ -1,0 +1,2 @@
+* * * apply settings * text viewer interactive view * * * * settings 
+* * * apply settings * text viewer interactive view * * result history panel 

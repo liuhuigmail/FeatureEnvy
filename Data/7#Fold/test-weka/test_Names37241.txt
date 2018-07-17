@@ -1,0 +1,2 @@
+* * * inputs contains * * * meta bean * * * bean instance 
+* * * inputs contains * * * meta bean * * * bean visual 

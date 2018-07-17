@@ -1,0 +1,1 @@
+* get report as text send report by mail processor * * * process report 

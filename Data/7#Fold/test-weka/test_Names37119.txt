@@ -1,0 +1,6 @@
+* * accept training set * * * * join * * training set event 
+* * accept training set * * * * join * * * * environment 
+* * accept training set * * * * join * * * instance event 
+* * accept training set * * * * join * * * * instances 
+* * accept training set * * * * join * * * bean visual 
+* * accept training set * * * * join * * * stream throughput 

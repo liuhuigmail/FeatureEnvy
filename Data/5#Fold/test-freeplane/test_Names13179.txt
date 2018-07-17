@@ -1,0 +1,1 @@
+* * * register action * * persistent node hook * * a freeplane action 

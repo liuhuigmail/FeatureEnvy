@@ -1,0 +1,2 @@
+* * get viewer name * * result history panel scatter plot matrix interactive view 
+* * get viewer name * * result history panel * * * matrix panel 

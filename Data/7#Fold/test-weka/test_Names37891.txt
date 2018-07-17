@@ -1,0 +1,3 @@
+* * notify graph listeners * * * * clusterer * * * graph event 
+* * notify graph listeners * * * * clusterer * * * bean visual 
+* * notify graph listeners * * * * clusterer * * * * instances 

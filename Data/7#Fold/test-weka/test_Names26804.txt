@@ -1,0 +1,3 @@
+* * * set stemmer * * * dictionary builder * * * * instances 
+* * * set stemmer * * * dictionary builder * * * * tokenizer 
+* * * set stemmer * * * dictionary builder * * * * range 

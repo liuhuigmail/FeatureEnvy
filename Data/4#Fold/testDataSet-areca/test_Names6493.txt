@@ -1,0 +1,4 @@
+* * * create contents * * * resource manager * * target edition window 
+* * * create contents * * * resource manager * * * abstract target 
+* * * create contents * * * resource manager * * * filter group 
+* * * create contents * * * resource manager * * * processors table 

@@ -1,0 +1,4 @@
+* * * get command * * * name space * * * * interpreter 
+* * * get command * * * name space * * bsh class manager 
+* * * get command * * * name space * * * * this 
+* * * get command * * * name space * * * simple node 

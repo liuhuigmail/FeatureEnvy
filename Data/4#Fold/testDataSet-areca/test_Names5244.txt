@@ -1,0 +1,2 @@
+* * * copy attributes * * * filter group * * * abstract target 
+* * * copy attributes * * * filter group * * * processor list 

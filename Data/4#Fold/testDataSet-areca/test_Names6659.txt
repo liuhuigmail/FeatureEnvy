@@ -1,0 +1,9 @@
+* * * * show * * * * application * * * resource manager 
+* * * * show * * * * application * c tab folder manager 
+* * * * show * * * * application * * * * workspace 
+* * * * show * * * * application * * * main window 
+* * * * show * * * * application * * * trace entry 
+* * * * show * * * * application * * entry archive data 
+* * * * show * * * * application * u i recovery filter 
+* * * * show * * * * application * * * file tool 
+* * * * show * * * * application * * * simulation result 

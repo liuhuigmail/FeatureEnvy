@@ -1,0 +1,6 @@
+* * * registry attributes * * * map controller * * * attribute registry 
+* * * registry attributes * * * map controller * * * node model 
+* * * registry attributes * * * map controller * * * attribute controller 
+* * * registry attributes * * * map controller * * sorted map vector 
+* * * registry attributes * * * map controller attribute registry combo box column 
+* * * registry attributes * * * map controller * attribute registry table model 

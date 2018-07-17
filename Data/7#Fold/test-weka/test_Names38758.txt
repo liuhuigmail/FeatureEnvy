@@ -1,0 +1,8 @@
+* * * reevaluate model * * * clusterer panel * * * * instances 
+* * * reevaluate model * * * clusterer panel * * * * explorer 
+* * * reevaluate model * * * clusterer panel * * generic object editor 
+* * * reevaluate model * * * clusterer panel * * * property panel 
+* * * reevaluate model * * * clusterer panel * * * save buffer 
+* * * reevaluate model * * * clusterer panel * * result history panel 
+* * * reevaluate model * * * clusterer panel * * * visualize panel 
+* * * reevaluate model * * * clusterer panel * * instances summary panel 

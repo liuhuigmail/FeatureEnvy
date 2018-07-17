@@ -1,0 +1,2 @@
+* * * get type * * * call stack * b s h type 
+* * * get type * * * call stack * * * * interpreter 

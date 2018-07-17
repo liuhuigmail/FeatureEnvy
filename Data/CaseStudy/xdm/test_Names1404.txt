@@ -1,0 +1,1 @@
+* * * strict check * * f t p * * protocol command support 

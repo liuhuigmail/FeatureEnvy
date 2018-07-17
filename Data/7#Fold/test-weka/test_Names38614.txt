@@ -1,0 +1,4 @@
+* * * instantiation complete * * * * experimenter * * setup mode panel 
+* * * instantiation complete * * * * experimenter * * * run panel 
+* * * instantiation complete * * * * experimenter * * * results panel 
+* * * instantiation complete * * * * experimenter * * * * memory 

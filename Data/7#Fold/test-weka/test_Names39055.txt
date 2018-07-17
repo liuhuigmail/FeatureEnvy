@@ -1,0 +1,6 @@
+* * * previous conn * * * visible layout * * step manager impl 
+* * * previous conn * * * visible layout * * * * flow 
+* * * previous conn * * * visible layout * * * * environment 
+* * * previous conn * * * visible layout * main k f perspective 
+* * * previous conn * * * visible layout * * * layout panel 
+* * * previous conn * * * visible layout * * * step visual 

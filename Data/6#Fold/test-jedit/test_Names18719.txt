@@ -1,0 +1,4 @@
+* * * unwrap variable * * * * variable * * * name space 
+* * * unwrap variable * * * * variable * * bsh class manager 
+* * * unwrap variable * * * * variable * * * * this 
+* * * unwrap variable * * * * variable * * * simple node 

@@ -1,0 +1,2 @@
+* * * global info * * * euclidean distance * * * cover tree 
+* * * global info * * * euclidean distance * * tree performance stats 

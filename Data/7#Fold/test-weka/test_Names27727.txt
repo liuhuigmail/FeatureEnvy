@@ -1,0 +1,2 @@
+* * * set handler * * find with capabilities * * * * capabilities 
+* * * set handler * * find with capabilities * * * single index 

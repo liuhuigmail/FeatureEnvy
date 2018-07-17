@@ -1,0 +1,5 @@
+* * new map view * * * map model * * * map controller 
+* * new map view * * * map model * * * map reader 
+* * new map view * * * map model * * * map writer 
+* * new map view * * * map model * * * read manager 
+* * new map view * * * map model * * * write manager 

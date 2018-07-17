@@ -1,0 +1,17 @@
+* * toggle tablet mode x d m main window x d m video panel 
+* * toggle tablet mode x d m main window * * main table model 
+* * toggle tablet mode x d m main window * * * download list 
+* * toggle tablet mode x d m main window * x d m config 
+* * toggle tablet mode x d m main window x d m tool bar 
+* * toggle tablet mode x d m main window x d m button u 
+* * toggle tablet mode x d m main window * * * config dialog 
+* * toggle tablet mode x d m main window * * * batch dlg 
+* * toggle tablet mode x d m main window * * batch download dlg 
+* * toggle tablet mode x d m main window * * media table model 
+* * toggle tablet mode x d m main window * * youtube grabber dlg 
+* * toggle tablet mode x d m main window * * browser integration dlg 
+* * toggle tablet mode x d m main window * * * about dialog 
+* * toggle tablet mode x d m main window * * download list item 
+* * toggle tablet mode x d m main window * * * assemble dialog 
+* * toggle tablet mode x d m main window * * * drop box 
+* * toggle tablet mode x d m main window * * * side panel 

@@ -1,0 +1,4 @@
+* * on node deleted * * * node model * * * map view 
+* * on node deleted * * * node model * * * node view 
+* * on node deleted * * * node model * * * mode controller 
+* * on node deleted * * * node model * * * map model 

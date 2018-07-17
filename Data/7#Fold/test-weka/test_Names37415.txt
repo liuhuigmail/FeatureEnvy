@@ -1,0 +1,3 @@
+* * notify text listeners * * * text viewer * * * text event 
+* * notify text listeners * * * text viewer * * * bean visual 
+* * notify text listeners * * * text viewer * * result history panel 

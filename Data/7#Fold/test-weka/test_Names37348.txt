@@ -1,0 +1,4 @@
+* * * set visual * * model performance chart * * * bean visual 
+* * * set visual * * model performance chart * plot data 2 d 
+* * * set visual * * model performance chart * * * visualize panel 
+* * * set visual * * model performance chart * * * * environment 

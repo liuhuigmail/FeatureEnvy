@@ -1,0 +1,12 @@
+* * handle buffer update * * * buffer update * * * edit pane 
+* * handle buffer update * * * buffer update * * * * view 
+* * handle buffer update * * * buffer update * * * buffer set 
+* * handle buffer update * * * buffer update * * * * buffer 
+* * handle buffer update * * * buffer update * * * buffer switcher 
+* * handle buffer update * * * buffer update * j edit text area 
+* * handle buffer update * * * edit pane * * * buffer update 
+* * handle buffer update * * * edit pane * * * * view 
+* * handle buffer update * * * edit pane * * * buffer set 
+* * handle buffer update * * * edit pane * * * * buffer 
+* * handle buffer update * * * edit pane * * * buffer switcher 
+* * handle buffer update * * * edit pane * j edit text area 

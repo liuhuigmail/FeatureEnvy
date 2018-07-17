@@ -1,0 +1,5 @@
+* * * build rule * * classifier dec list * * * * instances 
+* * * build rule * * classifier dec list * * entropy split crit 
+* * * build rule * * classifier dec list * * * model selection 
+* * * build rule * * classifier dec list * * classifier split model 
+* * * build rule * * classifier dec list * * * * distribution 

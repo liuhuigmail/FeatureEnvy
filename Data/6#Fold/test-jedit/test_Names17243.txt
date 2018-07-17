@@ -1,0 +1,16 @@
+* handle search settings changed * * * * view * * search settings changed 
+* handle search settings changed * * * * view * * dockable window manager 
+* handle search settings changed * * * * view * * tool bar manager 
+* handle search settings changed * * * * view * * * search bar 
+* handle search settings changed * * * * view * * * action bar 
+* handle search settings changed * * * * view * * * edit pane 
+* handle search settings changed * * * * view * * * status bar 
+* handle search settings changed * * * * view * * * input handler 
+* handle search settings changed * * * * view * * search settings changed 
+* handle search settings changed * * * * view * * dockable window manager 
+* handle search settings changed * * * * view * * tool bar manager 
+* handle search settings changed * * * * view * * * search bar 
+* handle search settings changed * * * * view * * * action bar 
+* handle search settings changed * * * * view * * * edit pane 
+* handle search settings changed * * * * view * * * status bar 
+* handle search settings changed * * * * view * * * input handler 

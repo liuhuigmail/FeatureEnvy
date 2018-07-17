@@ -1,0 +1,3 @@
+* * * set instances * explicit testset result producer * * * * instances 
+* * * set instances * explicit testset result producer * * * output zipper 
+* * * set instances * explicit testset result producer * * * * environment 

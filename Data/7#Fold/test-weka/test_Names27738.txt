@@ -1,0 +1,2 @@
+* * * disable not * * * * capabilities * * find with capabilities 
+* * * disable not * * * * capabilities * * * single index 

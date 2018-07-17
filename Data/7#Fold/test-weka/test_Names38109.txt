@@ -1,0 +1,6 @@
+* * * set visual * * * * classifier * * * bean visual 
+* * * set visual * * * * classifier * * * * instances 
+* * * set visual * * * * classifier * * incremental classifier event 
+* * * set visual * * * * classifier * * * * environment 
+* * * set visual * * * * classifier * * * instance event 
+* * * set visual * * * * classifier * * * stream throughput 

@@ -1,0 +1,4 @@
+* * check test filtering * * a s evaluator * * * * instances 
+* * check test filtering * * a s evaluator * * a s evaluation 
+* * check test filtering * * a s evaluator * * a s search 
+* * check test filtering * * a s evaluator * * * attribute selection 

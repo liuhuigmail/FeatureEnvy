@@ -1,0 +1,5 @@
+* * remove connection listener * * * sql viewer * * * connection panel 
+* * remove connection listener * * * sql viewer * * * query panel 
+* * remove connection listener * * * sql viewer * * * result panel 
+* * remove connection listener * * * sql viewer * * * info panel 
+* * remove connection listener * * * sql viewer * * * * memory 

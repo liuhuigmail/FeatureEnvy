@@ -1,0 +1,4 @@
+* * * get global * * * name space * * * * interpreter 
+* * * get global * * * name space * * bsh class manager 
+* * * get global * * * name space * * * * this 
+* * * get global * * * name space * * * simple node 

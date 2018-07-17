@@ -1,0 +1,5 @@
+* * * children folded * * * map controller * * * node model 
+* * * children folded * * * map controller * * * map reader 
+* * * children folded * * * map controller * * * map writer 
+* * * children folded * * * map controller * * * read manager 
+* * * children folded * * * map controller * * * write manager 

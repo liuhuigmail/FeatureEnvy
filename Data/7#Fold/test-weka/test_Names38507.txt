@@ -1,0 +1,7 @@
+* set instances from exp * * * results panel * * * * experiment 
+* set instances from exp * * * results panel * * * save buffer 
+* set instances from exp * * * results panel * * result history panel 
+* set instances from exp * * * results panel * * extension file filter 
+* set instances from exp * * * results panel * * * * instances 
+* set instances from exp * * * results panel * * * instance query 
+* set instances from exp * * * results panel * * * result matrix 

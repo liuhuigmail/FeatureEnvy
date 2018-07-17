@@ -1,0 +1,3 @@
+* perform registry subtree attributes * * * attribute controller * * * node model 
+* perform registry subtree attributes * * * attribute controller * * u i icon 
+* perform registry subtree attributes * * * attribute controller * * * mode controller 

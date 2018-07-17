@@ -1,0 +1,3 @@
+* * set distance function * * simple k means * * replace missing values 
+* * set distance function * * simple k means * * * * instances 
+* * set distance function * * simple k means * * * * canopy 

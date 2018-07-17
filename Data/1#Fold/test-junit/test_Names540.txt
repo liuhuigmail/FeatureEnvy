@@ -1,0 +1,2 @@
+* * * * apply * * * external resource * * * * statement 
+* * * * apply * * * external resource * * * * description 

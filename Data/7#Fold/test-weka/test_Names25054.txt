@@ -1,0 +1,3 @@
+* * default classifier string * * multi class classifier * * * zero r 
+* * default classifier string * * multi class classifier * * * * attribute 
+* * default classifier string * * multi class classifier * * * * instances 

@@ -1,0 +1,2 @@
+* * * run child * * * * suite * * * * runner 
+* * * run child * * * * suite * * * run notifier 

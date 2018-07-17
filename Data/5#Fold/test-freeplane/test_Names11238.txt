@@ -1,0 +1,2 @@
+* * * create condition * * attribute condition controller * * * named object 
+* * * create condition * * attribute condition controller * extended combo box model 

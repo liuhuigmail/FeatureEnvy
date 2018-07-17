@@ -1,0 +1,3 @@
+get r m s e * * * exponential smoothing * * * * level 
+get r m s e * * * exponential smoothing * * trend expo smooth 
+get r m s e * * * exponential smoothing * * seasonality expo smooth 

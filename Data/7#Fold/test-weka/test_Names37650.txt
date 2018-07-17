@@ -1,0 +1,1 @@
+* * * set log * * abstract data sink * * * bean visual 

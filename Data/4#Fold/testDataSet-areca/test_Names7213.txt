@@ -1,0 +1,1 @@
+* * add mandatory argument * * * user option * * * user command 

@@ -1,0 +1,3 @@
+set dont load last maps * * application resource controller freeplane g u i starter 
+set dont load last maps * * application resource controller * * freeplane splash modern 
+set dont load last maps * * application resource controller * * application view controller 

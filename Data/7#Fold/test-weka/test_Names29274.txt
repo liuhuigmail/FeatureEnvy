@@ -1,0 +1,5 @@
+* * * check missing * * k d tree * * * * instances 
+* * * check missing * * k d tree * k d tree node 
+* * * check missing * * k d tree k d tree node splitter 
+* * * check missing * * k d tree * * tree performance stats 
+* * * check missing * * k d tree * * * euclidean distance 

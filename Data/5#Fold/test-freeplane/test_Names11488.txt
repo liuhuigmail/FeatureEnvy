@@ -1,0 +1,1 @@
+* write r t f * * * clipboard controller * * * node model 

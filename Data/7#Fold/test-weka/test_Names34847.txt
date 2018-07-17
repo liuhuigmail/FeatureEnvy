@@ -1,0 +1,2 @@
+* * determine output format * * remove by name * * * * instances 
+* * determine output format * * remove by name * * * * remove 

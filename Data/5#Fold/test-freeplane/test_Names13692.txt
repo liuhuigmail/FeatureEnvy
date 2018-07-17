@@ -1,0 +1,3 @@
+get conditional style model as * * * map model * m logical style controller 
+get conditional style model as * * * map model * * conditional style model 
+get conditional style model as * * * map model * * filter composer dialog 

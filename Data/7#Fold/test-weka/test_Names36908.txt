@@ -1,0 +1,5 @@
+* * * accept instance * * * instance event * * * substring replacer 
+* * * accept instance * * * instance event * * * * environment 
+* * * accept instance * * * instance event * * substring replacer rules 
+* * * accept instance * * * instance event * * * bean visual 
+* * * accept instance * * * instance event * * * stream throughput 

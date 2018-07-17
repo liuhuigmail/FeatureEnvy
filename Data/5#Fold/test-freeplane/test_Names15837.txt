@@ -1,0 +1,4 @@
+* * * add listeners attribute table model decorator adapter * * * attribute controller 
+* * * add listeners attribute table model decorator adapter * * * attribute registry 
+* * * add listeners attribute table model decorator adapter * node attribute table model 
+* * * add listeners attribute table model decorator adapter * * * text controller 

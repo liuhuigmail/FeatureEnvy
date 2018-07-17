@@ -1,0 +1,2 @@
+* * * add action * * * menu builder * * a freeplane action 
+* * * add action * * * menu builder * * * mode controller 

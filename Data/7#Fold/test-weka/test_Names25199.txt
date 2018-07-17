@@ -1,0 +1,2 @@
+* * * set environment * * input mapped classifier * * * * environment 
+* * * set environment * * input mapped classifier * * * * instances 

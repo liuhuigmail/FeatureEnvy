@@ -1,0 +1,5 @@
+* * * visit label * * * code writer * * * * label 
+* * * visit label * * * code writer * * * class writer 
+* * * visit label * * * code writer * * * * item 
+* * * visit label * * * code writer * * * byte vector 
+* * * visit label * * * code writer * * * * edge 

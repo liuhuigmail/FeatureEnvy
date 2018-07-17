@@ -1,0 +1,2 @@
+* * * process incoming * * * * data * * * substring replacer 
+* * * process incoming * * * * data * * substring replacer rules 

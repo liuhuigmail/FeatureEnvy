@@ -1,0 +1,2 @@
+* * * brute nearest * * * euclidean distance * * * cover tree 
+* * * brute nearest * * * euclidean distance * * tree performance stats 

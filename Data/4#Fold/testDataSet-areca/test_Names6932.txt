@@ -1,0 +1,4 @@
+* * * refresh content * * * search result * * * search composite 
+* * * refresh content * * * search result * * * resource manager 
+* * * refresh content * * * search result * * * * application 
+* * * refresh content * * * search result * * * task monitor 

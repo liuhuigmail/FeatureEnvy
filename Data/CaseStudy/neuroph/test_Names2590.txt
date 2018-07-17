@@ -1,0 +1,3 @@
+* * handle learning event * * test time series * * * learning event 
+* * handle learning event * * test time series * * * neural network 
+* * handle learning event * * test time series * * * data set 

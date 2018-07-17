@@ -1,0 +1,4 @@
+* * * try logistic * l m t node * * * * instances 
+* * * try logistic * l m t node * * * model selection 
+* * * try logistic * l m t node * * nominal to binary 
+* * * try logistic * l m t node * * classifier split model 

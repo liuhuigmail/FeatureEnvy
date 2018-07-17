@@ -1,0 +1,2 @@
+* * * * input * * * single index * * merge many values 
+* * * * input * * * single index * * * * range 

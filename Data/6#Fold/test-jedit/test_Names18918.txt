@@ -1,0 +1,5 @@
+* visit table switch insn * * * code writer * * * * label 
+* visit table switch insn * * * code writer * * * class writer 
+* visit table switch insn * * * code writer * * * * item 
+* visit table switch insn * * * code writer * * * byte vector 
+* visit table switch insn * * * code writer * * * * edge 

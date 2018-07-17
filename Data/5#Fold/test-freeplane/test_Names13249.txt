@@ -1,0 +1,2 @@
+* * * register by * * * location builder * * * read manager 
+* * * register by * * * location builder * * * write manager 

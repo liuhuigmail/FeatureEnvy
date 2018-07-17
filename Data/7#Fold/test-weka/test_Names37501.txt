@@ -1,0 +1,4 @@
+make cluster data set class * * * prediction appender * * * * instances 
+make cluster data set class * * * prediction appender * * * bean visual 
+make cluster data set class * * * prediction appender * * * instance event 
+make cluster data set class * * * prediction appender * * * stream throughput 

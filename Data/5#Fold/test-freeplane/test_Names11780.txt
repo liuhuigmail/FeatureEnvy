@@ -1,0 +1,2 @@
+* * * action performed * * edit filter action * * * filter controller 
+* * * action performed * * edit filter action * a filter composer dialog 

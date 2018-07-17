@@ -1,0 +1,2 @@
+* * * global info * * * * clusterer * * * bean visual 
+* * * global info * * * * clusterer * * * * instances 

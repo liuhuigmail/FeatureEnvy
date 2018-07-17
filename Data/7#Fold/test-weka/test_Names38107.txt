@@ -1,0 +1,7 @@
+* * classifier training complete * * * * classifier * * batch classifier event 
+* * classifier training complete * * * * classifier * * * bean visual 
+* * classifier training complete * * * * classifier * * * * instances 
+* * classifier training complete * * * * classifier * * incremental classifier event 
+* * classifier training complete * * * * classifier * * * * environment 
+* * classifier training complete * * * * classifier * * * instance event 
+* * classifier training complete * * * * classifier * * * stream throughput 

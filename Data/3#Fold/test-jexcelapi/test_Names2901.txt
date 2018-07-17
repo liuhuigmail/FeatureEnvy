@@ -1,0 +1,2 @@
+* * * * write * * * conditional format * * * * file 
+* * * * write * * * conditional format * conditional format range record 

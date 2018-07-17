@@ -1,0 +1,3 @@
+* * add instance info * * tree performance stats * * * ball tree 
+* * add instance info * * tree performance stats * * * ball node 
+* * add instance info * * tree performance stats * * ball tree constructor 

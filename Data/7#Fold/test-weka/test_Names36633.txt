@@ -1,0 +1,3 @@
+* * * set log * * * * loader * * * * instances 
+* * * set log * * * * loader * * * instance event 
+* * * set log * * * * loader * * * * environment 

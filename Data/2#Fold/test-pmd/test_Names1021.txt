@@ -1,0 +1,2 @@
+* * * determine language * * * rule context * * source code processor 
+* * * determine language * * * rule context * p m d configuration 

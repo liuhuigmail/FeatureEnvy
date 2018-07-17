@@ -1,0 +1,2 @@
+* * * show window x d m download window * * circle progress bar 
+* * * show window x d m download window * * * segment panel 

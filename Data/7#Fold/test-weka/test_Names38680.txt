@@ -1,0 +1,10 @@
+* * * save classifier * * * classifier panel * * * * instances 
+* * * save classifier * * * classifier panel * * * * explorer 
+* * * save classifier * * * classifier panel * * generic object editor 
+* * * save classifier * * * classifier panel * * * property panel 
+* * * save classifier * * * classifier panel * * * save buffer 
+* * * save classifier * * * classifier panel * * result history panel 
+* * * save classifier * * * classifier panel * * * * range 
+* * * save classifier * * * classifier panel * * * property dialog 
+* * * save classifier * * * classifier panel * * cost matrix editor 
+* * * save classifier * * * classifier panel * * * visualize panel 

@@ -1,0 +1,2 @@
+* * array new instance b s h array dimensions b s h allocation expression 
+* * array new instance b s h array dimensions * * * call stack 

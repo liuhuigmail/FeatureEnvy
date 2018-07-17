@@ -1,0 +1,1 @@
+* on pre node delete * * * hierarchical icons * * * node model 

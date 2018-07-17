@@ -1,0 +1,4 @@
+* * * * input * * * * filter * * * * instances 
+* * * * input * * * * filter * * * * queue 
+* * * * input * * * * filter * * * string locator 
+* * * * input * * * * filter * * * relational locator 

@@ -1,0 +1,3 @@
+* * accept data set * * * text viewer * * data set event 
+* * accept data set * * * text viewer * * * bean visual 
+* * accept data set * * * text viewer * * result history panel 

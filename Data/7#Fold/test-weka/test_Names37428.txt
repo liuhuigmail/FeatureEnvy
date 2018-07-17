@@ -1,0 +1,2 @@
+* * remove text listener * * * text viewer * * * bean visual 
+* * remove text listener * * * text viewer * * result history panel 

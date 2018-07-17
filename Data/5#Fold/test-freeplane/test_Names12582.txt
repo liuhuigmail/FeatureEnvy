@@ -1,0 +1,4 @@
+* * * remove extension * * * map model * * * extension container 
+* * * remove extension * * * map model * * * * filter 
+* * * remove extension * * * map model * * * icon registry 
+* * * remove extension * * * map model * * * node model 

@@ -1,0 +1,12 @@
+* * * remove drawing * * writable workbook impl * * * * drawing 
+* * * remove drawing * * writable workbook impl * * * * logger 
+* * * remove drawing * * writable workbook impl * * * formatting records 
+* * * remove drawing * * writable workbook impl * * * * file 
+* * * remove drawing * * writable workbook impl * * * * fonts 
+* * * remove drawing * * writable workbook impl * * external sheet record 
+* * * remove drawing * * writable workbook impl * * * shared strings 
+* * * remove drawing * * writable workbook impl * * * workbook settings 
+* * * remove drawing * * writable workbook impl * * * drawing group 
+* * * remove drawing * * writable workbook impl * * * * styles 
+* * * remove drawing * * writable workbook impl * button property set record 
+* * * remove drawing * * writable workbook impl * * * country record 

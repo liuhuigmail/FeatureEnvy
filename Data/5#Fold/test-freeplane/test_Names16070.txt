@@ -1,0 +1,2 @@
+* * * can edit * details view mouse listener * * * text controller 
+* * * can edit * details view mouse listener * * * node selector 

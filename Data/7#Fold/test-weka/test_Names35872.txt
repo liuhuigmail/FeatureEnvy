@@ -1,0 +1,2 @@
+user requested perspective toolbar visible * * * perspective manager * * * * settings 
+user requested perspective toolbar visible * * * perspective manager * * * log panel 

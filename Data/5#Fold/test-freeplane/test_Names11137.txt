@@ -1,0 +1,3 @@
+* create attribute table model * * * attribute controller * * * node model 
+* create attribute table model * * * attribute controller * * u i icon 
+* create attribute table model * * * attribute controller * * * mode controller 

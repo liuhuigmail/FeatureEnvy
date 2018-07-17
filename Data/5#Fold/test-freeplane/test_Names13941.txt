@@ -1,0 +1,2 @@
+* add editor pane listener * * m text controller * * edit node base 
+* add editor pane listener * * m text controller * * * event buffer 

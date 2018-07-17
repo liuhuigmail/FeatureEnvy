@@ -1,0 +1,2 @@
+* * * new rule * * * one r * * * * attribute 
+* * * new rule * * * one r * * * * instances 

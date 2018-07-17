@@ -1,0 +1,2 @@
+* * bean set contains * * * bean instance * * * meta bean 
+* * bean set contains * * * bean instance * * * bean visual 

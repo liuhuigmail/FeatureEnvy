@@ -1,0 +1,5 @@
+* * * center instances * * * * instances * * k d tree 
+* * * center instances * * * * instances * k d tree node 
+* * * center instances * * * * instances k d tree node splitter 
+* * * center instances * * * * instances * * tree performance stats 
+* * * center instances * * * * instances * * * euclidean distance 

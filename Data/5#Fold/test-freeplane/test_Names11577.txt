@@ -1,0 +1,1 @@
+* get style edge color * * * edge controller * * * map model 

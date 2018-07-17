@@ -1,0 +1,2 @@
+* * * global info * * * j rip * * * * attribute 
+* * * global info * * * j rip * * * * filter 

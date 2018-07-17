@@ -1,0 +1,4 @@
+* clip to inside hrect * * k d tree * k d tree node 
+* clip to inside hrect * * k d tree k d tree node splitter 
+* clip to inside hrect * * k d tree * * tree performance stats 
+* clip to inside hrect * * k d tree * * * euclidean distance 

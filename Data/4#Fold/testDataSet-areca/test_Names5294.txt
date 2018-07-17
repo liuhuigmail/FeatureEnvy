@@ -1,0 +1,6 @@
+* * * process merge * * * abstract target * * * * manifest 
+* * * process merge * * * abstract target * * * merge parameters 
+* * * process merge * * * abstract target * * * check parameters 
+* * * process merge * * * abstract target * * * process context 
+* * * process merge * * * abstract target * * * filter group 
+* * * process merge * * * abstract target * * * processor list 

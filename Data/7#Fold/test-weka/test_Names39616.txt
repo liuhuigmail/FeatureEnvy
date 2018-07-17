@@ -1,0 +1,5 @@
+* add query execute listener * * * sql viewer * * * connection panel 
+* add query execute listener * * * sql viewer * * * query panel 
+* add query execute listener * * * sql viewer * * * result panel 
+* add query execute listener * * * sql viewer * * * info panel 
+* add query execute listener * * * sql viewer * * * * memory 

@@ -1,0 +1,3 @@
+* * distribution for instance * * * zero r * * multi class classifier 
+* * distribution for instance * * * zero r * * * * attribute 
+* * distribution for instance * * * zero r * * * * instances 

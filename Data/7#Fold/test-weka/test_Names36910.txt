@@ -1,0 +1,5 @@
+* * * set visual * * * substring replacer * * * bean visual 
+* * * set visual * * * substring replacer * * * * environment 
+* * * set visual * * * substring replacer * * substring replacer rules 
+* * * set visual * * * substring replacer * * * instance event 
+* * * set visual * * * substring replacer * * * stream throughput 

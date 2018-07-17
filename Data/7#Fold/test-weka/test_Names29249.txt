@@ -1,0 +1,3 @@
+* * set search method * * filtered neighbour search * * nearest neighbour search 
+* * set search method * * filtered neighbour search * * add i d 
+* * set search method * * filtered neighbour search * * * * filter 

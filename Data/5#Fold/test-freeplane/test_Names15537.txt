@@ -1,0 +1,2 @@
+* * update note viewer * * * node view * * node view factory 
+* * update note viewer * * * node view * link navigator mouse listener 

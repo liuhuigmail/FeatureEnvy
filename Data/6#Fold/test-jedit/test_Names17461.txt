@@ -1,0 +1,2 @@
+handle v f s update * v f s update * * * settings reloader 
+handle v f s update * * * settings reloader * v f s update 

@@ -1,0 +1,3 @@
+* focus on file view * * * browser view * v f s browser 
+* focus on file view * * * browser view v f s directory entry 
+* focus on file view * * * browser view * * browser commands menu 

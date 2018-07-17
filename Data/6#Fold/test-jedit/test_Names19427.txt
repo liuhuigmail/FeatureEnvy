@@ -1,0 +1,1 @@
+* * * is visible * * floating window container * dockable window manager impl 

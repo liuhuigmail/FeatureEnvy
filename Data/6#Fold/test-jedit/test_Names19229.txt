@@ -1,0 +1,1 @@
+* * handle properties changed * * buffer set manager * * * properties changed 

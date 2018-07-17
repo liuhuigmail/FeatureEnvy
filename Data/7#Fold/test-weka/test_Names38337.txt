@@ -1,0 +1,2 @@
+* * * set log * * * * instances * * * class assigner 
+* * * set log * * * * instances * * * bean visual 

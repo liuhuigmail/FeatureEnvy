@@ -1,0 +1,4 @@
+* * get technical information * * k d tree * k d tree node 
+* * get technical information * * k d tree k d tree node splitter 
+* * get technical information * * k d tree * * tree performance stats 
+* * get technical information * * k d tree * * * euclidean distance 

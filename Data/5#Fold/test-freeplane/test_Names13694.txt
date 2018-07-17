@@ -1,0 +1,4 @@
+* * * edit condition * m logical style controller * * a selectable condition 
+* * * edit condition * m logical style controller * * filter composer dialog 
+* * * edit condition * m logical style controller * * a selectable condition 
+* * * edit condition * m logical style controller * * filter composer dialog 

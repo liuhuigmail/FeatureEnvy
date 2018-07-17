@@ -1,0 +1,16 @@
+* * * show buffer * * * * view * * * * buffer 
+* * * show buffer * * * * view * * dockable window manager 
+* * * show buffer * * * * view * * tool bar manager 
+* * * show buffer * * * * view * * * search bar 
+* * * show buffer * * * * view * * * action bar 
+* * * show buffer * * * * view * * * edit pane 
+* * * show buffer * * * * view * * * status bar 
+* * * show buffer * * * * view * * * input handler 
+* * * show buffer * * * * buffer * * * * view 
+* * * show buffer * * * * buffer * * dockable window manager 
+* * * show buffer * * * * buffer * * tool bar manager 
+* * * show buffer * * * * buffer * * * search bar 
+* * * show buffer * * * * buffer * * * action bar 
+* * * show buffer * * * * buffer * * * edit pane 
+* * * show buffer * * * * buffer * * * status bar 
+* * * show buffer * * * * buffer * * * input handler 

@@ -1,0 +1,5 @@
+* add history changed listener * * * connection panel * * * sql viewer 
+* add history changed listener * * * connection panel * * * query panel 
+* add history changed listener * * * connection panel * * * result panel 
+* add history changed listener * * * connection panel * * * info panel 
+* add history changed listener * * * connection panel * * * * memory 

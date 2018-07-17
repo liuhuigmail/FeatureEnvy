@@ -1,0 +1,3 @@
+* * * set visual * * * bean visual * * * image viewer 
+* * * set visual * * * bean visual * * result history panel 
+* * * set visual * * * bean visual * * * * environment 

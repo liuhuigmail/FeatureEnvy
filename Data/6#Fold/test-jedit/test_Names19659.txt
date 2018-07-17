@@ -1,0 +1,2 @@
+* * load mode layout * * docking layout manager * * * * view 
+* * load mode layout * * docking layout manager * * * action set 

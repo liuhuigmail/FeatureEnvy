@@ -1,0 +1,6 @@
+* * save transformed data * * attribute selection panel * * * * instances 
+* * save transformed data * * attribute selection panel * * * * explorer 
+* * save transformed data * * attribute selection panel * * generic object editor 
+* * save transformed data * * attribute selection panel * * * property panel 
+* * save transformed data * * attribute selection panel * * * save buffer 
+* * save transformed data * * attribute selection panel * * result history panel 

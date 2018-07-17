@@ -1,0 +1,10 @@
+* * capabilities filter changed * * * classifier panel * * * * explorer 
+* * capabilities filter changed * * * classifier panel * * generic object editor 
+* * capabilities filter changed * * * classifier panel * * * property panel 
+* * capabilities filter changed * * * classifier panel * * * save buffer 
+* * capabilities filter changed * * * classifier panel * * result history panel 
+* * capabilities filter changed * * * classifier panel * * * * range 
+* * capabilities filter changed * * * classifier panel * * * property dialog 
+* * capabilities filter changed * * * classifier panel * * cost matrix editor 
+* * capabilities filter changed * * * classifier panel * * * * instances 
+* * capabilities filter changed * * * classifier panel * * * visualize panel 

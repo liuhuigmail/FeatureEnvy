@@ -1,0 +1,6 @@
+* * * get font * * * node model * * map view controller 
+* * * get font * * * node model * * * map view 
+* * * get font * * * node model map view change observer compound 
+* * * get font * * * node model * * * * controller 
+* * * get font * * * node model * * zoom in action 
+* * * get font * * * node model * * zoom out action 

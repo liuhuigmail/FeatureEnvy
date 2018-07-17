@@ -1,0 +1,4 @@
+* * * get capabilities * * * classifier tree * * * model selection 
+* * * get capabilities * * * classifier tree * * classifier split model 
+* * * get capabilities * * * classifier tree * * * * instances 
+* * * get capabilities * * * classifier tree * * * * distribution 

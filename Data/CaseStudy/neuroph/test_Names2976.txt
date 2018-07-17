@@ -1,0 +1,1 @@
+* * * create network * * multi layer perceptron * * * neuron properties 

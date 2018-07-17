@@ -1,0 +1,4 @@
+* * handle properties changed * * * properties changed * * * plugin manager 
+* * handle properties changed * * * properties changed * * * install panel 
+* * handle properties changed * * * properties changed * * * manage panel 
+* * handle properties changed * * * properties changed * * * plugin list 

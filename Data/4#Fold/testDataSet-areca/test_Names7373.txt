@@ -1,0 +1,1 @@
+* * * write entry * * archive trace adapter * file system recovery entry 

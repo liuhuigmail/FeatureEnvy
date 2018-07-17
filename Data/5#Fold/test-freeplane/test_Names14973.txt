@@ -1,0 +1,4 @@
+* * * create extension * * * viewer controller * * * node model 
+* * * create extension * * * viewer controller * x m l element 
+* * * create extension * * * viewer controller m external image drop listener 
+* * * create extension * * * viewer controller * external image popup menu 

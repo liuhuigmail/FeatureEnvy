@@ -1,0 +1,2 @@
+* * set plot companion * * plot 2 d * plot data 2 d 
+* * set plot companion * * plot 2 d * * * * instances 

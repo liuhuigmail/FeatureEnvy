@@ -1,0 +1,2 @@
+* * * set instances k d tree node splitter * * * * instances 
+* * * set instances k d tree node splitter * * * euclidean distance 

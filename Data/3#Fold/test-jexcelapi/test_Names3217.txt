@@ -1,0 +1,8 @@
+* * write tail records * * * drawing 2 * * * * file 
+* * write tail records * * * drawing 2 * * * * logger 
+* * write tail records * * * drawing 2 * * * escher container 
+* * write tail records * * * drawing 2 * * mso drawing record 
+* * write tail records * * * drawing 2 * * * * origin 
+* * write tail records * * * drawing 2 * * * drawing group 
+* * write tail records * * * drawing 2 * * * drawing data 
+* * write tail records * * * drawing 2 * * * shape type 

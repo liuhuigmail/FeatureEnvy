@@ -1,0 +1,6 @@
+* * add folder item * * * main window * * abstract tab composite 
+* * add folder item * * * main window * * target tree composite 
+* * add folder item * * * main window * * * properties composite 
+* * add folder item * * * main window * * * progress composite 
+* * add folder item * * * main window * * logical view composite 
+* * add folder item * * * main window * * * search composite 

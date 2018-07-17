@@ -1,0 +1,2 @@
+* * supports approximate matching * * attribute condition controller * * * named object 
+* * supports approximate matching * * attribute condition controller * extended combo box model 

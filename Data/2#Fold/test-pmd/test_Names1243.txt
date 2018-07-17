@@ -1,0 +1,3 @@
+* * set cpd listener * * c p d * c p d configuration 
+* * set cpd listener * * c p d * * * * tokens 
+* * set cpd listener * * c p d * * * match algorithm 

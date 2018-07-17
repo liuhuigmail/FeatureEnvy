@@ -1,0 +1,4 @@
+* change note window location * navigation next map action * * application view controller 
+* change note window location * navigation next map action * navigation previous map action 
+* change note window location * navigation next map action * * * resource controller 
+* change note window location * navigation next map action * map view docking windows 

@@ -1,0 +1,1 @@
+get all dependencies for package * * * * package * * default package manager 

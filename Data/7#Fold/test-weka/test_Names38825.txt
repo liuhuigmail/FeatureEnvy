@@ -1,0 +1,6 @@
+* * * set log * * attribute selection panel * * * * explorer 
+* * * set log * * attribute selection panel * * generic object editor 
+* * * set log * * attribute selection panel * * * property panel 
+* * * set log * * attribute selection panel * * * save buffer 
+* * * set log * * attribute selection panel * * result history panel 
+* * * set log * * attribute selection panel * * * * instances 

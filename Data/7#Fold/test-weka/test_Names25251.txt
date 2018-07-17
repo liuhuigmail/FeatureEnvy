@@ -1,0 +1,3 @@
+* * * set log p m m l classifier * * * * instances 
+* * * set log p m m l classifier * * * mining schema 
+* * * set log p m m l classifier * * * mapping info 

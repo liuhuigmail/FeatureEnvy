@@ -1,0 +1,2 @@
+* * remove from selection * * * selection manager * * * * selection 
+* * remove from selection * * * selection manager * * * text area 

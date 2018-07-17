@@ -1,0 +1,3 @@
+* * * build classifier bin c 4 5 split * * * * instances 
+* * * build classifier bin c 4 5 split * info gain split crit 
+* * * build classifier bin c 4 5 split * gain ratio split crit 

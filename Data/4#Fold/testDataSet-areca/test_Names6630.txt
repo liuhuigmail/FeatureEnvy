@@ -1,0 +1,2 @@
+test s f t p s f t p edition s f t p file 
+test s f t p s f t p edition * * * resource manager 

@@ -1,0 +1,2 @@
+* set match replace details * * * substring replacer * * substring replacer rules 
+* set match replace details * * * substring replacer * * * * data 

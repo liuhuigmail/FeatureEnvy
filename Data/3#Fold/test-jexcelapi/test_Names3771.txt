@@ -1,0 +1,3 @@
+* * * get function * * * string function * * * workbook settings 
+* * * get function * * * string function * * * * logger 
+* * * get function * * * string function * * * * function 

@@ -1,0 +1,4 @@
+set colour r g b * * * formatting records * * * * colour 
+set colour r g b * * * formatting records * * * * logger 
+set colour r g b * * * formatting records * * * * fonts 
+set colour r g b * * * formatting records * * * palette record 

@@ -1,0 +1,3 @@
+* * with class rules * * * * statement * * * parent runner 
+* * with class rules * * * * statement * * * test class 
+* * with class rules * * * * statement * * * * sorter 

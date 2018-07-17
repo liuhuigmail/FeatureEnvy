@@ -1,0 +1,2 @@
+* * init log panel * * * perspective manager * * * * settings 
+* * init log panel * * * perspective manager * * * log panel 

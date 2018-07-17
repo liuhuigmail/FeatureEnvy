@@ -1,0 +1,9 @@
+* * * remove channel * * * * application * * * resource manager 
+* * * remove channel * * * * application * c tab folder manager 
+* * * remove channel * * * * application * * * * workspace 
+* * * remove channel * * * * application * * * main window 
+* * * remove channel * * * * application * * * trace entry 
+* * * remove channel * * * * application * * entry archive data 
+* * * remove channel * * * * application * u i recovery filter 
+* * * remove channel * * * * application * * * file tool 
+* * * remove channel * * * * application * * * simulation result 

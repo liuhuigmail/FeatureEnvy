@@ -1,0 +1,3 @@
+* write body with folding mind map h t m * * * node model 
+* write body with folding mind map h t m * * * map controller 
+* write body with folding mind map h t m * * node style controller 

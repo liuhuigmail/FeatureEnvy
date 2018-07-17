@@ -1,0 +1,3 @@
+* * set curve data * * cost benefit analysis * plot data 2 d 
+* * set curve data * * cost benefit analysis * * * * attribute 
+* * set curve data * * cost benefit analysis * * * bean visual 

@@ -1,0 +1,3 @@
+* * * map changed * * filter condition editor * * * map model 
+* * * map changed * * filter condition editor * * * filter controller 
+* * * map changed * * filter condition editor * extended combo box model 

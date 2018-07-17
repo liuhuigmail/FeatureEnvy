@@ -1,0 +1,2 @@
+* * set distance function * * * euclidean distance * * * cover tree 
+* * set distance function * * * euclidean distance * * tree performance stats 

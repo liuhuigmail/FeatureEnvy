@@ -1,0 +1,2 @@
+* * * set visual * * * text viewer * * * bean visual 
+* * * set visual * * * text viewer * * result history panel 

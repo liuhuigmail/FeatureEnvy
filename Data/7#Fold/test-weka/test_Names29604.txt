@@ -1,0 +1,1 @@
+* * * apply settings * * default package manager * * * * settings 

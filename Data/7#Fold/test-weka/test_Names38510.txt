@@ -1,0 +1,7 @@
+* * determine column names * * * results panel * * * * instances 
+* * determine column names * * * results panel * * * save buffer 
+* * determine column names * * * results panel * * result history panel 
+* * determine column names * * * results panel * * extension file filter 
+* * determine column names * * * results panel * * * instance query 
+* * determine column names * * * results panel * * * * experiment 
+* * determine column names * * * results panel * * * result matrix 

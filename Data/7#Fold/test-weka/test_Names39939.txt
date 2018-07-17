@@ -1,0 +1,3 @@
+* * init internal fields * * * matrix panel * * * class panel 
+* * init internal fields * * * matrix panel * * * * instances 
+* * init internal fields * * * matrix panel * * * * settings 

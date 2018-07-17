@@ -1,0 +1,3 @@
+* * * set instances * * * matrix panel * * * * instances 
+* * * set instances * * * matrix panel * * * class panel 
+* * * set instances * * * matrix panel * * * * settings 

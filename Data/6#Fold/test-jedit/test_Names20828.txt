@@ -1,0 +1,2 @@
+* * paint fold end * * shaped fold painter * * * * gutter 
+* * paint fold end * * shaped fold painter * * j edit buffer 

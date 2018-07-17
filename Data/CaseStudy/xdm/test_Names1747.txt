@@ -1,0 +1,4 @@
+* * get i d * * * connection manager * x d m config 
+* * get i d * * * connection manager * * * helper connection 
+* * get i d * * * connection manager m i m e util 
+* * get i d * * * connection manager * * * * credential 

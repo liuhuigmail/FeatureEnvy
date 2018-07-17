@@ -1,0 +1,3 @@
+* * * add selected * * * node view * * * map view 
+* * * add selected * * * node view * * * mode controller 
+* * * add selected * * * node view * * * map model 

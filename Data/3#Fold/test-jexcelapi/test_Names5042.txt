@@ -1,0 +1,1 @@
+* * set cell format * * column info record * * x f record 

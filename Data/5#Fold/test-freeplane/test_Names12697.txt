@@ -1,0 +1,5 @@
+* fire pre node moved * * * node model * * * map controller 
+* fire pre node moved * * * node model * * * map reader 
+* fire pre node moved * * * node model * * * map writer 
+* fire pre node moved * * * node model * * * read manager 
+* fire pre node moved * * * node model * * * write manager 

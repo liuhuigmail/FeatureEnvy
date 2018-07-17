@@ -1,0 +1,2 @@
+* * * * init * * * process context * * delta archive handler 
+* * * * init * * * process context * * * transaction point 

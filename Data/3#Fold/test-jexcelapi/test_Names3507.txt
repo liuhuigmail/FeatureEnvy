@@ -1,0 +1,12 @@
+* * write tail records * * * * button * * * * file 
+* * write tail records * * * * button * * * * logger 
+* * write tail records * * * * button * * * escher container 
+* * write tail records * * * * button * * mso drawing record 
+* * write tail records * * * * button * * * obj record 
+* * write tail records * * * * button * * * * origin 
+* * write tail records * * * * button * * * drawing group 
+* * write tail records * * * * button * * * drawing data 
+* * write tail records * * * * button * * * shape type 
+* * write tail records * * * * button * * text object record 
+* * write tail records * * * * button * * * continue record 
+* * write tail records * * * * button * * * workbook settings 

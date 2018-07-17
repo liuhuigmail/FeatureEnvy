@@ -1,0 +1,3 @@
+* * * set tokenizer fixed dictionary string to word * * * * tokenizer 
+* * * set tokenizer fixed dictionary string to word * * * dictionary builder 
+* * * set tokenizer fixed dictionary string to word * * * * environment 

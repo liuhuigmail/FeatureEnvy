@@ -1,0 +1,4 @@
+* * * p star * k star nominal attribute * * * * instances 
+* * * p star * k star nominal attribute * * k star cache 
+* * * p star * k star nominal attribute * * * * instances 
+* * * p star * k star nominal attribute * * k star cache 

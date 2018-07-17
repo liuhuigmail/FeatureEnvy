@@ -1,0 +1,2 @@
+* * * * process fixed dictionary string to word * * * dictionary builder 
+* * * * process fixed dictionary string to word * * * * environment 

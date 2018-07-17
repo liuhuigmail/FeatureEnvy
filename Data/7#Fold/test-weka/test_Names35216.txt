@@ -1,0 +1,2 @@
+* * * set environment fixed dictionary string to word * * * * environment 
+* * * set environment fixed dictionary string to word * * * dictionary builder 

@@ -1,0 +1,5 @@
+* set up log panel * * * log panel * * knowledge flow app 
+* set up log panel * * * log panel * * * bean instance 
+* set up log panel * * * log panel * * attribute selection panel 
+* set up log panel * * * log panel * * * * environment 
+* set up log panel * * * log panel * * * * memory 

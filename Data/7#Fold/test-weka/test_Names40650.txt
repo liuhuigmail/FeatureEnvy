@@ -1,0 +1,4 @@
+* * aggregate eval task * * * * evaluation * * classifier performance evaluator 
+* * aggregate eval task * * * * evaluation * * * * instances 
+* * aggregate eval task * * * * evaluation * classifier errors plot instances 
+* * aggregate eval task * * * * evaluation * * * aggregateable evaluation 

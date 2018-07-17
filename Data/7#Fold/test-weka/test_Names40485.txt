@@ -1,0 +1,4 @@
+* * * apply filtering * * * * instances * * a s evaluator 
+* * * apply filtering * * * * instances * * a s evaluation 
+* * * apply filtering * * * * instances * * a s search 
+* * * apply filtering * * * * instances * * * attribute selection 

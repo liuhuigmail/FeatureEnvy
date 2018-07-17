@@ -1,0 +1,4 @@
+* * add configured service * * * jar bundler * * * * service 
+* * add configured service * * * jar bundler * * app bundle properties 
+* * add configured service * * * * service * * * jar bundler 
+* * add configured service * * * * service * * app bundle properties 

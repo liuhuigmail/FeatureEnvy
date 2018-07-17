@@ -1,0 +1,2 @@
+* * set test structure * * * * instances * * input mapped classifier 
+* * set test structure * * * * instances * * * * environment 

@@ -1,0 +1,4 @@
+* * set distance function * * k d tree * k d tree node 
+* * set distance function * * k d tree k d tree node splitter 
+* * set distance function * * k d tree * * tree performance stats 
+* * set distance function * * k d tree * * * euclidean distance 

@@ -1,0 +1,9 @@
+* * * content inserted * * j edit buffer * * * integer array 
+* * * content inserted * * j edit buffer * * * * mode 
+* * * content inserted * * j edit buffer * * * undo manager 
+* * * content inserted * * j edit buffer * * * token marker 
+* * * content inserted * * j edit buffer * * * content manager 
+* * * content inserted * * j edit buffer * * * line manager 
+* * * content inserted * * j edit buffer * * * position manager 
+* * * content inserted * * j edit buffer * * * fold handler 
+* * * content inserted * * j edit buffer * * * column block 

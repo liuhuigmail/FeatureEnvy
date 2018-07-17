@@ -1,0 +1,2 @@
+* close current transaction point abstract incremental file system medium * * * process context 
+* close current transaction point abstract incremental file system medium * * entry archive data 

@@ -1,0 +1,10 @@
+* * show backup window * * * * application * * * * manifest 
+* * show backup window * * * * application * * * resource manager 
+* * show backup window * * * * application * c tab folder manager 
+* * show backup window * * * * application * * * * workspace 
+* * show backup window * * * * application * * * main window 
+* * show backup window * * * * application * * * trace entry 
+* * show backup window * * * * application * * entry archive data 
+* * show backup window * * * * application * u i recovery filter 
+* * show backup window * * * * application * * * file tool 
+* * show backup window * * * * application * * * simulation result 

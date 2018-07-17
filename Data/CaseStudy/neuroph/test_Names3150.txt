@@ -1,0 +1,2 @@
+* * get nearest cluster * * k means clustering * * * k vector 
+* * get nearest cluster * * k means clustering * * * data set 

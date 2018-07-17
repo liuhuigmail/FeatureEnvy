@@ -1,0 +1,10 @@
+* * show edit target * * * * application * * * abstract target 
+* * show edit target * * * * application * * * resource manager 
+* * show edit target * * * * application * c tab folder manager 
+* * show edit target * * * * application * * * * workspace 
+* * show edit target * * * * application * * * main window 
+* * show edit target * * * * application * * * trace entry 
+* * show edit target * * * * application * * entry archive data 
+* * show edit target * * * * application * u i recovery filter 
+* * show edit target * * * * application * * * file tool 
+* * show edit target * * * * application * * * simulation result 

@@ -1,0 +1,2 @@
+* * init perspectives cache * * * perspective manager * * * * settings 
+* * init perspectives cache * * * perspective manager * * * log panel 

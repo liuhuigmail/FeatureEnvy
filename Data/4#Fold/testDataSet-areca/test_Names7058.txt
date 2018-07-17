@@ -1,0 +1,2 @@
+* show proc edition frame * * * resource manager * * * processors table 
+* show proc edition frame * * * resource manager * * target edition window 

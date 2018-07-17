@@ -1,0 +1,4 @@
+* * * set method * * multi class classifier * * * selected tag 
+* * * set method * * multi class classifier * * * zero r 
+* * * set method * * multi class classifier * * * * attribute 
+* * * set method * * multi class classifier * * * * instances 

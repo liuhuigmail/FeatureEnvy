@@ -1,0 +1,1 @@
+* register installed add on * * add ons controller * * add on properties 

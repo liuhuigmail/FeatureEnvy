@@ -1,0 +1,9 @@
+* * * * ok * * * text area * * paste special dialog 
+* * * * ok * * * text area * * * chunk cache 
+* * * * ok * * * text area * * * display manager 
+* * * * ok * * * text area * * * selection manager 
+* * * * ok * * * text area * * * * gutter 
+* * * * ok * * * text area * * text area painter 
+* * * * ok * * * text area * elastic tabstops tab expander 
+* * * * ok * * * text area * * input method support 
+* * * * ok * * * text area * * j edit buffer 

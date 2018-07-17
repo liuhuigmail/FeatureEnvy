@@ -1,0 +1,2 @@
+* * * make panel * * attribute summary perspective * * * * settings 
+* * * make panel * * attribute summary perspective * * * * instances 

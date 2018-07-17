@@ -1,0 +1,3 @@
+* * accept training set * * training set event * * * text viewer 
+* * accept training set * * training set event * * * bean visual 
+* * accept training set * * training set event * * result history panel 

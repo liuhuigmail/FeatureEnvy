@@ -1,0 +1,3 @@
+* * add plugin dockable * * dockable window manager * plugin j a r 
+* * add plugin dockable * * dockable window manager * * * * view 
+* * add plugin dockable * * dockable window manager * * dockable window factory 

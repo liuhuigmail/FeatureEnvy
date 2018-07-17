@@ -1,0 +1,5 @@
+* * * center node * * * map controller * * * node model 
+* * * center node * * * map controller * * * map reader 
+* * * center node * * * map controller * * * map writer 
+* * * center node * * * map controller * * * read manager 
+* * * center node * * * map controller * * * write manager 

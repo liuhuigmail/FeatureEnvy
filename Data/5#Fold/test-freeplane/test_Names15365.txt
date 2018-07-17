@@ -1,0 +1,3 @@
+select if selection is empty * * * map view * * * node view 
+select if selection is empty * * * map view * * * mode controller 
+select if selection is empty * * * map view * * * map model 

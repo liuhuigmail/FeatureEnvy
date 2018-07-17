@@ -1,0 +1,2 @@
+* * * find first * * * find action * * a selectable condition 
+* * * find first * * * find action * * filter condition editor 

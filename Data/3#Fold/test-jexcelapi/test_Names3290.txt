@@ -1,0 +1,12 @@
+* * set text object * * * * comment * * text object record 
+* * set text object * * * * comment * * * * logger 
+* * set text object * * * * comment * * * escher container 
+* * set text object * * * * comment * * mso drawing record 
+* * set text object * * * * comment * * * obj record 
+* * set text object * * * * comment * * * * origin 
+* * set text object * * * * comment * * * drawing group 
+* * set text object * * * * comment * * * drawing data 
+* * set text object * * * * comment * * * shape type 
+* * set text object * * * * comment * * * note record 
+* * set text object * * * * comment * * * continue record 
+* * set text object * * * * comment * * * workbook settings 

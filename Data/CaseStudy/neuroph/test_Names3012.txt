@@ -1,0 +1,2 @@
+* * * connect maps * * * pooling layer * * layer 2 d 
+* * * connect maps * * * pooling layer * * * neuron properties 

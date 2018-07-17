@@ -1,0 +1,2 @@
+* * * * init * status bar option pane * * color well button 
+* * * * init * status bar option pane * * * rollover button 

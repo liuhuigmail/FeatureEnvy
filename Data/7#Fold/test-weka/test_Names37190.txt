@@ -1,0 +1,4 @@
+* * * add component * * knowledge flow app * * * bean instance 
+* * * add component * * knowledge flow app * * attribute selection panel 
+* * * add component * * knowledge flow app * * * * environment 
+* * * add component * * knowledge flow app * * * * memory 

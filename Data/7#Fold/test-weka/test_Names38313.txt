@@ -1,0 +1,3 @@
+* * * accept instance * * * class assigner * * * instance event 
+* * * accept instance * * * class assigner * * * * instances 
+* * * accept instance * * * class assigner * * * bean visual 

@@ -1,0 +1,2 @@
+* * * generate class * * * name space * * class generator util 
+* * * generate class * * * name space * * * * modifiers 

@@ -1,0 +1,6 @@
+* * * * setup * * * principal components * * * * instances 
+* * * * setup * * * principal components * * replace missing values 
+* * * * setup * * * principal components * * nominal to binary 
+* * * * setup * * * principal components * * * * remove 
+* * * * setup * * * principal components * * * * standardize 
+* * * * setup * * * principal components * * * * center 

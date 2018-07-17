@@ -1,0 +1,2 @@
+* * * init weights * * * weight visualiser * * layer 2 d 
+* * * init weights * * * weight visualiser * * * * kernel 

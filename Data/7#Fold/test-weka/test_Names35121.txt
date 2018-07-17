@@ -1,0 +1,2 @@
+* * * generate subset * * partitioned multi filter * * * * instances 
+* * * generate subset * * partitioned multi filter * * * * range 

@@ -1,0 +1,10 @@
+* * * accepts instances * * * preprocess panel * * instances summary panel 
+* * * accepts instances * * * preprocess panel * * attribute selection panel 
+* * * accepts instances * * * preprocess panel * * attribute summary panel 
+* * * accepts instances * * * preprocess panel * * generic object editor 
+* * * accepts instances * * * preprocess panel * * * property panel 
+* * * accepts instances * * * preprocess panel * * converter file chooser 
+* * * accepts instances * * * preprocess panel * * * * instances 
+* * * accepts instances * * * preprocess panel * * * data generator 
+* * * accepts instances * * * preprocess panel * * attribute visualization panel 
+* * * accepts instances * * * preprocess panel * * * * explorer 

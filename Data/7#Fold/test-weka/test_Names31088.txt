@@ -1,0 +1,1 @@
+* * add mining fields * * * mining schema * * * mining field 

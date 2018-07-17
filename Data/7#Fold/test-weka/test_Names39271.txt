@@ -1,0 +1,2 @@
+* * * apply settings model performance chart interactive view * * * * settings 
+* * * apply settings model performance chart interactive view * * * visualize panel 

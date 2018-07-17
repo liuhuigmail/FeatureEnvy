@@ -1,0 +1,7 @@
+* * set main perspective * * * results panel * * * save buffer 
+* * set main perspective * * * results panel * * result history panel 
+* * set main perspective * * * results panel * * extension file filter 
+* * set main perspective * * * results panel * * * * instances 
+* * set main perspective * * * results panel * * * instance query 
+* * set main perspective * * * results panel * * * * experiment 
+* * set main perspective * * * results panel * * * result matrix 

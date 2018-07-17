@@ -1,0 +1,2 @@
+* * * process streaming * * * * join * * * * data 
+* * * process streaming * * * * join * * * * instances 

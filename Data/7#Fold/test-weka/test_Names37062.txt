@@ -1,0 +1,3 @@
+* add visualizable error listener * * classifier performance evaluator * * * aggregateable evaluation 
+* add visualizable error listener * * classifier performance evaluator * * * * instances 
+* add visualizable error listener * * classifier performance evaluator * classifier errors plot instances 

@@ -1,0 +1,4 @@
+* * * invoke method * * * name space * * * * interpreter 
+* * * invoke method * * * name space * * bsh class manager 
+* * * invoke method * * * name space * * * * this 
+* * * invoke method * * * name space * * * simple node 

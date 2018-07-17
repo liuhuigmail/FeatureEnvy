@@ -1,0 +1,2 @@
+* * * * create * dockable window manager provider * * * * view 
+* * * * create * dockable window manager provider * * dockable window factory 

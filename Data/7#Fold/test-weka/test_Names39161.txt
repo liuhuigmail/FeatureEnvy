@@ -1,0 +1,5 @@
+* * * get setting * main k f perspective * * * * memory 
+* * * get setting * main k f perspective * * step manager impl 
+* * * get setting * main k f perspective * * * step tree 
+* * * get setting * main k f perspective * * * template manager 
+* * * get setting * main k f perspective main k f perspective tool 

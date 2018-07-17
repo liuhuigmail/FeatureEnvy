@@ -1,0 +1,1 @@
+* * set default accelerator * * * menu builder * * * mode controller 

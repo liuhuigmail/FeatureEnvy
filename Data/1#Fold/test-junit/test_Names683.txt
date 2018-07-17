@@ -1,0 +1,1 @@
+* * get parameters list * * * test class * * * * parameterized 

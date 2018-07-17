@@ -1,0 +1,6 @@
+* * * set environment * * * substring labeler * * * * environment 
+* * * set environment * * * substring labeler * * substring labeler rules 
+* * * set environment * * * substring labeler * * * * add 
+* * * set environment * * * substring labeler * * * instance event 
+* * * set environment * * * substring labeler * * * bean visual 
+* * * set environment * * * substring labeler * * * stream throughput 

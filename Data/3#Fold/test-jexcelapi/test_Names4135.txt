@@ -1,0 +1,2 @@
+* * find property storage * * * compound file * * * * logger 
+* * find property storage * * * compound file * * * workbook settings 

@@ -1,0 +1,5 @@
+* * * remove step * * * visible layout * * * step visual 
+* * * remove step * * * visible layout * * * * flow 
+* * * remove step * * * visible layout * * * * environment 
+* * * remove step * * * visible layout * main k f perspective 
+* * * remove step * * * visible layout * * * layout panel 

@@ -1,0 +1,2 @@
+* * remove configuration listener * * * bean visual * * * * clusterer 
+* * remove configuration listener * * * bean visual * * * * instances 

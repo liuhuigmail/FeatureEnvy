@@ -1,0 +1,4 @@
+* candidate is full owner * * k d tree * k d tree node 
+* candidate is full owner * * k d tree k d tree node splitter 
+* candidate is full owner * * k d tree * * tree performance stats 
+* candidate is full owner * * k d tree * * * euclidean distance 

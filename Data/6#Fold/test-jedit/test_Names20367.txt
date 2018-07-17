@@ -1,0 +1,2 @@
+* * * * update * * * manage panel * * plugin detail panel 
+* * * * update * * * manage panel * * * plugin manager 

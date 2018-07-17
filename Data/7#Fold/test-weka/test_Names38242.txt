@@ -1,0 +1,3 @@
+* * notify text listeners * * * * associator * * * text event 
+* * notify text listeners * * * * associator * * * bean visual 
+* * notify text listeners * * * * associator * * * * environment 

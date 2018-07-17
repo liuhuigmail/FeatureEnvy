@@ -1,0 +1,1 @@
+* * create count table * * * object factory c o u n t 

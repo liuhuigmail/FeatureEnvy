@@ -1,0 +1,2 @@
+* * * generate partition * * j 4 8 * * * * instances 
+* * * generate partition * * j 4 8 * * * classifier tree 

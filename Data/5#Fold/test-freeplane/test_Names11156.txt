@@ -1,0 +1,1 @@
+* * * check node * * attribute exists condition * * * node model 

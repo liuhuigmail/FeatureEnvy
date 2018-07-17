@@ -1,0 +1,2 @@
+* * * set tokenizer * string to word vector * * * * tokenizer 
+* * * set tokenizer * string to word vector * * * dictionary builder 

@@ -1,0 +1,1 @@
+* set attribute view type * * modeless attribute controller * * * map model 

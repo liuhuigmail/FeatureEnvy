@@ -1,0 +1,2 @@
+* * test neural network * * balance scale sample * * * neural network 
+* * test neural network * * balance scale sample * * * data set 

@@ -1,0 +1,4 @@
+* remove map change listener * * * extension container * * * map model 
+* remove map change listener * * * extension container * * * * filter 
+* remove map change listener * * * extension container * * * icon registry 
+* remove map change listener * * * extension container * * * node model 

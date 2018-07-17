@@ -1,0 +1,3 @@
+* * accept test set * * * text viewer * * test set event 
+* * accept test set * * * text viewer * * * bean visual 
+* * accept test set * * * text viewer * * result history panel 

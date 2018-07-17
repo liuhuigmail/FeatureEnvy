@@ -1,0 +1,4 @@
+* * copy style extensions * m logical style controller * * * node model 
+* * copy style extensions * m logical style controller * * filter composer dialog 
+* * copy style extensions * m logical style controller * * * node model 
+* * copy style extensions * m logical style controller * * filter composer dialog 

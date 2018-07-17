@@ -1,0 +1,6 @@
+* * set drawings omitted * * * drawing group * * mso drawing record 
+* * set drawings omitted * * * drawing group * * * obj record 
+* * set drawings omitted * * * drawing group * * * * logger 
+* * set drawings omitted * * * drawing group * * * escher container 
+* * set drawings omitted * * * drawing group * * b store container 
+* * set drawings omitted * * * drawing group * * * * origin 

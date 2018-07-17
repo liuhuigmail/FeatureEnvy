@@ -1,0 +1,1 @@
+extract char images to learn * * * char extractor * * * * dimension 

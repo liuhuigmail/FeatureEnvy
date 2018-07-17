@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="Sample Category"
+            id="MyTest">
+      </category>
+      <view
+            name="Sample View"
+            icon="icons/sample.gif"
+            category="MyTest"
+            class="mytest.views.SampleView"
+            id="mytest.views.SampleView">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="org.eclipse.jdt.ui.JavaPerspective">
+         <view
+               ratio="0.5"
+               relative="org.eclipse.ui.views.ProblemView"
+               relationship="right"
+               id="mytest.views.SampleView">
+         </view>
+      </perspectiveExtension>
+   </extension>
+   <extension
+         point="org.eclipse.help.contexts">
+      <contexts
+            file="contexts.xml">
+      </contexts>
+   </extension>
+   <extension   
+          point="org.eclipse.ui.actionSets">
+		<actionSet
+            label="Action Set"
+            visible="true"
+            id="swr.actionSet">
+        <menu
+               label="Feature Envy"
+               id="ENMenu">
+		</menu>
+		<action
+               class="en.actions.ExtractDataSet"
+               id="actions.ExtractDataSet"
+               label="&amp;Extract DataSet"
+               tooltip="Extract DataSet"
+               menubarPath="ENMenu/ENGroup"
+               style="push">
+         </action>
+      </actionSet>
+   </extension>
+
+</plugin>

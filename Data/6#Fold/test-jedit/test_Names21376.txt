@@ -1,0 +1,2 @@
+* * handle properties changed * j edit text area * * * properties changed 
+* * handle properties changed * j edit text area * * * * view 

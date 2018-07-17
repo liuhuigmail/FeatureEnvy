@@ -1,0 +1,4 @@
+* * init history content * * logical view composite * * * trace entry 
+* * init history content * * logical view composite * * * archive explorer 
+* * init history content * * logical view composite * * * * application 
+* * init history content * * logical view composite * * * resource manager 

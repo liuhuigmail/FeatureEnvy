@@ -1,0 +1,2 @@
+* * update new view * * node view factory * * * node view 
+* * update new view * * node view factory * link navigator mouse listener 

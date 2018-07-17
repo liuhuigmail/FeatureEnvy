@@ -1,0 +1,3 @@
+* * * on write * * m note controller * * * map model 
+* * * on write * * m note controller * * * note manager 
+* * * on write * * m note controller * * spell checker controller 

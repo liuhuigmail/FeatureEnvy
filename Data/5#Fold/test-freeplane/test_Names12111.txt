@@ -1,0 +1,1 @@
+* get values for property * * icon condition controller * * * named object 

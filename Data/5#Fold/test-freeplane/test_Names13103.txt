@@ -1,0 +1,4 @@
+* * * copy extensions * * * mode controller * * * node model 
+* * * copy extensions * * * mode controller * * * extension container 
+* * * copy extensions * * * mode controller * * * map controller 
+* * * copy extensions * * * mode controller * * * * controller 

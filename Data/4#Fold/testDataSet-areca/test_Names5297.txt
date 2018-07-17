@@ -1,0 +1,3 @@
+* * pre commit merge * * * process context * * * abstract target 
+* * pre commit merge * * * process context * * * filter group 
+* * pre commit merge * * * process context * * * processor list 

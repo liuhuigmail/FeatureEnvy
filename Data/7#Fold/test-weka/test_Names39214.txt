@@ -1,0 +1,2 @@
+* * * apply settings * * base interactive viewer * * * * settings 
+* * * apply settings * * base interactive viewer * main k f perspective 

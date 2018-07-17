@@ -1,0 +1,3 @@
+* * handle enumerated attribute * * * * instances bin c 4 5 split 
+* * handle enumerated attribute * * * * instances * info gain split crit 
+* * handle enumerated attribute * * * * instances * gain ratio split crit 

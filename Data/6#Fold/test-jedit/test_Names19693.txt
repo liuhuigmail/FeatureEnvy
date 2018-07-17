@@ -1,0 +1,2 @@
+* * * * remove * * panel window container * * * dockable panel 
+* * * * remove * * panel window container * dockable window manager impl 

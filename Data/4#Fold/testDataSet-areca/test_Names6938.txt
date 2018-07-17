@@ -1,0 +1,2 @@
+* * switch lock scroll * * * log composite * * * resource manager 
+* * switch lock scroll * * * log composite * * * * application 

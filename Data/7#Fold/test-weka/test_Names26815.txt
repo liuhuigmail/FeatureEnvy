@@ -1,0 +1,3 @@
+* * * * setup * * * dictionary builder * * * * instances 
+* * * * setup * * * dictionary builder * * * * tokenizer 
+* * * * setup * * * dictionary builder * * * * range 

@@ -1,0 +1,2 @@
+* * add configuration listener * * * bean visual * * * * clusterer 
+* * add configuration listener * * * bean visual * * * * instances 

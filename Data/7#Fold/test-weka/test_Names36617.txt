@@ -1,0 +1,3 @@
+* * notify structure available * * * * loader * * * * instances 
+* * notify structure available * * * * loader * * * instance event 
+* * notify structure available * * * * loader * * * * environment 

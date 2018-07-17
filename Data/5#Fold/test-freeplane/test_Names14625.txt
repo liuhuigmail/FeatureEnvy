@@ -1,0 +1,1 @@
+set dont load last maps * * application resource controller * * freeplane headless starter 

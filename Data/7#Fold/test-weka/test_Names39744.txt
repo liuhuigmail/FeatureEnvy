@@ -1,0 +1,1 @@
+* set num of nodes * * place node 1 * * * * node 

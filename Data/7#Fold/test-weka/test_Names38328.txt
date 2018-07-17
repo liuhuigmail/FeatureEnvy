@@ -1,0 +1,2 @@
+* add data format listener * * * class assigner * * * * instances 
+* add data format listener * * * class assigner * * * bean visual 

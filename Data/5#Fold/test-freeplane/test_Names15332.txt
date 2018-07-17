@@ -1,0 +1,3 @@
+* * paint selection rectangle * * * map view * * * node view 
+* * paint selection rectangle * * * map view * * * mode controller 
+* * paint selection rectangle * * * map view * * * map model 

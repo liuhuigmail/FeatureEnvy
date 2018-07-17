@@ -1,0 +1,5 @@
+* * * accept classifier * * * prediction appender * * batch classifier event 
+* * * accept classifier * * * prediction appender * * * * instances 
+* * * accept classifier * * * prediction appender * * * bean visual 
+* * * accept classifier * * * prediction appender * * * instance event 
+* * * accept classifier * * * prediction appender * * * stream throughput 

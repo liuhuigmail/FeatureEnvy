@@ -1,0 +1,2 @@
+* * has overridden property * * * rule reference * * * language version 
+* * has overridden property * * * rule reference * * rule set reference 

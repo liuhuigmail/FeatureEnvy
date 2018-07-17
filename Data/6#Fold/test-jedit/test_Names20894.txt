@@ -1,0 +1,2 @@
+get selection start and end * * * selection manager * * * * selection 
+get selection start and end * * * selection manager * * * text area 

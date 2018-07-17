@@ -1,0 +1,4 @@
+* * add instance info * * k d tree * k d tree node 
+* * add instance info * * k d tree k d tree node splitter 
+* * add instance info * * k d tree * * tree performance stats 
+* * add instance info * * k d tree * * * euclidean distance 

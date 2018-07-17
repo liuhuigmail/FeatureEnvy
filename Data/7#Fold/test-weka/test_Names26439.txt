@@ -1,0 +1,3 @@
+* * update canopy center * * * * canopy * * * * instances 
+* * update canopy center * * * * canopy * * * * filter 
+* * update canopy center * * * * canopy * * * normalizable distance 

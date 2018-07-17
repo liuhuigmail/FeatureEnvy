@@ -1,0 +1,2 @@
+* * add instance info * * * cover tree * * * euclidean distance 
+* * add instance info * * * cover tree * * tree performance stats 

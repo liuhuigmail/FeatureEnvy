@@ -1,0 +1,3 @@
+* * * set result * * * check window * * max capacity list 
+* * * set result * * * check window * * * resource manager 
+* * * set result * * * check window * * * abstract target 

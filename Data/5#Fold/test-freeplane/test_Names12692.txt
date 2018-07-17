@@ -1,0 +1,5 @@
+* * fire map removed * * * map controller * * * map model 
+* * fire map removed * * * map controller * * * map reader 
+* * fire map removed * * * map controller * * * map writer 
+* * fire map removed * * * map controller * * * read manager 
+* * fire map removed * * * map controller * * * write manager 

@@ -1,0 +1,2 @@
+* get map style names * * logical style controller * * * node model 
+* get map style names * * logical style controller * * * node model 

@@ -1,0 +1,12 @@
+* * shallow copy cell * * * sheet copier * * * * logger 
+* * shallow copy cell * * * sheet copier * * * sheet impl 
+* * shallow copy cell * * * sheet copier * * writable sheet impl 
+* * shallow copy cell * * * sheet copier * * * workbook settings 
+* * shallow copy cell * * * sheet copier * * * formatting records 
+* * shallow copy cell * * * sheet copier * * * merged cells 
+* * shallow copy cell * * * sheet copier * * * sheet writer 
+* * shallow copy cell * * * sheet copier * * * auto filter 
+* * shallow copy cell * * * sheet copier * * * data validation 
+* * shallow copy cell * * * sheet copier * * * combo box 
+* * shallow copy cell * * * sheet copier * p l s record 
+* * shallow copy cell * * * sheet copier * button property set record 

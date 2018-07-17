@@ -1,0 +1,3 @@
+* * * * initialize * * output format dialog * * generic object editor 
+* * * * initialize * * output format dialog * * * property panel 
+* * * * initialize * * output format dialog * * * result matrix 

@@ -1,0 +1,5 @@
+* get node i d * * * map controller * * * node model 
+* get node i d * * * map controller * * * map reader 
+* get node i d * * * map controller * * * map writer 
+* get node i d * * * map controller * * * read manager 
+* get node i d * * * map controller * * * write manager 

@@ -1,0 +1,2 @@
+* * * result changed * * sql viewer dialog * * result changed event 
+* * * result changed * * sql viewer dialog * * * sql viewer 

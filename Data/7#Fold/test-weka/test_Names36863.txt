@@ -1,0 +1,3 @@
+* * * set visual * * * * appender * * * bean visual 
+* * * set visual * * * * appender * * * * instances 
+* * * set visual * * * * appender * * * instance event 

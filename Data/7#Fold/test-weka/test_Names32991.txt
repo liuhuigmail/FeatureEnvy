@@ -1,0 +1,1 @@
+* * * normal kernel * * * mahalanobis estimator * * * * matrix 

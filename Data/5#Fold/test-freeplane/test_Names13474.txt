@@ -1,0 +1,4 @@
+acquire printer job and page * * * print controller * * * page action 
+acquire printer job and page * * * print controller * * * print action 
+acquire printer job and page * * * print controller * * print direct action 
+acquire printer job and page * * * print controller * * print preview action 

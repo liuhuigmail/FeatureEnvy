@@ -1,0 +1,3 @@
+* get round rectangle around * * * node view * * * map view 
+* get round rectangle around * * * node view * * * mode controller 
+* get round rectangle around * * * node view * * * map model 

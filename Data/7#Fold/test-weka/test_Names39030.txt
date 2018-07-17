@@ -1,0 +1,6 @@
+* * * connect steps * * * visible layout * * step manager impl 
+* * * connect steps * * * visible layout * * * * flow 
+* * * connect steps * * * visible layout * * * * environment 
+* * * connect steps * * * visible layout * main k f perspective 
+* * * connect steps * * * visible layout * * * layout panel 
+* * * connect steps * * * visible layout * * * step visual 

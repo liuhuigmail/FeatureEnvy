@@ -1,0 +1,6 @@
+* * * get bytes * * * * chart * * * * logger 
+* * * get bytes * * * * chart * * mso drawing record 
+* * * get bytes * * * * chart * * * obj record 
+* * * get bytes * * * * chart * * * * file 
+* * * get bytes * * * * chart * * * drawing data 
+* * * get bytes * * * * chart * * * workbook settings 

@@ -1,0 +1,3 @@
+* * * * write * buffer i o request * * * * buffer 
+* * * * write * buffer i o request * * * * view 
+* * * * write * buffer i o request * * v f s 

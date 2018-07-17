@@ -1,0 +1,4 @@
+* * * set log * * * * instances * * * prediction appender 
+* * * set log * * * * instances * * * bean visual 
+* * * set log * * * * instances * * * instance event 
+* * * set log * * * * instances * * * stream throughput 

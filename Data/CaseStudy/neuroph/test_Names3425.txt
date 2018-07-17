@@ -1,0 +1,1 @@
+find max and min vectors * * * range normalizer * * * data set 

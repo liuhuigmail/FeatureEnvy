@@ -1,0 +1,6 @@
+* * get background color * * map view controller * * * node model 
+* * get background color * * map view controller * * * map view 
+* * get background color * * map view controller map view change observer compound 
+* * get background color * * map view controller * * * * controller 
+* * get background color * * map view controller * * zoom in action 
+* * get background color * * map view controller * * zoom out action 

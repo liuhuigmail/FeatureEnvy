@@ -1,0 +1,2 @@
+* handle dockable window update * dockable window manager impl * * dockable window update 
+* handle dockable window update * dockable window manager impl * * panel window container 

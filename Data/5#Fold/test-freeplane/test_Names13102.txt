@@ -1,0 +1,3 @@
+* * unregister extension copier * * * mode controller * * * extension container 
+* * unregister extension copier * * * mode controller * * * map controller 
+* * unregister extension copier * * * mode controller * * * * controller 

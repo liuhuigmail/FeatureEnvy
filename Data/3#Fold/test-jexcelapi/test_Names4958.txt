@@ -1,0 +1,4 @@
+* * * get format * * * * styles * * x f record 
+* * * get format * * * * styles * * * * logger 
+* * * get format * * * * styles * * * writable font 
+* * * get format * * * * styles * * writable cell format 

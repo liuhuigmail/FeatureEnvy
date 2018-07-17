@@ -1,0 +1,3 @@
+* * * * eval b s h variable declarator * b s h type 
+* * * * eval b s h variable declarator * * * call stack 
+* * * * eval b s h variable declarator * * * * interpreter 

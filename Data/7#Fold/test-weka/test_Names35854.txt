@@ -1,0 +1,2 @@
+* * popup settings dialog * * * perspective manager * * * * settings 
+* * popup settings dialog * * * perspective manager * * * log panel 

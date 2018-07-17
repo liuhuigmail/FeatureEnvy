@@ -1,0 +1,5 @@
+* * * accept clusterer * * * prediction appender * * batch clusterer event 
+* * * accept clusterer * * * prediction appender * * * * instances 
+* * * accept clusterer * * * prediction appender * * * bean visual 
+* * * accept clusterer * * * prediction appender * * * instance event 
+* * * accept clusterer * * * prediction appender * * * stream throughput 

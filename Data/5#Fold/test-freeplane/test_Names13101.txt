@@ -1,0 +1,3 @@
+* * register extension copier * * * mode controller * * * extension container 
+* * register extension copier * * * mode controller * * * map controller 
+* * register extension copier * * * mode controller * * * * controller 

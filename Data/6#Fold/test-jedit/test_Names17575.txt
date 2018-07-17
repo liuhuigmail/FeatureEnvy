@@ -1,0 +1,8 @@
+* focus on default component * * * action context * v f s browser 
+* focus on default component * * * action context * * * * view 
+* focus on default component * * * action context * * history text field 
+* focus on default component * * * action context * * * browser view 
+* focus on default component * * * action context * v f s browser 
+* focus on default component * * * action context * * * * view 
+* focus on default component * * * action context * * history text field 
+* focus on default component * * * action context * * * browser view 

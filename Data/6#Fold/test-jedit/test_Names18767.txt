@@ -1,0 +1,2 @@
+* * * to string * * * eval error * * * simple node 
+* * * to string * * * eval error * * * call stack 

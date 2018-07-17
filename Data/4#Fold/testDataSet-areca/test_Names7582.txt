@@ -1,0 +1,2 @@
+* * * require statistics * * * merge processor * * * merge parameters 
+* * * require statistics * * * merge processor * * * check parameters 

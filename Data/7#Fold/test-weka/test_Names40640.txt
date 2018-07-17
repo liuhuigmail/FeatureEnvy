@@ -1,0 +1,3 @@
+* * string to list * * classifier performance evaluator * * * aggregateable evaluation 
+* * string to list * * classifier performance evaluator * * * * instances 
+* * string to list * * classifier performance evaluator * classifier errors plot instances 

@@ -1,0 +1,4 @@
+* add configured help book * * * jar bundler * * * help book 
+* add configured help book * * * jar bundler * * app bundle properties 
+* add configured help book * * * jar bundler * * * help book 
+* add configured help book * * * jar bundler * * app bundle properties 

@@ -1,0 +1,3 @@
+* * registry node icons * * * icon registry * * * map controller 
+* * registry node icons * * * icon registry * * * node model 
+* * registry node icons * * * icon registry * sorted combo box model 

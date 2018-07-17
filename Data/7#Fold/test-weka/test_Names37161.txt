@@ -1,0 +1,4 @@
+* * configure bean layout * * * bean instance * * knowledge flow app 
+* * configure bean layout * * * bean instance * * attribute selection panel 
+* * configure bean layout * * * bean instance * * * * environment 
+* * configure bean layout * * * bean instance * * * * memory 

@@ -1,0 +1,2 @@
+* * handle register changed * * * register viewer * * * register changed 
+* * handle register changed * * * register viewer * * * * view 

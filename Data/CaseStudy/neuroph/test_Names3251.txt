@@ -1,0 +1,1 @@
+* * handle learning event * * animals classification sample * * * learning event 

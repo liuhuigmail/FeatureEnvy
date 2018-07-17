@@ -1,0 +1,2 @@
+* * * add condition * * * conditional format * * conditional format record 
+* * * add condition * * * conditional format * conditional format range record 

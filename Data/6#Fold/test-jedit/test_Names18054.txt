@@ -1,0 +1,4 @@
+* * get return type * delayed eval bsh method b s h return type 
+* * get return type * delayed eval bsh method b s h formal parameters 
+* * get return type * delayed eval bsh method * * * call stack 
+* * get return type * delayed eval bsh method * * * * interpreter 

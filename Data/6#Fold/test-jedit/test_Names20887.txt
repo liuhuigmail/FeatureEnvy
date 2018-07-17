@@ -1,0 +1,2 @@
+* * add to selection * * * selection manager * * * * selection 
+* * add to selection * * * selection manager * * * text area 

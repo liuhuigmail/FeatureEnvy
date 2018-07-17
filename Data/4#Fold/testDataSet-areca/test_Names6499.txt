@@ -1,0 +1,4 @@
+* * * add plugin * * target edition window * * * resource manager 
+* * * add plugin * * target edition window * * * abstract target 
+* * * add plugin * * target edition window * * * filter group 
+* * * add plugin * * target edition window * * * processors table 

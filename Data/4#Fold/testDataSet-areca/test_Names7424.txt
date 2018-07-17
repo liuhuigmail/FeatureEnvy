@@ -1,0 +1,3 @@
+* * * get path * * * transaction point * * archive content adapter 
+* * * get path * * * transaction point * * archive trace adapter 
+* * * get path * * * transaction point * * transaction point header 

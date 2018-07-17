@@ -1,0 +1,2 @@
+* * * show dialog * * browser integration dlg * x d m config 
+* * * show dialog * * browser integration dlg * x d m button 

@@ -1,0 +1,4 @@
+* * * get icon * * * node model * * * text controller 
+* * * get icon * * * node model * * * mode controller 
+* * * get icon * * * text controller * * * node model 
+* * * get icon * * * text controller * * * mode controller 

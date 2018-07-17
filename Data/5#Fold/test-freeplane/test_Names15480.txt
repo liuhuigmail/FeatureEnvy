@@ -1,0 +1,6 @@
+* * * update menus * * map view controller * * * menu builder 
+* * * update menus * * map view controller * * * map view 
+* * * update menus * * map view controller map view change observer compound 
+* * * update menus * * map view controller * * * * controller 
+* * * update menus * * map view controller * * zoom in action 
+* * * update menus * * map view controller * * zoom out action 

@@ -1,0 +1,3 @@
+* add multiple failure exception * * each test notifier * * multiple failure exception 
+* add multiple failure exception * * each test notifier * * * run notifier 
+* add multiple failure exception * * each test notifier * * * * description 

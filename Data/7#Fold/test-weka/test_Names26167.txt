@@ -1,0 +1,3 @@
+* * distribution for instance * * * model selection * l m t node 
+* * distribution for instance * * * model selection * * nominal to binary 
+* * distribution for instance * * * model selection * * classifier split model 

@@ -1,0 +1,1 @@
+* * * get widget * * wrap widget factory * * * * view 

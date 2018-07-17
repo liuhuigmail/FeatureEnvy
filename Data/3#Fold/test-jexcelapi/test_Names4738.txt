@@ -1,0 +1,15 @@
+* remove shared data validation * * * cell view * * writable sheet impl 
+* remove shared data validation * * * cell view * * * * logger 
+* remove shared data validation * * * cell view * * * * file 
+* remove shared data validation * * * cell view * * * formatting records 
+* remove shared data validation * * * cell view * * * shared strings 
+* remove shared data validation * * * cell view * * * merged cells 
+* remove shared data validation * * * cell view * p l s record 
+* remove shared data validation * * * cell view * button property set record 
+* remove shared data validation * * * cell view * * * data validation 
+* remove shared data validation * * * cell view * * * auto filter 
+* remove shared data validation * * * cell view * * * combo box 
+* remove shared data validation * * * cell view * * * sheet settings 
+* remove shared data validation * * * cell view * * * sheet writer 
+* remove shared data validation * * * cell view * * * workbook settings 
+* remove shared data validation * * * cell view * * writable workbook impl 

@@ -1,0 +1,2 @@
+* internal batch nearest neighbor * * * cover tree * * * euclidean distance 
+* internal batch nearest neighbor * * * cover tree * * tree performance stats 

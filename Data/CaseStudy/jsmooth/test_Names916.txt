@@ -1,0 +1,2 @@
+* * create dialog area * * skeleton properties dialog * * * skeleton page 
+* * create dialog area * * skeleton properties dialog * * j smooth application 

@@ -1,0 +1,8 @@
+* * restore split config * * * * buffer * * * * view 
+* * restore split config * * * * buffer * * dockable window manager 
+* * restore split config * * * * buffer * * tool bar manager 
+* * restore split config * * * * buffer * * * search bar 
+* * restore split config * * * * buffer * * * action bar 
+* * restore split config * * * * buffer * * * edit pane 
+* * restore split config * * * * buffer * * * status bar 
+* * restore split config * * * * buffer * * * input handler 

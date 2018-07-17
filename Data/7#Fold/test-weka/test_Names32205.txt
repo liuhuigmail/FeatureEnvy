@@ -1,0 +1,3 @@
+* * * * trace * x m l document * x m l serialization 
+* * * * trace * x m l document * * * property handler 
+* * * * trace * x m l document x m l serialization method 

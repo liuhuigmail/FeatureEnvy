@@ -1,0 +1,4 @@
+* * * compare entries abstract incremental file system medium * * * trace entry 
+* * * compare entries abstract incremental file system medium * file system recovery entry 
+* * * compare entries abstract incremental file system medium * * * process context 
+* * * compare entries abstract incremental file system medium * * entry archive data 

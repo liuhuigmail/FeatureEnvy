@@ -1,0 +1,3 @@
+* * create property control * * skeleton properties dialog * * * skeleton property 
+* * create property control * * skeleton properties dialog * * * skeleton page 
+* * create property control * * skeleton properties dialog * * j smooth application 

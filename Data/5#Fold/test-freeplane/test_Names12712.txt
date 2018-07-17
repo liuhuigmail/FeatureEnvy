@@ -1,0 +1,5 @@
+insert node into without undo * * * map controller * * * node model 
+insert node into without undo * * * map controller * * * map reader 
+insert node into without undo * * * map controller * * * map writer 
+insert node into without undo * * * map controller * * * read manager 
+insert node into without undo * * * map controller * * * write manager 

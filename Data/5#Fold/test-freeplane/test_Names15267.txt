@@ -1,0 +1,4 @@
+* * anchor to selected * * * node model * * * map view 
+* * anchor to selected * * * node model * * * node view 
+* * anchor to selected * * * node model * * * mode controller 
+* * anchor to selected * * * node model * * * map model 

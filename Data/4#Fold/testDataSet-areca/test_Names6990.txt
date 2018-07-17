@@ -1,0 +1,3 @@
+* * set selected entry * * * archive explorer * * * trace entry 
+* * set selected entry * * * archive explorer * * * resource manager 
+* * set selected entry * * * archive explorer * * aggregated view context 

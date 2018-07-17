@@ -1,0 +1,3 @@
+* * * is headless * * base execution environment * * * * environment 
+* * * is headless * * base execution environment * * * * settings 
+* * * is headless * * base execution environment * * * log manager 

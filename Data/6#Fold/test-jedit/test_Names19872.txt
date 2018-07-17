@@ -1,0 +1,4 @@
+* * handle plugin update * * * help viewer * * * plugin update 
+* * handle plugin update * * * help viewer * * * history button 
+* * handle plugin update * * * help viewer * * help history model 
+* * handle plugin update * * * help viewer help t o c panel 

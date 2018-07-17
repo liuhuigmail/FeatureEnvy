@@ -1,0 +1,3 @@
+* * * should run * * * parent runner * * * * filter 
+* * * should run * * * parent runner * * * test class 
+* * * should run * * * parent runner * * * * sorter 

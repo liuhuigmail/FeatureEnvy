@@ -1,0 +1,3 @@
+k means plus plus init * * simple k means * * * * instances 
+k means plus plus init * * simple k means * * replace missing values 
+k means plus plus init * * simple k means * * * * canopy 

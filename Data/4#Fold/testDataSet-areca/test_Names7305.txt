@@ -1,0 +1,1 @@
+* * write generic entry * * archive content adapter * * * content entry 

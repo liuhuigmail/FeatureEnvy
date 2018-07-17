@@ -1,0 +1,2 @@
+* get full window title * * * abstract window * * * resource manager 
+* get full window title * * * abstract window * * * * application 

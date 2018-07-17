@@ -1,0 +1,4 @@
+* * set initialization method * * simple k means * * * selected tag 
+* * set initialization method * * simple k means * * replace missing values 
+* * set initialization method * * simple k means * * * * instances 
+* * set initialization method * * simple k means * * * * canopy 

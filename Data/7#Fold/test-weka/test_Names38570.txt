@@ -1,0 +1,8 @@
+* * * get name * * * setup panel * * * * experiment 
+* * * get name * * * setup panel * * setup mode panel 
+* * * get name * * * setup panel * * generic object editor 
+* * * get name * * * setup panel * * * property panel 
+* * * get name * * * setup panel * generator property iterator panel 
+* * * get name * * * setup panel * * run number panel 
+* * * get name * * * setup panel * * distribute experiment panel 
+* * * get name * * * setup panel * * dataset list panel 

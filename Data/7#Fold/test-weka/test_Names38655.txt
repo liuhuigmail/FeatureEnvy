@@ -1,0 +1,6 @@
+* * * set explorer * * * associations panel * * * * explorer 
+* * * set explorer * * * associations panel * * generic object editor 
+* * * set explorer * * * associations panel * * * property panel 
+* * * set explorer * * * associations panel * * * save buffer 
+* * * set explorer * * * associations panel * * result history panel 
+* * * set explorer * * * associations panel * * * * instances 

@@ -1,0 +1,3 @@
+* * before map change * a filter composer dialog * * * map model 
+* * before map change * a filter composer dialog * * filter condition editor 
+* * before map change * a filter composer dialog * * * filter controller 

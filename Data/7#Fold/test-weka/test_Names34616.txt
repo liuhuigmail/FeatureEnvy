@@ -1,0 +1,3 @@
+* * test input format * * * add cluster * * * * instances 
+* * test input format * * * add cluster * * * * range 
+* * test input format * * * add cluster * * * * filter 

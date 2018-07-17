@@ -1,0 +1,2 @@
+* * * get icon * * * text controller * * abstract content transformer 
+* * * get icon * * * text controller * * * node model 

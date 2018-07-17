@@ -1,0 +1,2 @@
+* * init visible perspectives * * * perspective manager * * * * settings 
+* * init visible perspectives * * * perspective manager * * * log panel 

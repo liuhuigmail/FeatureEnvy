@@ -1,0 +1,4 @@
+add and skip lexical errors * * c p d * * * source code 
+add and skip lexical errors * * c p d * c p d configuration 
+add and skip lexical errors * * c p d * * * * tokens 
+add and skip lexical errors * * c p d * * * match algorithm 

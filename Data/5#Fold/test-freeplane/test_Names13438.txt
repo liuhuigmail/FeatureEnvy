@@ -1,0 +1,2 @@
+* * * on deselect * * * node model * * * note manager 
+* * * on deselect * * * node model * * m note controller 

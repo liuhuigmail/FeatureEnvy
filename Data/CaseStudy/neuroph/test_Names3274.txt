@@ -1,0 +1,2 @@
+* * test neural network * predicting the religion sample * * * neural network 
+* * test neural network * predicting the religion sample * * * data set 

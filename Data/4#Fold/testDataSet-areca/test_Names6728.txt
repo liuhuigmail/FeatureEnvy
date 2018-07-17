@@ -1,0 +1,9 @@
+* * set current object * * * * application * * * resource manager 
+* * set current object * * * * application * c tab folder manager 
+* * set current object * * * * application * * * * workspace 
+* * set current object * * * * application * * * main window 
+* * set current object * * * * application * * * trace entry 
+* * set current object * * * * application * * entry archive data 
+* * set current object * * * * application * u i recovery filter 
+* * set current object * * * * application * * * file tool 
+* * set current object * * * * application * * * simulation result 

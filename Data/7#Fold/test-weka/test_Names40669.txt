@@ -1,0 +1,2 @@
+* * generate merged instance * * * * data * * * * join 
+* * generate merged instance * * * * data * * * * instances 

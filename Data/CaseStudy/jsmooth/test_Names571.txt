@@ -1,0 +1,2 @@
+* * get locale text * * * master panel * j smooth model bean 
+* * get locale text * * * master panel * * * editor pool 

@@ -1,0 +1,3 @@
+* * set note text * * * node model * * m note controller 
+* * set note text * * * node model * * * note manager 
+* * set note text * * * node model * * spell checker controller 

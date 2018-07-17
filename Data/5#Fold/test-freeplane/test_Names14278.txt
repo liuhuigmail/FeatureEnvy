@@ -1,0 +1,2 @@
+add as child with content * x m l element * * add on properties 
+add as child with content * x m l element * * * freeplane version 

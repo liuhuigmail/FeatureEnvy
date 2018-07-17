@@ -1,0 +1,2 @@
+* * * global info * * * * discretize * * regression by discretization 
+* * * global info * * * * discretize * * * * instances 

@@ -1,0 +1,3 @@
+* check file for load * * * * buffer * * * * view 
+* check file for load * * * * buffer * * v f s 
+* check file for load * * * * buffer * * * token marker 

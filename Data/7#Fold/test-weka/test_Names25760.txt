@@ -1,0 +1,4 @@
+* * * build classifier * * l m t * * * * instances 
+* * * build classifier * * l m t * * replace missing values 
+* * * build classifier * * l m t * * nominal to binary 
+* * * build classifier * * l m t * l m t node 

@@ -1,0 +1,2 @@
+* get properties read only * * * map style * * * map model 
+* get properties read only * * * map style * * * map model 

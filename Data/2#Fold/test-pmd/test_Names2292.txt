@@ -1,0 +1,1 @@
+* * default file extension * * text color renderer * * * string property 

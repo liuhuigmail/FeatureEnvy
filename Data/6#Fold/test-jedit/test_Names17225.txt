@@ -1,0 +1,16 @@
+* * set split config * * * * view * * * * buffer 
+* * set split config * * * * view * * dockable window manager 
+* * set split config * * * * view * * tool bar manager 
+* * set split config * * * * view * * * search bar 
+* * set split config * * * * view * * * action bar 
+* * set split config * * * * view * * * edit pane 
+* * set split config * * * * view * * * status bar 
+* * set split config * * * * view * * * input handler 
+* * set split config * * * * view * * * * buffer 
+* * set split config * * * * view * * dockable window manager 
+* * set split config * * * * view * * tool bar manager 
+* * set split config * * * * view * * * search bar 
+* * set split config * * * * view * * * action bar 
+* * set split config * * * * view * * * edit pane 
+* * set split config * * * * view * * * status bar 
+* * set split config * * * * view * * * input handler 

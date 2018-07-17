@@ -1,0 +1,3 @@
+* scroll node to visible * * * map view * * * node view 
+* scroll node to visible * * * map view * * * mode controller 
+* scroll node to visible * * * map view * * * map model 

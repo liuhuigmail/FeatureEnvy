@@ -1,0 +1,3 @@
+set g u i type * * * * main * * * selected tag 
+set g u i type * * * * main * * * * memory 
+set g u i type * * * * main * * * log window 

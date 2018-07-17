@@ -1,0 +1,3 @@
+* * * set instances * * * filtered distance * * * * instances 
+* * * set instances * * * filtered distance * * * * filter 
+* * * set instances * * * filtered distance * * * * remove 

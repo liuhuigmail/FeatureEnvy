@@ -1,0 +1,2 @@
+* * * * rationalize * * column info record * * * index mapping 
+* * * * rationalize * * column info record * * x f record 

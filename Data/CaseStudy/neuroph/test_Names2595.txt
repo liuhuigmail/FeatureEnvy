@@ -1,0 +1,3 @@
+* * * * calculate * * * * neuron * * * * layer 
+* * * * calculate * * * * neuron * * * input function 
+* * * * calculate * * * * neuron * * * transfer function 

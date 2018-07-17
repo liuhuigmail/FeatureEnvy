@@ -1,0 +1,2 @@
+* * handle plugin update * dockable window manager impl * * * plugin update 
+* * handle plugin update * dockable window manager impl * * panel window container 

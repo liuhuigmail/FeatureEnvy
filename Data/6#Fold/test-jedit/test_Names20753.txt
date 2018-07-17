@@ -1,0 +1,8 @@
+* * * expand fold * * * display manager * * * first line 
+* * * expand fold * * * display manager * * scroll line count 
+* * * expand fold * * * display manager * * screen line manager 
+* * * expand fold * * * display manager * * * range map 
+* * * expand fold * * * display manager * * j edit buffer 
+* * * expand fold * * * display manager * * * text area 
+* * * expand fold * * * display manager * * * buffer handler 
+* * * expand fold * * * display manager elastic tab stop buffer listener 

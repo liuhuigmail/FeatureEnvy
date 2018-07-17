@@ -1,0 +1,4 @@
+* * * set log * * * data visualizer * * * bean visual 
+* * * set log * * * data visualizer * * * * instances 
+* * * set log * * * data visualizer * * * visualize panel 
+* * * set log * * * data visualizer * * * * environment 

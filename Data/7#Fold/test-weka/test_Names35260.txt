@@ -1,0 +1,2 @@
+* set normalize doc length * string to word vector * * * selected tag 
+* set normalize doc length * string to word vector * * * dictionary builder 

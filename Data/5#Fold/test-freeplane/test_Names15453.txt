@@ -1,0 +1,6 @@
+* * get text color * * * node model * * map view controller 
+* * get text color * * * node model * * * map view 
+* * get text color * * * node model map view change observer compound 
+* * get text color * * * node model * * * * controller 
+* * get text color * * * node model * * zoom in action 
+* * get text color * * * node model * * zoom out action 

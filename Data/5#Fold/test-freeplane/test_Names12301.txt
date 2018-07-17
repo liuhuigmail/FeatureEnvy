@@ -1,0 +1,1 @@
+* * * create condition * * link condition controller * * * named object 

@@ -1,0 +1,8 @@
+* * update radio links * * * * explorer * * * clusterer panel 
+* * update radio links * * * * explorer * * generic object editor 
+* * update radio links * * * * explorer * * * property panel 
+* * update radio links * * * * explorer * * * save buffer 
+* * update radio links * * * * explorer * * result history panel 
+* * update radio links * * * * explorer * * * * instances 
+* * update radio links * * * * explorer * * * visualize panel 
+* * update radio links * * * * explorer * * instances summary panel 

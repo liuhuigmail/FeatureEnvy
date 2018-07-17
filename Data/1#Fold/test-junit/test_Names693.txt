@@ -1,0 +1,3 @@
+* * with after classes * * * parent runner * * * * statement 
+* * with after classes * * * parent runner * * * test class 
+* * with after classes * * * parent runner * * * * sorter 

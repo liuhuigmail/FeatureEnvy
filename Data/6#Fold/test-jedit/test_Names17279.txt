@@ -1,0 +1,7 @@
+* * * * adjust * * dockable window manager * * * * view 
+* * * * adjust * * dockable window manager * * tool bar manager 
+* * * * adjust * * dockable window manager * * * search bar 
+* * * * adjust * * dockable window manager * * * action bar 
+* * * * adjust * * dockable window manager * * * edit pane 
+* * * * adjust * * dockable window manager * * * status bar 
+* * * * adjust * * dockable window manager * * * input handler 

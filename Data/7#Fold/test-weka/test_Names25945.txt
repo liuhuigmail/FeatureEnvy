@@ -1,0 +1,3 @@
+* * * build classifier * n b tree split * * * * instances 
+* * * build classifier * n b tree split * c 4 5 split 
+* * * build classifier * n b tree split n b tree no split 

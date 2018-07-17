@@ -1,0 +1,8 @@
+* * after map change * * * map model * * * filter controller 
+* * after map change * * * map model * * a selectable condition 
+* * after map change * * * map model * * * condition factory 
+* * after map change * * * map model * * default condition renderer 
+* * after map change * * * map model * * filter menu builder 
+* * after map change * * * map model * * * filter history 
+* * after map change * * * map model * * * * filter 
+* * after map change * * * map model * * filter condition editor 

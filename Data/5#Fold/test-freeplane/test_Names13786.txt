@@ -1,0 +1,2 @@
+* * get transformed object * * * node model * * * text controller 
+* * get transformed object * * * node model * * * mode controller 

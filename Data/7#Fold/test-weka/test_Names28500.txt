@@ -1,0 +1,1 @@
+* * * set stemmer * * * dictionary saver * * * dictionary builder 

@@ -1,0 +1,1 @@
+assert no descendants have category * * * * description * * * * categories 

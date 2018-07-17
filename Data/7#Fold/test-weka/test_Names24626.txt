@@ -1,0 +1,4 @@
+* * * global info * * l w l * * * * instances 
+* * * global info * * l w l * * nearest neighbour search 
+* * * global info * * l w l * * * * instances 
+* * * global info * * l w l * * nearest neighbour search 

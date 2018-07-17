@@ -1,0 +1,5 @@
+* * * global info * * * * join * * * * environment 
+* * * global info * * * * join * * * instance event 
+* * * global info * * * * join * * * * instances 
+* * * global info * * * * join * * * bean visual 
+* * * global info * * * * join * * * stream throughput 

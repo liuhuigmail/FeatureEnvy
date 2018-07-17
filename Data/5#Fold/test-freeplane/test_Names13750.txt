@@ -1,0 +1,4 @@
+* * * register by * * node text builder * * * read manager 
+* * * register by * * node text builder * * * write manager 
+* * * register by * * node text builder * * * read manager 
+* * * register by * * node text builder * * * write manager 

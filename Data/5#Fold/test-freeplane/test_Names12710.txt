@@ -1,0 +1,5 @@
+* * * has children * * * node model * * * map controller 
+* * * has children * * * node model * * * map reader 
+* * * has children * * * node model * * * map writer 
+* * * has children * * * node model * * * read manager 
+* * * has children * * * node model * * * write manager 

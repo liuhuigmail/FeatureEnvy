@@ -1,0 +1,9 @@
+* * show archive detail * * * trace entry * * * * application 
+* * show archive detail * * * trace entry * * * resource manager 
+* * show archive detail * * * trace entry * c tab folder manager 
+* * show archive detail * * * trace entry * * * * workspace 
+* * show archive detail * * * trace entry * * * main window 
+* * show archive detail * * * trace entry * * entry archive data 
+* * show archive detail * * * trace entry * u i recovery filter 
+* * show archive detail * * * trace entry * * * file tool 
+* * show archive detail * * * trace entry * * * simulation result 

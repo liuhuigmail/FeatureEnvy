@@ -1,0 +1,1 @@
+* * get minimum size * * property editor dialog * * java property pair 

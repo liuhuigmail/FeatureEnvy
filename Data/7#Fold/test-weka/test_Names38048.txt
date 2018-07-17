@@ -1,0 +1,5 @@
+* * set parent window * * * loader customizer * * * * loader 
+* * set parent window * * * loader customizer * * property sheet panel 
+* * set parent window * * * loader customizer * * * environment field 
+* * set parent window * * * loader customizer * * * * environment 
+* * set parent window * * * loader customizer * * file environment field 

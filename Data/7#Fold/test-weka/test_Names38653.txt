@@ -1,0 +1,7 @@
+* * update capabilities filter * * * associations panel * * * * capabilities 
+* * update capabilities filter * * * associations panel * * * * explorer 
+* * update capabilities filter * * * associations panel * * generic object editor 
+* * update capabilities filter * * * associations panel * * * property panel 
+* * update capabilities filter * * * associations panel * * * save buffer 
+* * update capabilities filter * * * associations panel * * result history panel 
+* * update capabilities filter * * * associations panel * * * * instances 

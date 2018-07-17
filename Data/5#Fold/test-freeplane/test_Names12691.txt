@@ -1,0 +1,5 @@
+* * fire map created * * * map model * * * map controller 
+* * fire map created * * * map model * * * map reader 
+* * fire map created * * * map model * * * map writer 
+* * fire map created * * * map model * * * read manager 
+* * fire map created * * * map model * * * write manager 

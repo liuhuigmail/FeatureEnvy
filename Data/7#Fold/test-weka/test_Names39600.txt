@@ -1,0 +1,6 @@
+* * * query executed * * * sql viewer * * query execute event 
+* * * query executed * * * sql viewer * * * connection panel 
+* * * query executed * * * sql viewer * * * query panel 
+* * * query executed * * * sql viewer * * * result panel 
+* * * query executed * * * sql viewer * * * info panel 
+* * * query executed * * * sql viewer * * * * memory 

@@ -1,0 +1,2 @@
+* get current edit mode * * docking layout manager * * * * view 
+* get current edit mode * * docking layout manager * * * action set 

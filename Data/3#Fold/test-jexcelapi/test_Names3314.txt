@@ -1,0 +1,9 @@
+* * * * initialize * * * * logger * * * * drawing 
+* * * * initialize * * * * logger * * * escher container 
+* * * * initialize * * * * logger * * mso drawing record 
+* * * * initialize * * * * logger * * * obj record 
+* * * * initialize * * * * logger * * * * origin 
+* * * * initialize * * * * logger * * * drawing group 
+* * * * initialize * * * * logger * * * drawing data 
+* * * * initialize * * * * logger * * * shape type 
+* * * * initialize * * * * logger * p n g reader 

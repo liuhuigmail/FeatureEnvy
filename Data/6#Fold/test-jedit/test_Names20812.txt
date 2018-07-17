@@ -1,0 +1,1 @@
+* * * mouse pressed * * * text area * text area mouse handler 

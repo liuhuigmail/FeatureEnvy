@@ -1,0 +1,3 @@
+* * * * ok * * * * view * * * buffer options 
+* * * * ok * * * * view * * * * buffer 
+* * * * ok * * * * view * * buffer option pane 

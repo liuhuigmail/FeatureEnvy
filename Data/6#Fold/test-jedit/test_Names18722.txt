@@ -1,0 +1,4 @@
+* * * set method * * * name space * * * bsh method 
+* * * set method * * * name space * * bsh class manager 
+* * * set method * * * name space * * * * this 
+* * * set method * * * name space * * * simple node 

@@ -1,0 +1,2 @@
+* * * classify instance * * * rule node * * * * instances 
+* * * classify instance * * * rule node * pre constructed linear model 

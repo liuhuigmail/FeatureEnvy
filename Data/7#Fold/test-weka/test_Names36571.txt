@@ -1,0 +1,3 @@
+* * * * setup * * * join customizer * * * * environment 
+* * * * setup * * * join customizer * * * * join 
+* * * * setup * * * join customizer * * property sheet panel 

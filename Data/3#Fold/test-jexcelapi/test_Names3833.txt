@@ -1,0 +1,1 @@
+* * * get string * * column range 3d * * * * logger 

@@ -1,0 +1,2 @@
+* * * * display * * * write access * * * workbook settings 
+* * * * display * * * write access * * biff record reader 

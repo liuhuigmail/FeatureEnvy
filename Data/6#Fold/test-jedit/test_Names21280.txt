@@ -1,0 +1,8 @@
+* * * paint component * * * text area * * * * gutter 
+* * * paint component * * * text area * * * chunk cache 
+* * * paint component * * * text area * * * display manager 
+* * * paint component * * * text area * * * selection manager 
+* * * paint component * * * text area * * text area painter 
+* * * paint component * * * text area * elastic tabstops tab expander 
+* * * paint component * * * text area * * input method support 
+* * * paint component * * * text area * * j edit buffer 

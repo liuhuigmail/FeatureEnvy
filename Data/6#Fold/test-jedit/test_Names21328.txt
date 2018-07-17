@@ -1,0 +1,3 @@
+get max horizontal scroll width * * * chunk cache * * * text area 
+get max horizontal scroll width * * * chunk cache * * j edit buffer 
+get max horizontal scroll width * * * chunk cache * * display token handler 

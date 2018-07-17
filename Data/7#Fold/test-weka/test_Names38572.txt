@@ -1,0 +1,8 @@
+* * set mode panel * * setup mode panel * * * setup panel 
+* * set mode panel * * setup mode panel * * * * experiment 
+* * set mode panel * * setup mode panel * * generic object editor 
+* * set mode panel * * setup mode panel * * * property panel 
+* * set mode panel * * setup mode panel * generator property iterator panel 
+* * set mode panel * * setup mode panel * * run number panel 
+* * set mode panel * * setup mode panel * * distribute experiment panel 
+* * set mode panel * * setup mode panel * * dataset list panel 

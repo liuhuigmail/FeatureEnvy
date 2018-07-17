@@ -1,0 +1,1 @@
+* * set initial delay * * mouse inside listener * * node tooltip manager 

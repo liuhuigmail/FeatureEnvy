@@ -1,0 +1,2 @@
+* * * set table * * attribute summary panel * * * attribute stats 
+* * * set table * * attribute summary panel * * * * instances 

@@ -1,0 +1,3 @@
+* * * write icons * * * node model mind map h t m 
+* * * write icons * * * node model * * * map controller 
+* * * write icons * * * node model * * node style controller 

@@ -1,0 +1,2 @@
+* * * handle message * * * install panel * * e b message 
+* * * handle message * * * install panel * * * plugin manager 

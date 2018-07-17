@@ -1,0 +1,3 @@
+* * notify text listeners * * * * clusterer * * * text event 
+* * notify text listeners * * * * clusterer * * * bean visual 
+* * notify text listeners * * * * clusterer * * * * instances 

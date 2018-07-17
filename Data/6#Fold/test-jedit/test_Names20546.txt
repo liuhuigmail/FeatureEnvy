@@ -1,0 +1,1 @@
+* * get file count * * * * view * * current buffer set 

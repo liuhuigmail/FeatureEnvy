@@ -1,0 +1,2 @@
+* * add layout component * * * node model * node view layout adapter 
+* * add layout component * * * node model * * * node view 

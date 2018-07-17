@@ -1,0 +1,4 @@
+* * * create viewer * * * viewer controller * * * external resource 
+* * * create viewer * * * viewer controller * * * node view 
+* * * create viewer * * * viewer controller m external image drop listener 
+* * * create viewer * * * viewer controller * external image popup menu 

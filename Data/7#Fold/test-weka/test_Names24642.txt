@@ -1,0 +1,4 @@
+set nearest neighbour search algorithm * * l w l * * nearest neighbour search 
+set nearest neighbour search algorithm * * l w l * * * * instances 
+set nearest neighbour search algorithm * * l w l * * nearest neighbour search 
+set nearest neighbour search algorithm * * l w l * * * * instances 

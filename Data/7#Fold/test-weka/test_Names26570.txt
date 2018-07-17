@@ -1,0 +1,2 @@
+* * update min distance * * * farthest first * * * * instances 
+* * update min distance * * * farthest first * * replace missing values 

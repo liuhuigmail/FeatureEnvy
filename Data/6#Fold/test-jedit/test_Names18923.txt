@@ -1,0 +1,5 @@
+* * visit local variable * * * code writer * * * * label 
+* * visit local variable * * * code writer * * * class writer 
+* * visit local variable * * * code writer * * * * item 
+* * visit local variable * * * code writer * * * byte vector 
+* * visit local variable * * * code writer * * * * edge 

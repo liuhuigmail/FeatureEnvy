@@ -1,0 +1,2 @@
+* * handle properties changed * dockable window manager impl * * * properties changed 
+* * handle properties changed * dockable window manager impl * * panel window container 

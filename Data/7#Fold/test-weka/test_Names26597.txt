@@ -1,0 +1,3 @@
+* * * canopy init * * simple k means * * * * instances 
+* * * canopy init * * simple k means * * replace missing values 
+* * * canopy init * * simple k means * * * * canopy 

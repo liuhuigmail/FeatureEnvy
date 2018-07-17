@@ -1,0 +1,2 @@
+* * * create contents * * * about window * * * resource manager 
+* * * create contents * * * about window * * * list pane 

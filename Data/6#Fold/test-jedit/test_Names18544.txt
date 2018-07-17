@@ -1,0 +1,6 @@
+* * * * invoke * * * bsh method * * * * interpreter 
+* * * * invoke * * * bsh method * * * call stack 
+* * * * invoke * * * bsh method * * * simple node 
+* * * * invoke * * * bsh method * * * name space 
+* * * * invoke * * * bsh method * * * * modifiers 
+* * * * invoke * * * bsh method * b s h block 

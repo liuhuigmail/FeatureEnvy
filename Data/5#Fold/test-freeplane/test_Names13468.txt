@@ -1,0 +1,2 @@
+* * set html text * * * node model edit note in dialog action 
+* * set html text * * * node model * * edit node base 

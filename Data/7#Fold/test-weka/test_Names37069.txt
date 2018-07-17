@@ -1,0 +1,2 @@
+* * * global info * * class value picker * * * * instances 
+* * * global info * * class value picker * * * bean visual 

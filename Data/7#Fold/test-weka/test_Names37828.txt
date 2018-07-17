@@ -1,0 +1,5 @@
+* notify data set listeners * * * data visualizer * * data set event 
+* notify data set listeners * * * data visualizer * * * bean visual 
+* notify data set listeners * * * data visualizer * * * * instances 
+* notify data set listeners * * * data visualizer * * * visualize panel 
+* notify data set listeners * * * data visualizer * * * * environment 

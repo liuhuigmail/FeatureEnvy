@@ -1,0 +1,3 @@
+* * set defaults from mind map h t m * * * map model 
+* * set defaults from mind map h t m * * * map controller 
+* * set defaults from mind map h t m * * node style controller 

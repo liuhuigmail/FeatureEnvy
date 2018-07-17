@@ -1,0 +1,4 @@
+* notify visualizable error listeners * * classifier performance evaluator * * visualizable error event 
+* notify visualizable error listeners * * classifier performance evaluator * * * aggregateable evaluation 
+* notify visualizable error listeners * * classifier performance evaluator * * * * instances 
+* notify visualizable error listeners * * classifier performance evaluator * classifier errors plot instances 

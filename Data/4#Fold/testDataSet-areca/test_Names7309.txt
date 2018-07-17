@@ -1,0 +1,2 @@
+* * write sequence entry * * archive content adapter * file system recovery entry 
+* * write sequence entry * * archive content adapter * * * hash sequence 

@@ -1,0 +1,2 @@
+* * * * eval b s h binary expression * * * call stack 
+* * * * eval b s h binary expression * * * * interpreter 

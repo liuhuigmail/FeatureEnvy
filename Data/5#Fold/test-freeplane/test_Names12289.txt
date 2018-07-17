@@ -1,0 +1,2 @@
+* * * reading completed * * * link builder * * * node model 
+* * * reading completed * * * link builder * * * link controller 

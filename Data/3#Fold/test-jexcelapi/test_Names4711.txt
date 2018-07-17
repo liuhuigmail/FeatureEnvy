@@ -1,0 +1,16 @@
+* * * * rationalize * * * index mapping * * writable sheet impl 
+* * * * rationalize * * * index mapping * * * cell view 
+* * * * rationalize * * * index mapping * * * * logger 
+* * * * rationalize * * * index mapping * * * * file 
+* * * * rationalize * * * index mapping * * * formatting records 
+* * * * rationalize * * * index mapping * * * shared strings 
+* * * * rationalize * * * index mapping * * * merged cells 
+* * * * rationalize * * * index mapping * p l s record 
+* * * * rationalize * * * index mapping * button property set record 
+* * * * rationalize * * * index mapping * * * data validation 
+* * * * rationalize * * * index mapping * * * auto filter 
+* * * * rationalize * * * index mapping * * * combo box 
+* * * * rationalize * * * index mapping * * * sheet settings 
+* * * * rationalize * * * index mapping * * * sheet writer 
+* * * * rationalize * * * index mapping * * * workbook settings 
+* * * * rationalize * * * index mapping * * writable workbook impl 

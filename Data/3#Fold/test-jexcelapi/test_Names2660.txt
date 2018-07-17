@@ -1,0 +1,4 @@
+* * * is protected * * * sheet settings * * * page orientation 
+* * * is protected * * * sheet settings * * * page order 
+* * * is protected * * * sheet settings * * * paper size 
+* * * is protected * * * sheet settings * * * header footer 

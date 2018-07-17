@@ -1,0 +1,2 @@
+* fully update column blocks elastic tab stop buffer listener * * j edit buffer 
+* fully update column blocks elastic tab stop buffer listener * * * text area 

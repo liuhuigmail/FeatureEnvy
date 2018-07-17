@@ -1,0 +1,5 @@
+* * * set false * * * * attribute * * * * false 
+* * * set false * * * * attribute * * * simple predicate 
+* * * set false * * * * attribute * * * compound predicate 
+* * * set false * * * * attribute * * simple set predicate 
+* * * set false * * * * attribute * * * * true 

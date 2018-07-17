@@ -1,0 +1,3 @@
+* * after map change * * * time management * * * map model 
+* * after map change * * * time management * * * reminder hook 
+* * after map change * * * time management * * * pattern format 

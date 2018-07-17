@@ -1,0 +1,2 @@
+* * * get component * headless map view controller * * * node model 
+* * * get component * headless map view controller * * * map model 

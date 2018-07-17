@@ -1,0 +1,6 @@
+* scroll node to visible * * map view controller * * * node model 
+* scroll node to visible * * map view controller * * * map view 
+* scroll node to visible * * map view controller map view change observer compound 
+* scroll node to visible * * map view controller * * * * controller 
+* scroll node to visible * * map view controller * * zoom in action 
+* scroll node to visible * * map view controller * * zoom out action 

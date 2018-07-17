@@ -1,0 +1,7 @@
+* * new map view * * map view controller * * * map model 
+* * new map view * * map view controller * * * mode controller 
+* * new map view * * map view controller * * * map view 
+* * new map view * * map view controller map view change observer compound 
+* * new map view * * map view controller * * * * controller 
+* * new map view * * map view controller * * zoom in action 
+* * new map view * * map view controller * * zoom out action 

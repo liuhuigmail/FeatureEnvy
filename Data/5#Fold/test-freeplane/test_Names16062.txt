@@ -1,0 +1,2 @@
+* * * * layout * edit node text field * * * zoomable label 
+* * * * layout * edit node text field * * * node view 

@@ -1,0 +1,1 @@
+* * * send params * x d m server * x d m config 

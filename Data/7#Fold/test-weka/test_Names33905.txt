@@ -1,0 +1,4 @@
+* * set output format * * * * filter * * * * instances 
+* * set output format * * * * filter * * * * queue 
+* * set output format * * * * filter * * * string locator 
+* * set output format * * * * filter * * * relational locator 

@@ -1,0 +1,5 @@
+* * * * select * * * map controller * * * node model 
+* * * * select * * * map controller * * * map reader 
+* * * * select * * * map controller * * * map writer 
+* * * * select * * * map controller * * * read manager 
+* * * * select * * * map controller * * * write manager 

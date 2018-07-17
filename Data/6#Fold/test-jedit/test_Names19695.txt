@@ -1,0 +1,2 @@
+* * * * show * * panel window container * * * dockable panel 
+* * * * show * * panel window container * dockable window manager impl 

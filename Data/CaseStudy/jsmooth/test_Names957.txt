@@ -1,0 +1,4 @@
+* * replace default icon * * p e file * * * res icon 
+* * replace default icon * * p e file p e old m s 
+* * replace default icon * * p e file * * p e header 
+* * replace default icon * * p e file * p e resource directory 

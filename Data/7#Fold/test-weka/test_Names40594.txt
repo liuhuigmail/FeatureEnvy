@@ -1,0 +1,2 @@
+* process batch clusterer case * * * * data * * * prediction appender 
+* process batch clusterer case * * * * data * * * * instances 

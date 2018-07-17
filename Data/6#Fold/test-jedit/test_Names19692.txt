@@ -1,0 +1,2 @@
+* * * * unregister * * panel window container * * * dockable panel 
+* * * * unregister * * panel window container * dockable window manager impl 

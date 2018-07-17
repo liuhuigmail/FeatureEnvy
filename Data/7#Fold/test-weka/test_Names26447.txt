@@ -1,0 +1,3 @@
+set t 2 t 1 * * * * instances * * * * canopy 
+set t 2 t 1 * * * * instances * * * * filter 
+set t 2 t 1 * * * * instances * * * normalizable distance 

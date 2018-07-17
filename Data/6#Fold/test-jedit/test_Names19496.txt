@@ -1,0 +1,2 @@
+* get all plugin entries * dockable window manager impl * plugin j a r 
+* get all plugin entries * dockable window manager impl * * panel window container 

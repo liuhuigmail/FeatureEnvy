@@ -1,0 +1,4 @@
+* * * global info * * m 5 base * * * * instances 
+* * * global info * * m 5 base * * replace missing values 
+* * * global info * * m 5 base * * nominal to binary 
+* * * global info * * m 5 base * * * remove useless 

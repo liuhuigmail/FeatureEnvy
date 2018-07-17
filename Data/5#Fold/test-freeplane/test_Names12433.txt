@@ -1,0 +1,2 @@
+* * * action performed * * * link controller * goto link node action 
+* * * action performed * * * link controller * * * node model 

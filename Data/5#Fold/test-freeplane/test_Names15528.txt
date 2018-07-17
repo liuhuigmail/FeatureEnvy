@@ -1,0 +1,2 @@
+* fire node view created * * * node view * * node view factory 
+* fire node view created * * * node view * link navigator mouse listener 

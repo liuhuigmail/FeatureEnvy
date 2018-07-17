@@ -1,0 +1,3 @@
+* * cluster processed instance * * simple k means * * replace missing values 
+* * cluster processed instance * * simple k means * * * * instances 
+* * cluster processed instance * * simple k means * * * * canopy 

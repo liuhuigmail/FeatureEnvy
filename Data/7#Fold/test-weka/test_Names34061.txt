@@ -1,0 +1,2 @@
+calculate cut points by m * * * * discretize * * * * instances 
+calculate cut points by m * * * * discretize * * * * range 

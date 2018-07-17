@@ -1,0 +1,10 @@
+* * * try converter * * * preprocess panel * * instances summary panel 
+* * * try converter * * * preprocess panel * * attribute selection panel 
+* * * try converter * * * preprocess panel * * attribute summary panel 
+* * * try converter * * * preprocess panel * * generic object editor 
+* * * try converter * * * preprocess panel * * * property panel 
+* * * try converter * * * preprocess panel * * converter file chooser 
+* * * try converter * * * preprocess panel * * * * instances 
+* * * try converter * * * preprocess panel * * * data generator 
+* * * try converter * * * preprocess panel * * attribute visualization panel 
+* * * try converter * * * preprocess panel * * * * explorer 

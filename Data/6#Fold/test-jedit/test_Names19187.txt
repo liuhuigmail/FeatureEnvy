@@ -1,0 +1,1 @@
+get compressed replace from replace * * * undo manager * * j edit buffer 

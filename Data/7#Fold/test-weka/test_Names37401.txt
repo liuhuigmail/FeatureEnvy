@@ -1,0 +1,3 @@
+* * * accept text * * * text event * * * text viewer 
+* * * accept text * * * text event * * * bean visual 
+* * * accept text * * * text event * * result history panel 

@@ -1,0 +1,2 @@
+* use default value for * * * rule reference * * * language version 
+* use default value for * * * rule reference * * rule set reference 

@@ -1,0 +1,1 @@
+* * * check node * selected view snapshot condition * * * node model 

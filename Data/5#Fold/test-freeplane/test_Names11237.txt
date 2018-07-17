@@ -1,0 +1,2 @@
+* * can select values * * attribute condition controller * * * named object 
+* * can select values * * attribute condition controller * extended combo box model 

@@ -1,0 +1,1 @@
+* * get caret rectangle * * input method support * * * text area 

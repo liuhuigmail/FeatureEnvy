@@ -1,0 +1,2 @@
+* * * connect maps * * feature maps layer * * layer 2 d 
+* * * connect maps * * feature maps layer * * * * kernel 

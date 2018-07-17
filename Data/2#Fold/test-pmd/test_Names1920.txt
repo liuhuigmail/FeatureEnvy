@@ -1,0 +1,2 @@
+* * * * evaluate * * x path rule * * * rule context 
+* * * * evaluate * * x path rule * * * string property 

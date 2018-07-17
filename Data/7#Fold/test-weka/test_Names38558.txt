@@ -1,0 +1,3 @@
+* * add new algorithm * * * * experiment * * algorithm list panel 
+* * add new algorithm * * * * experiment * * generic object editor 
+* * add new algorithm * * * * experiment * * * property dialog 

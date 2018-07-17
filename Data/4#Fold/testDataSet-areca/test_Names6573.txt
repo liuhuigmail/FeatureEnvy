@@ -1,0 +1,6 @@
+* focus on logical view * * * main window * * * trace entry 
+* focus on logical view * * * main window * * target tree composite 
+* focus on logical view * * * main window * * * properties composite 
+* focus on logical view * * * main window * * * progress composite 
+* focus on logical view * * * main window * * logical view composite 
+* focus on logical view * * * main window * * * search composite 

@@ -1,0 +1,3 @@
+add action to icon submenu * * * mind icon * * m icon controller 
+add action to icon submenu * * * mind icon * * * icon store 
+add action to icon submenu * * * mind icon j auto scroll bar pane 

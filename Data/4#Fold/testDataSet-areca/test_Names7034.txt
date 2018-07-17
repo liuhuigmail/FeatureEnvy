@@ -1,0 +1,2 @@
+* * * * refresh * * * indicators composite * * * resource manager 
+* * * * refresh * * * indicators composite * * * * application 

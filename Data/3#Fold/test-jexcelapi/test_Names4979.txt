@@ -1,0 +1,1 @@
+* * trim invalid chars * * * * logger * * number format record 

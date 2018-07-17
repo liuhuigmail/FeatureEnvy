@@ -1,0 +1,1 @@
+set use environment property editors * * property sheet panel * * * * environment 

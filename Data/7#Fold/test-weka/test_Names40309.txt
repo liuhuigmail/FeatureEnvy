@@ -1,0 +1,3 @@
+* * * set settings * * base execution environment * * * * settings 
+* * * set settings * * base execution environment * * * * environment 
+* * * set settings * * base execution environment * * * log manager 

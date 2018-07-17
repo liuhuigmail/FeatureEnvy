@@ -1,0 +1,11 @@
+* * * apply filter * * * * filter * * * preprocess panel 
+* * * apply filter * * * * filter * * instances summary panel 
+* * * apply filter * * * * filter * * attribute selection panel 
+* * * apply filter * * * * filter * * attribute summary panel 
+* * * apply filter * * * * filter * * generic object editor 
+* * * apply filter * * * * filter * * * property panel 
+* * * apply filter * * * * filter * * converter file chooser 
+* * * apply filter * * * * filter * * * * instances 
+* * * apply filter * * * * filter * * * data generator 
+* * * apply filter * * * * filter * * attribute visualization panel 
+* * * apply filter * * * * filter * * * * explorer 

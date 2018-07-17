@@ -1,0 +1,2 @@
+own format node as hyperlink * * * link controller * * * node model 
+own format node as hyperlink * * * link controller * * * icon store 

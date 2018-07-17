@@ -1,0 +1,4 @@
+* * primitive array allocation b s h primitive type b s h allocation expression 
+* * primitive array allocation b s h primitive type b s h array dimensions 
+* * primitive array allocation b s h primitive type * * * call stack 
+* * primitive array allocation b s h primitive type * * * * interpreter 

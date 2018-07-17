@@ -1,0 +1,4 @@
+* * * load maps * * * * controller freeplane g u i starter 
+* * * load maps * * * * controller * * application resource controller 
+* * * load maps * * * * controller * * freeplane splash modern 
+* * * load maps * * * * controller * * application view controller 

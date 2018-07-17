@@ -1,0 +1,2 @@
+get r e a l * * * vector instance r e a l sparse 
+get r e a l * * * vector instance * * * array type 

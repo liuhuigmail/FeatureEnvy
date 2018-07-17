@@ -1,0 +1,10 @@
+* * * set log * * * * explorer * * * classifier panel 
+* * * set log * * * * explorer * * generic object editor 
+* * * set log * * * * explorer * * * property panel 
+* * * set log * * * * explorer * * * save buffer 
+* * * set log * * * * explorer * * result history panel 
+* * * set log * * * * explorer * * * * range 
+* * * set log * * * * explorer * * * property dialog 
+* * * set log * * * * explorer * * cost matrix editor 
+* * * set log * * * * explorer * * * * instances 
+* * * set log * * * * explorer * * * visualize panel 

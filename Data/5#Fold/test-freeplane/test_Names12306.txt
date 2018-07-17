@@ -1,0 +1,1 @@
+* * is case dependent * * link condition controller * * * named object 

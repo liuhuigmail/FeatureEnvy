@@ -1,0 +1,5 @@
+* * * show dialog * * target edition window * * * abstract window 
+* * * show dialog * * target edition window * * * resource manager 
+* * * show dialog * * target edition window * * * abstract target 
+* * * show dialog * * target edition window * * * filter group 
+* * * show dialog * * target edition window * * * processors table 

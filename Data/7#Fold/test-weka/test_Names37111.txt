@@ -1,0 +1,5 @@
+* * * accept instance * * * * join * * * instance event 
+* * * accept instance * * * * join * * * * environment 
+* * * accept instance * * * * join * * * * instances 
+* * * accept instance * * * * join * * * bean visual 
+* * * accept instance * * * * join * * * stream throughput 

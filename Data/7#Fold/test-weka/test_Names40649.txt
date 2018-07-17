@@ -1,0 +1,4 @@
+* * * process incoming * * classifier performance evaluator * * * * data 
+* * * process incoming * * classifier performance evaluator * * * aggregateable evaluation 
+* * * process incoming * * classifier performance evaluator * * * * instances 
+* * * process incoming * * classifier performance evaluator * classifier errors plot instances 

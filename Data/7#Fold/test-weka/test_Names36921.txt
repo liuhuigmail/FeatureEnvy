@@ -1,0 +1,5 @@
+* * * set environment * * * substring replacer * * * * environment 
+* * * set environment * * * substring replacer * * substring replacer rules 
+* * * set environment * * * substring replacer * * * instance event 
+* * * set environment * * * substring replacer * * * bean visual 
+* * * set environment * * * substring replacer * * * stream throughput 

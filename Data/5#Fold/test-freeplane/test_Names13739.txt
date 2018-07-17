@@ -1,0 +1,10 @@
+* * add style button * * style editor panel * * a freeplane action 
+* * add style button * * style editor panel * * * named object 
+* * add style button * * style editor panel * * * color property 
+* * add style button * * style editor panel * * * combo property 
+* * add style button * * style editor panel * * * number property 
+* * add style button * * style editor panel * * * boolean property 
+* * add style button * * style editor panel * * * font property 
+* * add style button * * style editor panel * editable pattern combo property 
+* * add style button * * style editor panel * m u i factory 
+* * add style button * * style editor panel * * * mode controller 

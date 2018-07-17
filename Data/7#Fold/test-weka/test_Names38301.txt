@@ -1,0 +1,2 @@
+* * * global info * * * class assigner * * * * instances 
+* * * global info * * * class assigner * * * bean visual 

@@ -1,0 +1,11 @@
+* * generate shortcut script * * * target group * * * * application 
+* * generate shortcut script * * * target group * * * abstract target 
+* * generate shortcut script * * * target group * * * resource manager 
+* * generate shortcut script * * * target group * c tab folder manager 
+* * generate shortcut script * * * target group * * * * workspace 
+* * generate shortcut script * * * target group * * * main window 
+* * generate shortcut script * * * target group * * * trace entry 
+* * generate shortcut script * * * target group * * entry archive data 
+* * generate shortcut script * * * target group * u i recovery filter 
+* * generate shortcut script * * * target group * * * file tool 
+* * generate shortcut script * * * target group * * * simulation result 

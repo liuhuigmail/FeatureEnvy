@@ -1,0 +1,11 @@
+* * * read external * * * process context * * archive content adapter 
+* * * read external * * * process context * * trace file iterator 
+* * * read external * * * process context * * * archive writer 
+* * * read external * * * process context * * archive trace adapter 
+* * * read external * * * process context * * * transaction point 
+* * * read external * * * process context * * recovery filter map 
+* * * read external * * * process context * * * * manifest 
+* * * read external * * * process context * * * process report 
+* * * read external * * * process context * * file system iterator 
+* * * read external * * * process context * metered output stream listener 
+* * * read external * * * process context * * content file iterator 

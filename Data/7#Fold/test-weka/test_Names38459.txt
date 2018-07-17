@@ -1,0 +1,7 @@
+* * * set classifier * * * boundary visualizer * * * * instances 
+* * * set classifier * * * boundary visualizer * * * boundary panel 
+* * * set classifier * * * boundary visualizer * * * class panel 
+* * * set classifier * * * boundary visualizer * k d data generator 
+* * * set classifier * * * boundary visualizer * * generic object editor 
+* * * set classifier * * * boundary visualizer * * * property panel 
+* * * set classifier * * * boundary visualizer * * extension file filter 

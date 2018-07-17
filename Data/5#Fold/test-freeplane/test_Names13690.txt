@@ -1,0 +1,4 @@
+* * add conditional style * m logical style controller * * * map model 
+* * add conditional style * m logical style controller * * conditional style model 
+* * add conditional style * m logical style controller * * a selectable condition 
+* * add conditional style * m logical style controller * * filter composer dialog 

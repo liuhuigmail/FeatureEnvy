@@ -1,0 +1,3 @@
+* * get application name * * knowledge flow app * * * * memory 
+* * get application name * * knowledge flow app * * * * settings 
+* * get application name * * knowledge flow app * main k f perspective 

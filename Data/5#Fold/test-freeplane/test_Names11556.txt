@@ -1,0 +1,2 @@
+* * register attribute handlers * * * read manager * * * edge builder 
+* * register attribute handlers * * * read manager * * * edge controller 

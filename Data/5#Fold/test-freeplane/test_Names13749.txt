@@ -1,0 +1,2 @@
+* * register attribute handlers * * node text builder * * * read manager 
+* * register attribute handlers * * * read manager * * node text builder 

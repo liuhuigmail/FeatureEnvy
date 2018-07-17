@@ -1,0 +1,2 @@
+add interactive view menu item * * * layout panel * * * step visual 
+add interactive view menu item * * * layout panel * * * visible layout 

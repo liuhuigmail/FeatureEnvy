@@ -1,0 +1,1 @@
+* * do learning epoch * * * unsupervised learning * * * data set 

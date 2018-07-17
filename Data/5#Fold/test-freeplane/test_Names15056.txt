@@ -1,0 +1,2 @@
+* on pre node delete * * * reminder extension * * * node model 
+* on pre node delete * * * reminder extension * * timer blink task 

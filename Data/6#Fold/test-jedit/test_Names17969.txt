@@ -1,0 +1,4 @@
+* * object array allocation b s h allocation expression b s h ambiguous name 
+* * object array allocation b s h allocation expression b s h array dimensions 
+* * object array allocation b s h allocation expression * * * call stack 
+* * object array allocation b s h allocation expression * * * * interpreter 

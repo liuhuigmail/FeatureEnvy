@@ -1,0 +1,2 @@
+* * set modified listener * * class assigner customizer * * * class assigner 
+* * set modified listener * * class assigner customizer * * property sheet panel 

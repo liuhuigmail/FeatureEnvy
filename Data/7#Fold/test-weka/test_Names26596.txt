@@ -1,0 +1,3 @@
+* * * build clusterer * * simple k means * * * * instances 
+* * * build clusterer * * simple k means * * replace missing values 
+* * * build clusterer * * simple k means * * * * canopy 

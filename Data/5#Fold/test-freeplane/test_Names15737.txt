@@ -1,0 +1,4 @@
+* * * update shortener * * * node view * * * node model 
+* * * update shortener * * * node view * * * attribute view 
+* * * update shortener * * * node view * * * main view 
+* * * update shortener * * * node view * * * map view 

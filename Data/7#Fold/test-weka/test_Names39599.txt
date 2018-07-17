@@ -1,0 +1,6 @@
+* * * connection change * * * sql viewer * * * connection event 
+* * * connection change * * * sql viewer * * * connection panel 
+* * * connection change * * * sql viewer * * * query panel 
+* * * connection change * * * sql viewer * * * result panel 
+* * * connection change * * * sql viewer * * * info panel 
+* * * connection change * * * sql viewer * * * * memory 

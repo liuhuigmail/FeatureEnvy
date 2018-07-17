@@ -1,0 +1,4 @@
+* * * add items * * * target group * * * search composite 
+* * * add items * * * target group * * * resource manager 
+* * * add items * * * target group * * * * application 
+* * * add items * * * target group * * * task monitor 

@@ -1,0 +1,4 @@
+* * set details hidden * * * text controller * * * node model 
+* * set details hidden * * * text controller * * * mode controller 
+* * set details hidden * * * text controller * * * node model 
+* * set details hidden * * * text controller * * * mode controller 

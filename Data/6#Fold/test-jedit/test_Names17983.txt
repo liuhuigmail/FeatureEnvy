@@ -1,0 +1,2 @@
+* * * get arguments * b s h arguments * * * call stack 
+* * * get arguments * b s h arguments * * * * interpreter 

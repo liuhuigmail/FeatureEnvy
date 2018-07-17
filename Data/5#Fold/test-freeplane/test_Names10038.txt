@@ -1,0 +1,1 @@
+* * * add resources * * * resource bundles * * * resource controller 

@@ -1,0 +1,3 @@
+* * * get capabilities * * * cluster membership * * * * instances 
+* * * get capabilities * * * cluster membership * * * * range 
+* * * get capabilities * * * cluster membership * * * * filter 

@@ -1,0 +1,4 @@
+* * * delete viewer * * * viewer controller * * * external resource 
+* * * delete viewer * * * viewer controller * * * node view 
+* * * delete viewer * * * viewer controller m external image drop listener 
+* * * delete viewer * * * viewer controller * external image popup menu 

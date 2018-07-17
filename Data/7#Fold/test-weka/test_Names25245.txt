@@ -1,0 +1,3 @@
+set p m m l p m m l classifier * * * * instances 
+set p m m l p m m l classifier * * * mining schema 
+set p m m l p m m l classifier * * * mapping info 

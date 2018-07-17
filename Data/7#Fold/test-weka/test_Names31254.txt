@@ -1,0 +1,4 @@
+get association model or baseline * p m m l * * * * header 
+get association model or baseline * p m m l * * mining build task 
+get association model or baseline * p m m l * * * data dictionary 
+get association model or baseline * p m m l * * * transformation dictionary 

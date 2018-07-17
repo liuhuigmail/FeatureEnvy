@@ -1,0 +1,2 @@
+* * * set instances * * * viewer dialog * * * * instances 
+* * * set instances * * * viewer dialog * * * arff panel 

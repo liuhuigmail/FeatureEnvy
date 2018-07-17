@@ -1,0 +1,2 @@
+* * * add node * * * path element d a a path finder 
+* * * add node * * * path element * * * current path 

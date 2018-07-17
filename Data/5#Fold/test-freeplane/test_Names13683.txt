@@ -1,0 +1,2 @@
+* * * set style * m logical style controller * * * node model 
+* * * set style * m logical style controller * * filter composer dialog 

@@ -1,0 +1,4 @@
+* * add instance listener * * * * filter * * * bean visual 
+* * add instance listener * * * * filter * * * * instances 
+* * add instance listener * * * * filter * * * * filter 
+* * add instance listener * * * * filter * * * instance event 

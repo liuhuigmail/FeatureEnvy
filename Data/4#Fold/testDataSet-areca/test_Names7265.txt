@@ -1,0 +1,2 @@
+* * * * close abstract meta data file iterator * abstract meta data entry 
+* * * * close abstract meta data file iterator * * abstract metadata adapter 

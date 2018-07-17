@@ -1,0 +1,10 @@
+* * * buffer moved * * * edit pane * * * * buffer 
+* * * buffer moved * * * edit pane * * * * view 
+* * * buffer moved * * * edit pane * * * buffer set 
+* * * buffer moved * * * edit pane * * * buffer switcher 
+* * * buffer moved * * * edit pane * j edit text area 
+* * * buffer moved * * * edit pane * * * * buffer 
+* * * buffer moved * * * edit pane * * * * view 
+* * * buffer moved * * * edit pane * * * buffer set 
+* * * buffer moved * * * edit pane * * * buffer switcher 
+* * * buffer moved * * * edit pane * j edit text area 

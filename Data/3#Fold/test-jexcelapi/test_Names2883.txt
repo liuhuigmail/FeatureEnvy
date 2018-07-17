@@ -1,0 +1,2 @@
+* get number of settings * data validity list record * * * * logger 
+* get number of settings * data validity list record * * d val parser 

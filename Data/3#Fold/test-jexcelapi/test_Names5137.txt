@@ -1,0 +1,3 @@
+* * write integer values * * * row record * * * * file 
+* * write integer values * * * row record * * * * logger 
+* * write integer values * * * row record * * x f record 

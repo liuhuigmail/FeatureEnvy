@@ -1,0 +1,5 @@
+* * * set experiment * * * * experiment * * simple setup panel 
+* * * set experiment * * * * experiment * * setup mode panel 
+* * * set experiment * * * * experiment * * extension file filter 
+* * * set experiment * * * * experiment * * dataset list panel 
+* * * set experiment * * * * experiment * * algorithm list panel 

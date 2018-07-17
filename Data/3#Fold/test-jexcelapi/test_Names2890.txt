@@ -1,0 +1,4 @@
+* * * * write * * * auto filter * * * * file 
+* * * * write * * * auto filter * * filter mode record 
+* * * * write * * * auto filter * auto filter info record 
+* * * * write * * * auto filter * * auto filter record 

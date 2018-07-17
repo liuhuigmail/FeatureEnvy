@@ -1,0 +1,2 @@
+* register note tooltip provider * * * note controller * * * mode controller 
+* register note tooltip provider * * * note controller * * u i icon 

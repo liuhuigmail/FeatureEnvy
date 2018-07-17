@@ -1,0 +1,3 @@
+* resolve this field reference * * * * name * * * call stack 
+* resolve this field reference * * * * name * * * name space 
+* resolve this field reference * * * * name * * * * interpreter 

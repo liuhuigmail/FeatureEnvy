@@ -1,0 +1,9 @@
+* * * add channel * * * * application * * * resource manager 
+* * * add channel * * * * application * c tab folder manager 
+* * * add channel * * * * application * * * * workspace 
+* * * add channel * * * * application * * * main window 
+* * * add channel * * * * application * * * trace entry 
+* * * add channel * * * * application * * entry archive data 
+* * * add channel * * * * application * u i recovery filter 
+* * * add channel * * * * application * * * file tool 
+* * * add channel * * * * application * * * simulation result 

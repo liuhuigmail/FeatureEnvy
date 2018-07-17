@@ -1,0 +1,9 @@
+* * get format record * * x f record * * * * logger 
+* * get format record * * x f record * * * * alignment 
+* * get format record * * x f record * * * vertical alignment 
+* * get format record * * x f record * * * * orientation 
+* * get format record * * x f record * * border line style 
+* * get format record * * x f record * * * * colour 
+* * get format record * * x f record * * * * pattern 
+* * get format record * * x f record * * * font record 
+* * get format record * * x f record * * * formatting records 

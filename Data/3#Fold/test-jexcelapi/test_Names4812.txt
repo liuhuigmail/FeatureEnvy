@@ -1,0 +1,12 @@
+set colour r g b * * writable workbook impl * * * * colour 
+set colour r g b * * writable workbook impl * * * * logger 
+set colour r g b * * writable workbook impl * * * formatting records 
+set colour r g b * * writable workbook impl * * * * file 
+set colour r g b * * writable workbook impl * * * * fonts 
+set colour r g b * * writable workbook impl * * external sheet record 
+set colour r g b * * writable workbook impl * * * shared strings 
+set colour r g b * * writable workbook impl * * * workbook settings 
+set colour r g b * * writable workbook impl * * * drawing group 
+set colour r g b * * writable workbook impl * * * * styles 
+set colour r g b * * writable workbook impl * button property set record 
+set colour r g b * * writable workbook impl * * * country record 

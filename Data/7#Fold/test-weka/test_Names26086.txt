@@ -1,0 +1,3 @@
+* * set split point bin c 4 5 split * * * * instances 
+* * set split point bin c 4 5 split * info gain split crit 
+* * set split point bin c 4 5 split * gain ratio split crit 

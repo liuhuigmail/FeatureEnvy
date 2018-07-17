@@ -1,0 +1,4 @@
+* select mode for build * * * * controller * * * mode controller 
+* select mode for build * * * * controller * * * extension container 
+* select mode for build * * * * controller * * * resource controller 
+* select mode for build * * * * controller * * option panel controller 

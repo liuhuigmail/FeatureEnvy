@@ -1,0 +1,5 @@
+* * * new node * * * map model * * * map controller 
+* * * new node * * * map model * * * map reader 
+* * * new node * * * map model * * * map writer 
+* * * new node * * * map model * * * read manager 
+* * * new node * * * map model * * * write manager 

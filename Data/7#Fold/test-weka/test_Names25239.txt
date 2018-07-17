@@ -1,0 +1,1 @@
+* * distribution for instance * * * vector dictionary * support vector machine model 

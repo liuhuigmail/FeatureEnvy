@@ -1,0 +1,2 @@
+* * add instance listener instance stream to batch maker * * * bean visual 
+* * add instance listener instance stream to batch maker * * * * instances 

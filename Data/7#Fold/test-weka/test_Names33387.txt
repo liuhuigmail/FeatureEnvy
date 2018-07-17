@@ -1,0 +1,3 @@
+* set resultset key columns * * paired t tester * * * * range 
+* set resultset key columns * * paired t tester * * * * instances 
+* set resultset key columns * * paired t tester * * * result matrix 

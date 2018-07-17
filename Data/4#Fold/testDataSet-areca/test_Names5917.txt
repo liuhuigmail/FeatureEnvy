@@ -1,0 +1,2 @@
+* * * store manifest * * * process context abstract incremental file system medium 
+* * * store manifest * * * process context * * entry archive data 

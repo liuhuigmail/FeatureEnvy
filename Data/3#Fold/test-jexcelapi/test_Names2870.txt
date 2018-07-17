@@ -1,0 +1,4 @@
+* * * * write * * * * file * * * formatting records 
+* * * * write * * * * file * * * * logger 
+* * * * write * * * * file * * * * fonts 
+* * * * write * * * * file * * * palette record 

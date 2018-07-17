@@ -1,0 +1,6 @@
+* * visualize transformed data * * * * instances * * attribute selection panel 
+* * visualize transformed data * * * * instances * * * * explorer 
+* * visualize transformed data * * * * instances * * generic object editor 
+* * visualize transformed data * * * * instances * * * property panel 
+* * visualize transformed data * * * * instances * * * save buffer 
+* * visualize transformed data * * * * instances * * result history panel 

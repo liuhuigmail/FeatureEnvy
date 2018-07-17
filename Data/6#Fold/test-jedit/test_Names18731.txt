@@ -1,0 +1,4 @@
+* * load scripted command * * * name space * * * * interpreter 
+* * load scripted command * * * name space * * bsh class manager 
+* * load scripted command * * * name space * * * * this 
+* * load scripted command * * * name space * * * simple node 

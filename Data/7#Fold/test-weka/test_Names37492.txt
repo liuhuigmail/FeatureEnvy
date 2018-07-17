@@ -1,0 +1,4 @@
+* * * set visual * * * prediction appender * * * bean visual 
+* * * set visual * * * prediction appender * * * * instances 
+* * * set visual * * * prediction appender * * * instance event 
+* * * set visual * * * prediction appender * * * stream throughput 

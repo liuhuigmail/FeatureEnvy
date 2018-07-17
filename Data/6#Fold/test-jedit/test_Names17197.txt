@@ -1,0 +1,7 @@
+* * add tool bar * * * * view * * dockable window manager 
+* * add tool bar * * * * view * * tool bar manager 
+* * add tool bar * * * * view * * * search bar 
+* * add tool bar * * * * view * * * action bar 
+* * add tool bar * * * * view * * * edit pane 
+* * add tool bar * * * * view * * * status bar 
+* * add tool bar * * * * view * * * input handler 

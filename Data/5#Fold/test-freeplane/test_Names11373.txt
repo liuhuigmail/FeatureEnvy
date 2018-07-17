@@ -1,0 +1,1 @@
+* copy attributes to node * * * node model * * m attribute controller 

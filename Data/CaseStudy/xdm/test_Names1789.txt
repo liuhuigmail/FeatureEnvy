@@ -1,0 +1,2 @@
+* * * * stop * * * segment downloader x d m http client 
+* * * * stop * * * segment downloader * x d m config 

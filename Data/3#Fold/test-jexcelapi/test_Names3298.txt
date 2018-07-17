@@ -1,0 +1,13 @@
+* * write tail records * * * * comment * * * * file 
+* * write tail records * * * * comment * * * * logger 
+* * write tail records * * * * comment * * * escher container 
+* * write tail records * * * * comment * * mso drawing record 
+* * write tail records * * * * comment * * * obj record 
+* * write tail records * * * * comment * * * * origin 
+* * write tail records * * * * comment * * * drawing group 
+* * write tail records * * * * comment * * * drawing data 
+* * write tail records * * * * comment * * * shape type 
+* * write tail records * * * * comment * * text object record 
+* * write tail records * * * * comment * * * note record 
+* * write tail records * * * * comment * * * continue record 
+* * write tail records * * * * comment * * * workbook settings 

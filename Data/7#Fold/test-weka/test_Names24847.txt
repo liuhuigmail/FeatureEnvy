@@ -1,0 +1,2 @@
+* * get density estimator * * * * discretize * * regression by discretization 
+* * get density estimator * * * * discretize * * * * instances 

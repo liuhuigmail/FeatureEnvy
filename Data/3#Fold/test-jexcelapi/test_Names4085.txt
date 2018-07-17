@@ -1,0 +1,2 @@
+* * * read string * * string formula record * * * workbook settings 
+* * * read string * * string formula record * * * * logger 

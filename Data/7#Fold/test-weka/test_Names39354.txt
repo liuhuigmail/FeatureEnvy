@@ -1,0 +1,2 @@
+* notify title updated listeners * * * scripting panel * * title updated event 
+* notify title updated listeners * * * scripting panel * reader to text pane 

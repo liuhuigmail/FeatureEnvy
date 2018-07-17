@@ -1,0 +1,2 @@
+* * * * init * * global option group * * * combined options 
+* * * * init * * global option group * * * option group 

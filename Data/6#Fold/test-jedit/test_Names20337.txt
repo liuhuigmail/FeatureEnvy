@@ -1,0 +1,4 @@
+* * * disable plugin * * * plugin manager * plugin j a r 
+* * * disable plugin * * * plugin manager * * * install panel 
+* * * disable plugin * * * plugin manager * * * manage panel 
+* * * disable plugin * * * plugin manager * * * plugin list 

@@ -1,0 +1,4 @@
+* * * connect components * * knowledge flow app * * * bean instance 
+* * * connect components * * knowledge flow app * * attribute selection panel 
+* * * connect components * * knowledge flow app * * * * environment 
+* * * connect components * * knowledge flow app * * * * memory 

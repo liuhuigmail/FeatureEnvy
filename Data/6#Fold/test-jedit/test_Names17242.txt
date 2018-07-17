@@ -1,0 +1,16 @@
+* * handle properties changed * * * * view * * * properties changed 
+* * handle properties changed * * * * view * * dockable window manager 
+* * handle properties changed * * * * view * * tool bar manager 
+* * handle properties changed * * * * view * * * search bar 
+* * handle properties changed * * * * view * * * action bar 
+* * handle properties changed * * * * view * * * edit pane 
+* * handle properties changed * * * * view * * * status bar 
+* * handle properties changed * * * * view * * * input handler 
+* * handle properties changed * * * properties changed * * * * view 
+* * handle properties changed * * * properties changed * * dockable window manager 
+* * handle properties changed * * * properties changed * * tool bar manager 
+* * handle properties changed * * * properties changed * * * search bar 
+* * handle properties changed * * * properties changed * * * action bar 
+* * handle properties changed * * * properties changed * * * edit pane 
+* * handle properties changed * * * properties changed * * * status bar 
+* * handle properties changed * * * properties changed * * * input handler 

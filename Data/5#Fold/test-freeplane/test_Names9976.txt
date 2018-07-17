@@ -1,0 +1,4 @@
+* * * add attribute * * tree xml reader * * * read manager 
+* * * add attribute * * tree xml reader * x m l parser 
+* * * add attribute * * tree xml reader * x m l element 
+* * * add attribute * * tree xml reader std x m l builder 

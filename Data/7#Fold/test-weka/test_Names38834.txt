@@ -1,0 +1,6 @@
+* * capabilities filter changed * * attribute selection panel * * * * explorer 
+* * capabilities filter changed * * attribute selection panel * * generic object editor 
+* * capabilities filter changed * * attribute selection panel * * * property panel 
+* * capabilities filter changed * * attribute selection panel * * * save buffer 
+* * capabilities filter changed * * attribute selection panel * * result history panel 
+* * capabilities filter changed * * attribute selection panel * * * * instances 

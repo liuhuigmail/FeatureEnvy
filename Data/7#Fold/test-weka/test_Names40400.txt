@@ -1,0 +1,1 @@
+* * * step init instance stream to batch maker * * * * instances 

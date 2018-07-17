@@ -1,0 +1,2 @@
+* add components to pane * * file properties dialog * v f s browser 
+* add components to pane * * file properties dialog * v f s file 

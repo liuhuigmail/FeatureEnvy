@@ -1,0 +1,2 @@
+* * * to object b s h ambiguous name * * * call stack 
+* * * to object b s h ambiguous name * * * * interpreter 

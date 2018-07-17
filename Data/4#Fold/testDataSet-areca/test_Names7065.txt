@@ -1,0 +1,3 @@
+* * * add processors * * * processors table * * * processor list 
+* * * add processors * * * processors table * * * resource manager 
+* * * add processors * * * processors table * * target edition window 

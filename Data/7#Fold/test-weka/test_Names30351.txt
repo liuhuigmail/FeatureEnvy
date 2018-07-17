@@ -1,0 +1,3 @@
+* set r o c * * predictive model quality * * r o c 
+* set r o c * * predictive model quality * * * confusion matrix 
+* set r o c * * predictive model quality * * * lift data 

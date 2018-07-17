@@ -1,0 +1,2 @@
+* * * next element * * tar entry enumerator * * tar input stream 
+* * * next element * * tar entry enumerator * * * tar entry 

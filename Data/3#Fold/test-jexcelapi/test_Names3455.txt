@@ -1,0 +1,11 @@
+* * set text object * * * check box * * text object record 
+* * set text object * * * check box * * * * logger 
+* * set text object * * * check box * * * escher container 
+* * set text object * * * check box * * mso drawing record 
+* * set text object * * * check box * * * obj record 
+* * set text object * * * check box * * * * origin 
+* * set text object * * * check box * * * drawing group 
+* * set text object * * * check box * * * drawing data 
+* * set text object * * * check box * * * shape type 
+* * set text object * * * check box * * * continue record 
+* * set text object * * * check box * * * workbook settings 

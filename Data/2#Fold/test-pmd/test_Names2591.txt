@@ -1,0 +1,3 @@
+* * * * init * * * main frame * * * viewer model 
+* * * * init * * * main frame * * source code panel 
+* * * * init * * * main frame * * x path panel 

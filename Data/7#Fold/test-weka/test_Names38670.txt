@@ -1,0 +1,11 @@
+* * print predictions header * * * classifier panel * * * abstract output 
+* * print predictions header * * * classifier panel * * * * explorer 
+* * print predictions header * * * classifier panel * * generic object editor 
+* * print predictions header * * * classifier panel * * * property panel 
+* * print predictions header * * * classifier panel * * * save buffer 
+* * print predictions header * * * classifier panel * * result history panel 
+* * print predictions header * * * classifier panel * * * * range 
+* * print predictions header * * * classifier panel * * * property dialog 
+* * print predictions header * * * classifier panel * * cost matrix editor 
+* * print predictions header * * * classifier panel * * * * instances 
+* * print predictions header * * * classifier panel * * * visualize panel 

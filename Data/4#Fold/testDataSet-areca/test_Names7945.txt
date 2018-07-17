@@ -1,0 +1,1 @@
+* * init output stream * * * file tool * * abstract metadata adapter 

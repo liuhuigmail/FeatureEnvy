@@ -1,0 +1,12 @@
+* * copy cell format * * * sheet copier * * * * logger 
+* * copy cell format * * * sheet copier * * * sheet impl 
+* * copy cell format * * * sheet copier * * writable sheet impl 
+* * copy cell format * * * sheet copier * * * workbook settings 
+* * copy cell format * * * sheet copier * * * formatting records 
+* * copy cell format * * * sheet copier * * * merged cells 
+* * copy cell format * * * sheet copier * * * sheet writer 
+* * copy cell format * * * sheet copier * * * auto filter 
+* * copy cell format * * * sheet copier * * * data validation 
+* * copy cell format * * * sheet copier * * * combo box 
+* * copy cell format * * * sheet copier * p l s record 
+* * copy cell format * * * sheet copier * button property set record 

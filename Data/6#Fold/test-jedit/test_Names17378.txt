@@ -1,0 +1,2 @@
+* * * * invoke j edit bean shell action * * * text area 
+* * * * invoke j edit bean shell action * * * bsh method 

@@ -1,0 +1,4 @@
+* * * global info * * flow by expression * * * * instances 
+* * * global info * * flow by expression * * * * environment 
+* * * global info * * flow by expression * * * instance event 
+* * * global info * * flow by expression * * * bean visual 

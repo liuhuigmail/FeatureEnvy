@@ -1,0 +1,2 @@
+* * set distance function * * nearest neighbour search * * * * instances 
+* * set distance function * * nearest neighbour search * * * performance stats 

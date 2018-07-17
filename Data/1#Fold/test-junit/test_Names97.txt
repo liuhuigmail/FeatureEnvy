@@ -1,0 +1,4 @@
+* * * get notifier * * * test result j unit 4 test adapter 
+* * * get notifier * * * test result j unit 4 test adapter 
+* * * get notifier j unit 4 test adapter * * * test result 
+* * * get notifier j unit 4 test adapter j unit 4 test adapter 

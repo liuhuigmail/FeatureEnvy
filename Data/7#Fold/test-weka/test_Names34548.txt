@@ -1,0 +1,2 @@
+* * set attribute type * * * remove type * * * selected tag 
+* * set attribute type * * * remove type * * * * remove 

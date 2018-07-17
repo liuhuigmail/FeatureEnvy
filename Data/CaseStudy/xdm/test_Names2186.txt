@@ -1,0 +1,17 @@
+* * add 2 q x d m main window * * download list item 
+* * add 2 q x d m main window x d m video panel 
+* * add 2 q x d m main window * * main table model 
+* * add 2 q x d m main window * * * download list 
+* * add 2 q x d m main window * x d m config 
+* * add 2 q x d m main window x d m tool bar 
+* * add 2 q x d m main window x d m button u 
+* * add 2 q x d m main window * * * config dialog 
+* * add 2 q x d m main window * * * batch dlg 
+* * add 2 q x d m main window * * batch download dlg 
+* * add 2 q x d m main window * * media table model 
+* * add 2 q x d m main window * * youtube grabber dlg 
+* * add 2 q x d m main window * * browser integration dlg 
+* * add 2 q x d m main window * * * about dialog 
+* * add 2 q x d m main window * * * assemble dialog 
+* * add 2 q x d m main window * * * drop box 
+* * add 2 q x d m main window * * * side panel 

@@ -1,0 +1,2 @@
+* * * add factory m external image drop listener * * * viewer controller 
+* * * add factory m external image drop listener * external image popup menu 

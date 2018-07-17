@@ -1,0 +1,4 @@
+* * * * rationalize * * * formatting records * * * index mapping 
+* * * * rationalize * * * formatting records * * * * logger 
+* * * * rationalize * * * formatting records * * * * fonts 
+* * * * rationalize * * * formatting records * * * palette record 

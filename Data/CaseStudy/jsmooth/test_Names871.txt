@@ -1,0 +1,5 @@
+* * * show page * * j smooth application * * j smooth page 
+* * * show page * * j smooth application * * j smooth action 
+* * * show page * * j smooth application * j smooth model bean 
+* * * show page * * j smooth application * * * exe compiler 
+* * * show page * * j smooth application * * * skeleton list 

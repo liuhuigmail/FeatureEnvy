@@ -1,0 +1,11 @@
+* * update capabilities filter * * * classifier panel * * * * capabilities 
+* * update capabilities filter * * * classifier panel * * * * explorer 
+* * update capabilities filter * * * classifier panel * * generic object editor 
+* * update capabilities filter * * * classifier panel * * * property panel 
+* * update capabilities filter * * * classifier panel * * * save buffer 
+* * update capabilities filter * * * classifier panel * * result history panel 
+* * update capabilities filter * * * classifier panel * * * * range 
+* * update capabilities filter * * * classifier panel * * * property dialog 
+* * update capabilities filter * * * classifier panel * * cost matrix editor 
+* * update capabilities filter * * * classifier panel * * * * instances 
+* * update capabilities filter * * * classifier panel * * * visualize panel 

@@ -1,0 +1,3 @@
+* perform set font size * * * attribute registry * * * attribute controller 
+* perform set font size * * * attribute registry * * u i icon 
+* perform set font size * * * attribute registry * * * mode controller 

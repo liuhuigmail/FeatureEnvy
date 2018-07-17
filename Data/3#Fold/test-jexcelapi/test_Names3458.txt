@@ -1,0 +1,11 @@
+* * * add mso * * * check box * * mso drawing record 
+* * * add mso * * * check box * * * * logger 
+* * * add mso * * * check box * * * escher container 
+* * * add mso * * * check box * * * obj record 
+* * * add mso * * * check box * * * * origin 
+* * * add mso * * * check box * * * drawing group 
+* * * add mso * * * check box * * * drawing data 
+* * * add mso * * * check box * * * shape type 
+* * * add mso * * * check box * * text object record 
+* * * add mso * * * check box * * * continue record 
+* * * add mso * * * check box * * * workbook settings 

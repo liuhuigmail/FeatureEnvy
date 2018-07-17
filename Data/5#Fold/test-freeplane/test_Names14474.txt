@@ -1,0 +1,5 @@
+* set freeplane menu bar * * freeplane menu bar * * application view controller 
+* set freeplane menu bar * * freeplane menu bar * navigation next map action 
+* set freeplane menu bar * * freeplane menu bar * navigation previous map action 
+* set freeplane menu bar * * freeplane menu bar * * * resource controller 
+* set freeplane menu bar * * freeplane menu bar * map view docking windows 

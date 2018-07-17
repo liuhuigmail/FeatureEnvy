@@ -1,0 +1,2 @@
+* * set row details * * * row record * * x f record 
+* * set row details * * * row record * * * * logger 

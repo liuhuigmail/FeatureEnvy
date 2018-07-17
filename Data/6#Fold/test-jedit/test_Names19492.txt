@@ -1,0 +1,1 @@
+* * set resize pos * dockable window manager impl * * panel window container 

@@ -1,0 +1,14 @@
+* * set macro recorder * * * * view * * dockable window manager 
+* * set macro recorder * * * * view * * tool bar manager 
+* * set macro recorder * * * * view * * * search bar 
+* * set macro recorder * * * * view * * * action bar 
+* * set macro recorder * * * * view * * * edit pane 
+* * set macro recorder * * * * view * * * status bar 
+* * set macro recorder * * * * view * * * input handler 
+* * set macro recorder * * * * view * * dockable window manager 
+* * set macro recorder * * * * view * * tool bar manager 
+* * set macro recorder * * * * view * * * search bar 
+* * set macro recorder * * * * view * * * action bar 
+* * set macro recorder * * * * view * * * edit pane 
+* * set macro recorder * * * * view * * * status bar 
+* * set macro recorder * * * * view * * * input handler 

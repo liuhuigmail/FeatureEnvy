@@ -1,0 +1,2 @@
+* * determine output format * * merge nominal values * * * * instances 
+* * determine output format * * merge nominal values * * * * range 

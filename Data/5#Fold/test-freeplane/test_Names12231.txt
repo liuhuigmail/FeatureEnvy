@@ -1,0 +1,2 @@
+* * * create condition * * * named object * * priority condition controller 
+* * * create condition * * * named object * * * icon store 

@@ -1,0 +1,2 @@
+* * * copy original g o e step editor * * step manager impl 
+* * * copy original g o e step editor * * property sheet panel 

@@ -1,0 +1,4 @@
+* create conditional style pane a manage conditional styles action * * * map model 
+* create conditional style pane a manage conditional styles action * * conditional style model 
+* create conditional style pane * * * map model a manage conditional styles action 
+* create conditional style pane * * * map model * * conditional style model 

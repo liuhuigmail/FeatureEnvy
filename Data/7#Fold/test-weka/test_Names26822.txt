@@ -1,0 +1,3 @@
+* * * vectorize instance * * * dictionary builder * * * * instances 
+* * * vectorize instance * * * dictionary builder * * * * tokenizer 
+* * * vectorize instance * * * dictionary builder * * * * range 

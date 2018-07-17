@@ -1,0 +1,7 @@
+* evaluate fold c v * * * decision table * * * * instances 
+* evaluate fold c v * * * decision table * * * * filter 
+* evaluate fold c v * * * decision table * * * * remove 
+* evaluate fold c v * * * decision table * * * i bk 
+* evaluate fold c v * * * decision table * * a s search 
+* evaluate fold c v * * * decision table * * a s evaluation 
+* evaluate fold c v * * * decision table * * * * evaluation 

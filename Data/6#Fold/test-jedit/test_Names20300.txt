@@ -1,0 +1,1 @@
+* * load plugin set * * * install panel * * * plugin manager 

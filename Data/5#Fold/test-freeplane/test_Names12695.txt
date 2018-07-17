@@ -1,0 +1,5 @@
+* * fire node inserted * * * map controller * * * node model 
+* * fire node inserted * * * map controller * * * map reader 
+* * fire node inserted * * * map controller * * * map writer 
+* * fire node inserted * * * map controller * * * read manager 
+* * fire node inserted * * * map controller * * * write manager 

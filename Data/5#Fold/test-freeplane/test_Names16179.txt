@@ -1,0 +1,1 @@
+* calculate new node index * m node motion listener * * * node view 

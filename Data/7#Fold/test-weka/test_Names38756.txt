@@ -1,0 +1,8 @@
+* * * save clusterer * * * clusterer panel * * * * instances 
+* * * save clusterer * * * clusterer panel * * * * explorer 
+* * * save clusterer * * * clusterer panel * * generic object editor 
+* * * save clusterer * * * clusterer panel * * * property panel 
+* * * save clusterer * * * clusterer panel * * * save buffer 
+* * * save clusterer * * * clusterer panel * * result history panel 
+* * * save clusterer * * * clusterer panel * * * visualize panel 
+* * * save clusterer * * * clusterer panel * * instances summary panel 

@@ -1,0 +1,2 @@
+fix self looped connector shape * * * link builder * * * connector model 
+fix self looped connector shape * * * link builder * * * link controller 

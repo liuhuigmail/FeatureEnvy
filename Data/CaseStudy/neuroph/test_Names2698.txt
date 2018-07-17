@@ -1,0 +1,2 @@
+* * * remove neuron * * * * layer * * * * neuron 
+* * * remove neuron * * * * layer * * * neural network 

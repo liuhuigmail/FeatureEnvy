@@ -1,0 +1,4 @@
+add v f s file * * * action context * v f s browser 
+add v f s file * * * action context * * * * view 
+add v f s file * * * action context * * history text field 
+add v f s file * * * action context * * * browser view 

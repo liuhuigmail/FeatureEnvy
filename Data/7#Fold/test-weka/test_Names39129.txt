@@ -1,0 +1,2 @@
+* * * initiate connection * * * layout panel * * * step visual 
+* * * initiate connection * * * layout panel * * * visible layout 

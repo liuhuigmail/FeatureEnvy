@@ -1,0 +1,2 @@
+* * * * eval b s h ternary expression * * * call stack 
+* * * * eval b s h ternary expression * * * * interpreter 

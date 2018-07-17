@@ -1,0 +1,9 @@
+* * show logical view * * * * application * * * trace entry 
+* * show logical view * * * * application * * * resource manager 
+* * show logical view * * * * application * c tab folder manager 
+* * show logical view * * * * application * * * * workspace 
+* * show logical view * * * * application * * * main window 
+* * show logical view * * * * application * * entry archive data 
+* * show logical view * * * * application * u i recovery filter 
+* * show logical view * * * * application * * * file tool 
+* * show logical view * * * * application * * * simulation result 

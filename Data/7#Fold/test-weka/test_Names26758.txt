@@ -1,0 +1,3 @@
+* set average doc length * * * dictionary builder * * * * instances 
+* set average doc length * * * dictionary builder * * * * tokenizer 
+* set average doc length * * * dictionary builder * * * * range 

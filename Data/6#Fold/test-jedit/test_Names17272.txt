@@ -1,0 +1,8 @@
+* handle edit pane update * * * * view * * edit pane update 
+* handle edit pane update * * * * view * * dockable window manager 
+* handle edit pane update * * * * view * * tool bar manager 
+* handle edit pane update * * * * view * * * search bar 
+* handle edit pane update * * * * view * * * action bar 
+* handle edit pane update * * * * view * * * edit pane 
+* handle edit pane update * * * * view * * * status bar 
+* handle edit pane update * * * * view * * * input handler 

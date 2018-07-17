@@ -1,0 +1,5 @@
+* * * process package * * knowledge flow app * * hierarchy property parser 
+* * * process package * * knowledge flow app * * * bean instance 
+* * * process package * * knowledge flow app * * attribute selection panel 
+* * * process package * * knowledge flow app * * * * environment 
+* * * process package * * knowledge flow app * * * * memory 

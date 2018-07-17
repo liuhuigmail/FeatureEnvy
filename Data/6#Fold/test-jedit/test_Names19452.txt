@@ -1,0 +1,1 @@
+* * is alternate layout * * * dockable layout * * * dockable panel 

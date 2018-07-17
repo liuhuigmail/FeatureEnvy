@@ -1,0 +1,2 @@
+* * test neural network * * lenses classification sample * * * neural network 
+* * test neural network * * lenses classification sample * * * data set 

@@ -1,0 +1,3 @@
+* * get local transformations * * * mining schema * * * * instances 
+* * get local transformations * * * mining schema * * * transformation dictionary 
+* * get local transformations * * * mining schema * * target meta info 

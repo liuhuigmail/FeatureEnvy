@@ -1,0 +1,2 @@
+* * * set background * * writable cell format * * * * colour 
+* * * set background * * writable cell format * * * * pattern 

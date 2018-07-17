@@ -1,0 +1,4 @@
+* * * * remove * * * * logger * * * drawing group 
+* * * * remove * * * * logger * * * escher container 
+* * * * remove * * * * logger * * b store container 
+* * * * remove * * * * logger * * * * origin 

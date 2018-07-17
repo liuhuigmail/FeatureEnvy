@@ -1,0 +1,3 @@
+* * mins and maxs * * * * instances * c 4 5 split 
+* * mins and maxs * * * * instances * info gain split crit 
+* * mins and maxs * * * * instances * gain ratio split crit 

@@ -1,0 +1,3 @@
+* * * select continuous * * * map view * * * node view 
+* * * select continuous * * * map view * * * mode controller 
+* * * select continuous * * * map view * * * map model 

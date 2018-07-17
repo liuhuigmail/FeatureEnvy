@@ -1,0 +1,3 @@
+* * * normalize instance * * * dictionary builder * * * * instances 
+* * * normalize instance * * * dictionary builder * * * * tokenizer 
+* * * normalize instance * * * dictionary builder * * * * range 

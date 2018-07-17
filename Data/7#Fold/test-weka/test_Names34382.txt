@@ -1,0 +1,1 @@
+* * * * input * * * * range * * numeric to binary 

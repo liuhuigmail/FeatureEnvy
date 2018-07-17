@@ -1,0 +1,6 @@
+* * add style menu * m logical style controller * * * menu builder 
+* * add style menu * m logical style controller * * * map model 
+* * add style menu * m logical style controller * * filter composer dialog 
+* * add style menu * * * menu builder * m logical style controller 
+* * add style menu * * * menu builder * * * map model 
+* * add style menu * * * menu builder * * filter composer dialog 

@@ -1,0 +1,3 @@
+* * * register by * * * read manager * * * link builder 
+* * * register by * * * read manager * * * write manager 
+* * * register by * * * read manager * * * link controller 

@@ -1,0 +1,10 @@
+* * handle properties changed * * * properties changed * v f s browser 
+* * handle properties changed * * * properties changed * * * action context 
+* * handle properties changed * * * properties changed * * * * view 
+* * handle properties changed * * * properties changed * * history text field 
+* * handle properties changed * * * properties changed * * * browser view 
+* * handle properties changed * * * properties changed * v f s browser 
+* * handle properties changed * * * properties changed * * * action context 
+* * handle properties changed * * * properties changed * * * * view 
+* * handle properties changed * * * properties changed * * history text field 
+* * handle properties changed * * * properties changed * * * browser view 

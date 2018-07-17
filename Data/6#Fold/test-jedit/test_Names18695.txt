@@ -1,0 +1,3 @@
+* * * set node * * * simple node * * * name space 
+* * * set node * * * simple node * * bsh class manager 
+* * * set node * * * simple node * * * * this 

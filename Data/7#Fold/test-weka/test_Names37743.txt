@@ -1,0 +1,3 @@
+* * notify data listeners instance stream to batch maker * * data set event 
+* * notify data listeners instance stream to batch maker * * * bean visual 
+* * notify data listeners instance stream to batch maker * * * * instances 

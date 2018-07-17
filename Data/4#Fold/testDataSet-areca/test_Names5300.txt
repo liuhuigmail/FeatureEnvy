@@ -1,0 +1,5 @@
+* * * process recover * areca raw file list * * * abstract target 
+* * * process recover * areca raw file list * * abstract copy policy 
+* * * process recover * areca raw file list * * * process context 
+* * * process recover * areca raw file list * * * filter group 
+* * * process recover * areca raw file list * * * processor list 

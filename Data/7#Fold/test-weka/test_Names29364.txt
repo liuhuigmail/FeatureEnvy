@@ -1,0 +1,3 @@
+* * * global info * * * ball tree * * tree performance stats 
+* * * global info * * * ball tree * * * ball node 
+* * * global info * * * ball tree * * ball tree constructor 

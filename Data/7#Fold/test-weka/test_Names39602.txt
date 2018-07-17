@@ -1,0 +1,6 @@
+* * * history changed * * * sql viewer * * history changed event 
+* * * history changed * * * sql viewer * * * connection panel 
+* * * history changed * * * sql viewer * * * query panel 
+* * * history changed * * * sql viewer * * * result panel 
+* * * history changed * * * sql viewer * * * info panel 
+* * * history changed * * * sql viewer * * * * memory 

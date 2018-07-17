@@ -1,0 +1,4 @@
+* * open visible instances * * * visualize panel * * * * instances 
+* * open visible instances * * * visualize panel * * * attribute panel 
+* * open visible instances * * * visualize panel * * * legend panel 
+* * open visible instances * * * visualize panel * * * class panel 

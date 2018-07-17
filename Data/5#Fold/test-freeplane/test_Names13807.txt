@@ -1,0 +1,1 @@
+* create a selectable condition * node text condition controller * * * named object 

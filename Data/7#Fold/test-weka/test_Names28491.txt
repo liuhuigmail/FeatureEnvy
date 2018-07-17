@@ -1,0 +1,1 @@
+* * * global info * * * dictionary saver * * * dictionary builder 

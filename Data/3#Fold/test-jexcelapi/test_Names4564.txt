@@ -1,0 +1,3 @@
+* * * * copy * * * writable workbook * * * * workbook 
+* * * * copy * * * writable workbook * * * writable font 
+* * * * copy * * * writable workbook * * writable cell format 

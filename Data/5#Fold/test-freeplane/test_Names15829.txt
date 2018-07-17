@@ -1,0 +1,4 @@
+* * * view removed * * * attribute table * * * node view 
+* * * view removed * * * attribute table * attribute table cell renderer 
+* * * view removed * * * attribute table * * * cursor updater 
+* * * view removed * * * attribute table * * * attribute view 

@@ -1,0 +1,3 @@
+* * * set margins * * * setup record * * * * logger 
+* * * set margins * * * setup record * * * page orientation 
+* * * set margins * * * setup record * * * page order 

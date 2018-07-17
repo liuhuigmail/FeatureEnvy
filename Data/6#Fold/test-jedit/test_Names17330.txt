@@ -1,0 +1,2 @@
+* * toggle line separator * * * * view * * * * buffer 
+* * toggle line separator * * * * view * * * token marker 

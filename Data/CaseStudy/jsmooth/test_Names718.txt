@@ -1,0 +1,1 @@
+* * * * bind * * skel prop editor * * * skeleton property 

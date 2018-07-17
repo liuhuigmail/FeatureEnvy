@@ -1,0 +1,4 @@
+* notify capabilities filter listeners * * * workbench app * * * * capabilities 
+* notify capabilities filter listeners * * * workbench app * * * * memory 
+* notify capabilities filter listeners * * * workbench app * * * preprocess panel 
+* notify capabilities filter listeners * * * workbench app * * * * settings 

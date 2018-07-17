@@ -1,0 +1,8 @@
+* * visualize cluster assignments * * * visualize panel * * * clusterer panel 
+* * visualize cluster assignments * * * visualize panel * * * * explorer 
+* * visualize cluster assignments * * * visualize panel * * generic object editor 
+* * visualize cluster assignments * * * visualize panel * * * property panel 
+* * visualize cluster assignments * * * visualize panel * * * save buffer 
+* * visualize cluster assignments * * * visualize panel * * result history panel 
+* * visualize cluster assignments * * * visualize panel * * * * instances 
+* * visualize cluster assignments * * * visualize panel * * instances summary panel 

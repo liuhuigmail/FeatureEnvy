@@ -1,0 +1,3 @@
+* * * build classifier n b tree no split * * * * instances 
+* * * build classifier n b tree no split * * naive bayes updateable 
+* * * build classifier n b tree no split * * * * discretize 

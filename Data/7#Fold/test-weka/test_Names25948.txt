@@ -1,0 +1,3 @@
+* * handle numeric attribute * n b tree split * * * * instances 
+* * handle numeric attribute * n b tree split * c 4 5 split 
+* * handle numeric attribute * n b tree split n b tree no split 
