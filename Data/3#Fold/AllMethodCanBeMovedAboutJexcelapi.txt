@@ -327,3 +327,5 @@ writeCells jxl.write.biff.File, jxl.write.biff.RowRecord jxl.write.biff.File 0
 writeIntegerValues java.util.ArrayList,jxl.write.biff.File, jxl.write.biff.RowRecord jxl.write.biff.File 0
 rationalize jxl.biff.IndexMapping, jxl.write.biff.RowRecord jxl.biff.IndexMapping 0
 getData 0 jxl.write.biff.SelectionRecord jxl.write.biff.SelectionRecord.PaneType 0
+
+
