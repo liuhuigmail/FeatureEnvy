@@ -1,0 +1,35 @@
+How to get tests from Maven
+
+Using our dt-fixing-tools to get the list of tests from Maven without running the tests. 
+
+Based on the our tool:
+ https://github.com/TestingResearchIllinois/testrunner
+ https://github.com/TestingResearchIllinois/dt-fixing-tools
+
+I use the command "mvn testrunner:testplugin -Dtestplugin.className=edu.illinois.cs.dt.tools.utility.GetTestFilePlugin  -fn -B -e |& tee get-test-file.log". However, it does not produce the file as expected. Notably, there are two different dependencies about testrunner between the pom.xmls.
+
+1.<groupId>com.reedoei</groupId>(dt-fixing-tools) vs <groupId>edu.illinois.cs</groupId>(testrunner)
+
+2.<version>0.1-SNAPSHOT</version>(dt-fixing-tools) vs <version>1.0-SNAPSHOT</version> (testrunner)
+ 
+
+I  replace <groupId>com.reedoei</groupId> in pom.xml of dt-fixing-tools with <groupId>edu.illinois.cs</groupId>
+Some error message like:
+Caused by: java.lang.NullPointerException
+    at edu.illinois.cs.dt.tools.utility.PathManager.modulePath (PathManager.java:11)
+    at edu.illinois.cs.dt.tools.utility.PathManager.cachePath (PathManager.java:34)
+    at edu.illinois.cs.dt.tools.utility.PathManager.path (PathManager.java:41)
+    at edu.illinois.cs.dt.tools.detection.DetectorPathManager.errorPath (DetectorPathManager.java:47)
+    at edu.illinois.cs.dt.tools.utility.ErrorLogger.writeError (ErrorLogger.java:87)
+    at edu.illinois.cs.dt.tools.utility.ErrorLogger.runAndLogError (ErrorLogger.java:52)
+    at edu.illinois.cs.dt.tools.utility.GetTestFilePlugin.execute (GetTestFilePlugin.java:58)
+
+I replace "com.reedoei" with "edu.illinois.cs" and "0.1-SNAPSHOT" with "1.0-SNAPSHOT"
+The error message like:
+[WARNING] The POM for edu.illinois.cs:testrunner-maven-plugin:jar:1.0-SNAPSHOT is missing, no dependency information available
+[ERROR] No plugin found for prefix 'testrunner' in the current project and in the plugin groups 
+
+This PR proposes to confirm:
+how to modify the pom file?
+
+Please let me know if I used it incorrectly.
